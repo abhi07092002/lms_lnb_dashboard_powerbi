@@ -1,0 +1,1001 @@
+Name,Registration Number,Course,Mode,Date of Joining,Date of Finishing,College Name,Degree,Year,Gender,Email,Phone Number,Alternative Number,Assignment 1,Assignment 2,Assignment 3,Assignment 4,Assignment 5,Attendance
+Adah Tata,1000,Front-end web development,Offline,04-07-2023,07/27/2023,"Bala, Banik and Chada",IT,2,Female,anay33@example.com,4566135432,7913797770,71,12,17,79,23,PPPAAPAA
+Devansh Cherian,1001,Salesforces admin,Offline,06/22/2023,10/16/2023,"Bobal, Tata and Soni",MCA,2,Male,jsule@example.com,5946416754,8201289,4,21,20,2,33,AAAAPPAA
+Shlok Sharma,1002,Mobile app development with Flutter and Cloud with AWS,Online,11-02-2023,02-01-2024,Karnik Group,BBA,3,Male,piya28@example.net,3992935988,1953005,92,3,55,64,49,APAPAPPP
+Ira Som,1003,IOT with AI,Online,05/20/2023,10/21/2023,Bhat Inc,BCA,3,Male,elakshiapte@example.org,3679233181,6559550566,54,41,47,41,98,APPAPAPA
+Navya Shenoy,1004,Front-end web development,Online,04-06-2023,08-01-2023,Dhillon Inc,BCA,3,Male,rania01@example.com,67889,4209015,98,78,85,3,47,APAPPAAA
+Rohan Dara,1005,IOT with AI,Offline,12/31/2023,03/15/2024,"Kumar, Gulati and Mahajan",BCA,3,Female,vritika02@example.net,210149,18925639,40,82,13,49,76,PPAAPAAA
+Hrishita Mammen,1006,IOT with AI,Online,01-04-2024,06/28/2024,Vig-Kurian,M.tech,4,Female,daliamehul@example.org,26132708,7029579079,40,97,55,91,45,PAPPPAPA
+Uthkarsh Thaker,1007,Front-end web development,Online,12/18/2023,03-03-2024,Gulati LLC,BCA,1,Male,rajaneshani@example.com,6601149511,1685769,51,38,51,43,16,APAPPAAA
+Divit Bhatnagar,1008,Front-end web development,Online,10-01-2023,12-02-2023,Brar Ltd,IT,1,Female,niyer@example.com,211460,78067244,49,36,33,23,14,PAAAPPPP
+Jayant Bhagat,1009,Backend-end development,Offline,10/16/2023,12/19/2023,Randhawa-Bhasin,BCA,1,Male,singhadvik@example.net,45903661,8473390,45,71,28,4,40,PAPPAPPA
+Renee Dhar,1010,IOT with AI,Offline,06-05-2023,11-06-2023,Karpe Group,IT,3,Female,msawhney@example.com,97270917,6026538842,89,87,19,34,84,PPPPPPAP
+Ivan Bhatnagar,1011,AI/ML,Offline,08-07-2023,01-11-2024,Sastry-Kala,IT,4,Female,xmahajan@example.com,44773621,7369893441,89,13,55,46,58,PPAAPPPA
+Jayesh Sama,1012,Front-end web development,Offline,07/31/2023,10-11-2023,"Bal, Mallick and Tak",MCA,4,Male,godaarnav@example.com,52049770,23931300,90,70,54,65,45,PAAPAPAP
+Samaira Majumdar,1013,Salesforce development,Offline,12-08-2023,05/29/2024,"Soni, Bahl and Buch",BCA,1,Male,neelofarmani@example.net,24205634,7892207,49,16,37,29,96,APAAPPAP
+Kimaya Bhatti,1014,Backend-end development,Online,03-03-2023,06/20/2023,Bhatnagar-Behl,BBA,4,Male,keyatiwari@example.net,8045074,26425883,54,19,79,50,19,APAPAPAA
+Chirag Sundaram,1015,Backend-end development,Offline,12/19/2023,04/23/2024,"Srinivasan, Sengupta and Aurora",MCA,1,Female,anaya76@example.org,42410120,2924667360,38,15,0,33,55,APAAPAPA
+Ehsaan Krish,1016,Data Science,Offline,12/15/2023,04/14/2024,"Hayer, Chacko and Krishna",BBA,2,Male,hchander@example.com,8780148105,4141906,78,3,35,83,36,APPPAAAA
+Mamooty Kalla,1017,AI/ML,Offline,08/16/2023,01-06-2024,Chanda-Raju,MCA,1,Female,mohanlalchokshi@example.com,34265805,9360992030,66,79,50,50,73,PPAAAPAA
+Dhanuk Sagar,1018,Backend-end development,Online,02/15/2024,06-07-2024,"Kapur, Bassi and Majumdar",MCA,2,Female,vritika49@example.net,847775,6999221247,1,47,49,18,17,APAPAAAA
+Nakul Ratta,1019,IOT with AI,Online,09/24/2023,12-05-2023,Roy-Bedi,IT,3,Female,divit43@example.net,5053564,5590349,55,76,27,67,84,PPPPAPPP
+Yashvi Lad,1020,AI/ML,Offline,01/23/2024,06/21/2024,Chandran and Sons,M.tech,1,Female,tellashalv@example.net,8522062986,9948873491,36,67,7,95,20,PAPPPAPP
+Diya Chandran,1021,Front-end web development,Online,06-12-2023,08/21/2023,"Kant, Sibal and Chakrabarti",BCA,4,Female,hthaman@example.net,1268149,9604671,90,11,70,38,59,APAAPPPP
+Sana Sachar,1022,Backend-end development,Online,02-10-2024,05-10-2024,Zachariah Group,B.tech,4,Male,nitaradoshi@example.com,13892901,2717532,70,73,96,0,31,APPAAPAA
+Priyansh Tak,1023,AI/ML,Online,07-05-2023,09/23/2023,Sood Inc,MCA,2,Female,ahana-65@example.org,57259986,8226390145,72,24,93,85,3,PAPPAAPP
+Samiha Borde,1024,IOT with AI,Offline,10/30/2023,02-11-2024,Dara-Saran,M.tech,1,Male,lsetty@example.com,7099316,20983610,46,32,33,87,56,AAAAPAAA
+Adira Manda,1025,Backend-end development,Offline,12-05-2023,02-07-2024,Banerjee Group,M.tech,1,Male,pbutala@example.com,76321545,4598951,92,61,9,58,97,AAPPAPPA
+Tushar Chaudhuri,1026,AI/ML,Offline,02-01-2024,04/19/2024,"Bajwa, Rao and Dhar",B.tech,4,Female,reyanshgoyal@example.org,9901429890,4366582627,94,0,100,44,10,AAPAAPAA
+Umang Lall,1027,Salesforces admin,Online,05-01-2023,07/15/2023,"Gokhale, Mangal and Badami",M.tech,1,Male,cheemamanikya@example.org,2900037,7278887,70,76,2,29,74,PPAAAPAP
+Saanvi Comar,1028,Data Science,Online,10/14/2023,02-12-2024,Golla-Ratta,IT,3,Female,raghav38@example.com,89643951,8945567954,2,17,35,1,81,APPAAPPP
+Badal Sane,1029,Mobile app development with Flutter and Cloud with AWS,Offline,03/18/2023,06/21/2023,Konda-Borra,MCA,2,Male,ravifateh@example.com,34680850,3967994875,3,21,29,72,77,AAPPAPAA
+Kimaya Goswami,1030,Salesforces admin,Offline,04/17/2023,08/26/2023,Sachdev and Sons,M.tech,2,Female,amira31@example.net,9517755,72852616,94,39,4,98,42,APPAPAPP
+Anika Dalal,1031,AI/ML,Offline,06/29/2023,12/15/2023,"Edwin, Taneja and Chakrabarti",BBA,2,Male,miraanchhabra@example.com,5204209,6074690,100,5,95,92,56,PAPAPAAA
+Vedika Rastogi,1032,Salesforces admin,Online,01/23/2024,04-12-2024,"Gopal, Varkey and Bobal",IT,2,Female,sana38@example.net,9831387,7586454891,1,80,26,55,75,AAAAPAAA
+Nayantara Dubey,1033,Data Science,Online,11/20/2023,02-11-2024,"Sodhi, Shroff and Ratti",MCA,3,Female,nkanda@example.org,5251789413,8767151628,14,15,41,47,90,PAAAPAAA
+Shalv Wali,1034,IOT with AI,Offline,06/27/2023,10/24/2023,Saran-Bhargava,MCA,3,Male,umanghora@example.com,9444672671,80296106,41,71,37,9,85,AAPPAPAA
+Jayant Sha,1035,Front-end web development,Online,12/18/2023,03/25/2024,Guha-Wagle,B.tech,1,Female,vidur63@example.com,93881865,143284837,49,70,60,78,20,AAPPPPAP
+Purab Gopal,1036,Front-end web development,Online,05-09-2023,09/21/2023,Bora-Dyal,BBA,1,Female,oshukla@example.org,9436175618,8099339287,71,49,15,59,78,PAPPAPAA
+Dhanuk Dave,1037,Salesforces admin,Online,05-06-2023,08-03-2023,Ram LLC,BCA,3,Male,nitara14@example.net,140829995,82534785,95,87,18,14,93,PPAPAPAA
+Ahana  Lalla,1038,IOT with AI,Online,09/18/2023,11/17/2023,"Bava, Chander and Gala",M.tech,4,Female,ukashyap@example.com,59839713,7793190516,84,57,87,42,40,AAPAAAPA
+Akarsh Shanker,1039,Mobile app development with Flutter and Cloud with AWS,Offline,10/26/2023,02/19/2024,Srinivas Group,IT,2,Female,xmall@example.org,61461849,68289232,1,9,90,57,49,AAPAAPAA
+Gokul Khare,1040,IOT with AI,Online,05/13/2023,10/31/2023,Bose-Sur,BCA,4,Female,evakrishnan@example.net,2211483,4112893,22,50,55,96,44,PAPPPAAA
+Armaan Ganesh,1041,Mobile app development with Flutter and Cloud with AWS,Online,01-04-2024,07-02-2024,Loke Group,IT,2,Female,hridaantank@example.org,9136035424,2489571,43,97,79,38,9,PPAPPAAA
+Akarsh Ramaswamy,1042,Salesforce development,Online,07/17/2023,11/13/2023,Sha-Das,BBA,3,Male,zandra@example.net,1878140769,6652018872,0,94,97,61,42,PAPAPAAP
+Hiran Kara,1043,Mobile app development with Flutter and Cloud with AWS,Offline,09/26/2023,12/29/2023,Vaidya Ltd,M.tech,4,Male,anahita82@example.net,52027204,2118530,57,36,77,18,60,AAAPAAPP
+Samar Datta,1044,Data Science,Online,08/14/2023,01-07-2024,"Kashyap, Som and Bakshi",B.tech,4,Female,ovyas@example.com,8164114,38368344,46,82,34,61,39,PPAPAPPA
+Kaira Sidhu,1045,Front-end web development,Offline,03/15/2023,08/26/2023,"Bhandari, Zachariah and Batta",M.tech,2,Female,cbali@example.org,5042553,7824956159,14,15,11,80,47,AAAAAAAA
+Azad Chander,1046,IOT with AI,Online,09/19/2023,02-04-2024,Ahuja-Dhar,BCA,2,Male,indranil29@example.com,15741682,4227051,65,52,68,57,55,APPPPPAP
+Onkar Tella,1047,Salesforce development,Offline,07/20/2023,01-05-2024,Khanna-Dhingra,BBA,4,Female,grewalaaryahi@example.com,5191723469,4918517298,3,97,26,1,98,APAAPPAP
+Jayesh Bhagat,1048,AI/ML,Online,03/23/2023,09-05-2023,"Buch, Dara and Ram",M.tech,2,Male,baijulala@example.net,13951222,47972113,32,36,33,49,40,PAAPAAPP
+Indrans Yohannan,1049,Front-end web development,Offline,12/18/2023,02/24/2024,Sem and Sons,MCA,1,Male,raghavsood@example.net,7270318,48763372,90,99,87,64,16,APPPAAAA
+Misha Madan,1050,Front-end web development,Online,03/18/2023,07/25/2023,"Chahal, Cherian and Bava",BBA,3,Female,tsubramaniam@example.com,7030330,2557602551,63,88,95,57,93,AAPAPAAA
+Vihaan Kumer,1051,Salesforce development,Online,01/18/2024,06-06-2024,"Madan, Varughese and Virk",M.tech,3,Female,doctormahika@example.com,1713359,59993118,33,68,31,20,63,PAAAPPAA
+Zaina Deo,1052,Backend-end development,Online,07-10-2023,01-03-2024,"Chopra, Keer and Bali",BCA,4,Female,myra04@example.net,5952605407,6549126520,3,86,67,11,55,AAAAAPAA
+Tejas Uppal,1053,Salesforces admin,Online,04/20/2023,07/29/2023,"Sawhney, Saha and Deol",IT,1,Male,baiju16@example.org,79367088,8869039832,32,53,0,11,100,PPPAAPAA
+Indrajit Rajagopal,1054,Salesforce development,Offline,12/20/2023,03/18/2024,Jain-Sant,BBA,3,Male,sbumb@example.com,8977235668,8063804027,75,10,67,27,82,AAAAAAPP
+Faiyaz Bava,1055,IOT with AI,Offline,12-05-2023,05-01-2024,"Char, Kadakia and Sane",BCA,4,Female,settyrania@example.org,6693055084,7969952866,1,43,90,6,38,AAAAPPAP
+Shamik Saini,1056,Salesforces admin,Offline,11-04-2023,02-12-2024,"Mall, Sood and Johal",MCA,4,Male,nirvaan02@example.org,89383188,69943536,63,77,98,23,17,PAAPAPAP
+Kabir Krishnan,1057,Mobile app development with Flutter and Cloud with AWS,Offline,02/16/2024,06/17/2024,Anand PLC,M.tech,1,Female,jupadhyay@example.org,2812608,9256158,68,85,72,60,94,APPAPAAA
+Misha Butala,1058,Backend-end development,Online,12/26/2023,05-03-2024,Buch and Sons,M.tech,3,Female,hridaan53@example.net,8937161,1085577054,65,13,54,71,74,PPAPAPAP
+Vidur Garg,1059,Front-end web development,Online,02/26/2023,06-05-2023,"Seshadri, Keer and Mand",BBA,3,Male,jayaramankashvi@example.com,4009947751,6245865,89,47,13,87,65,AAAAAPAP
+Ira Agrawal,1060,Data Science,Offline,10/23/2023,04-07-2024,Deo Ltd,M.tech,1,Female,suhana49@example.net,9237906,7640548,78,90,35,5,99,PPPPPAPA
+Anaya Lata,1061,Front-end web development,Offline,08/18/2023,11-11-2023,"Dass, Dhar and Gopal",BBA,3,Female,bvarkey@example.net,78976956,39455789,27,59,82,65,56,PAAPPPAP
+Priyansh Dara,1062,Salesforce development,Online,01/16/2024,03/30/2024,Bansal-Gole,BBA,2,Male,ddey@example.net,7418890,9368533138,98,84,15,43,26,APPPPAPP
+Fateh Mall,1063,Salesforce development,Offline,10-10-2023,03/28/2024,Ramesh Ltd,MCA,2,Female,sanghvianvi@example.net,23525482,8871689,16,14,62,18,97,APAPPPPP
+Bhamini Chahal,1064,Data Science,Online,10-05-2023,12/28/2023,"Reddy, Grover and Apte",IT,3,Male,tarinimander@example.net,79141979,356077051,39,83,39,40,67,PPAPPAPP
+Kanav Ranganathan,1065,Backend-end development,Offline,09/20/2023,03/17/2024,"Chad, Ramanathan and Bhandari",IT,4,Female,rati60@example.net,2700084,1791924626,19,12,11,58,68,APAPAPAP
+Ivana Mann,1066,Salesforce development,Online,05/16/2023,09/26/2023,Johal-Dey,MCA,4,Male,hazeliyengar@example.com,1172480668,43727021,99,98,2,36,98,PAAAPPPA
+Shamik Sethi,1067,Data Science,Offline,12/30/2023,04-05-2024,"Bhatia, Kothari and Varughese",M.tech,4,Female,divitbiswas@example.net,1738852482,6438551414,49,32,32,75,10,AAAPPAAP
+Riaan Chand,1068,Salesforce development,Offline,05/27/2023,09-01-2023,"Warrior, Sem and Ranganathan",IT,3,Female,wbera@example.net,25898627,63578633,8,58,60,23,14,PPPAAAAA
+Tejas Sinha,1069,Mobile app development with Flutter and Cloud with AWS,Offline,04-07-2023,09/27/2023,Reddy-Sule,M.tech,4,Female,dhaliwaltanya@example.com,140132080,2475912562,19,88,30,27,83,PAPAPPPA
+Rohan Raju,1070,Backend-end development,Online,11/24/2023,01/23/2024,Shenoy-Raju,M.tech,2,Male,yashvikurian@example.com,8966925952,3898073,31,21,23,6,62,AAAPPAAA
+Vidur Kibe,1071,IOT with AI,Online,03/28/2023,07/23/2023,Joshi-Yohannan,MCA,4,Male,jayantkale@example.com,5233825,32423563,68,71,60,95,77,APAPPAPP
+Khushi Barman,1072,Backend-end development,Online,08-08-2023,10/21/2023,"Kamdar, Bala and Soni",IT,2,Female,gbandi@example.org,3883566,21004941,89,73,51,17,79,APAAAPPP
+Anika Garg,1073,Salesforce development,Online,01/24/2024,05-08-2024,Hegde Inc,M.tech,4,Male,dugaradvika@example.com,42341075,3258138896,10,58,73,33,72,AAAAPAAA
+Shlok Tripathi,1074,Front-end web development,Offline,08-11-2023,10/29/2023,Bahri and Sons,BBA,3,Male,jayan15@example.org,6546656,2694980,95,80,49,26,57,APPPAPAA
+Madhup Kulkarni,1075,AI/ML,Online,12/22/2023,04-05-2024,Deshmukh Group,IT,2,Female,ramachandranzeeshan@example.org,45777902,485896,67,16,97,9,56,APPAPPPP
+Manjari Borde,1076,Salesforce development,Offline,10-07-2023,03/23/2024,Majumdar and Sons,BCA,4,Male,madhavkibe@example.com,5648042994,97568895,66,73,42,76,80,APPAPAPP
+Rasha Ahuja,1077,Salesforce development,Offline,06-10-2023,08/13/2023,Bhasin and Sons,B.tech,2,Male,aayush71@example.net,5647328,3007027,97,9,10,41,70,AAPPPAAA
+Ayesha Bhatnagar,1078,Salesforce development,Offline,12-05-2023,04/15/2024,"Mahajan, Deep and Lal",B.tech,1,Male,diyavig@example.org,3602609935,9946708755,0,51,82,54,86,PPPPPAPP
+Nakul Konda,1079,Data Science,Offline,07/21/2023,12/15/2023,Golla-Krish,MCA,2,Male,rajbiju@example.net,1739647555,4367538,90,50,45,38,60,APPPAAAA
+Suhana Dua,1080,Front-end web development,Offline,10-10-2023,02/28/2024,"Chaudhari, Mallick and Sanghvi",BBA,2,Female,drishya86@example.net,1894982,7944606420,11,24,14,37,9,PPPAPPPP
+Kabir Buch,1081,Salesforce development,Offline,11/29/2023,03/19/2024,Sampath-Tiwari,IT,4,Female,tusharchada@example.com,339473,5390243,30,27,87,47,23,APPPAPPA
+Shanaya Dugar,1082,Data Science,Offline,05/17/2023,07/20/2023,Banerjee-Ahuja,IT,2,Male,ela37@example.net,3894180609,91532689,54,48,50,90,2,PAAPAPAA
+Rhea Wali,1083,Backend-end development,Offline,04/20/2023,10/14/2023,Divan Ltd,IT,1,Male,soodsahil@example.org,634534793,26256836,91,2,4,72,69,APAAAPAA
+Anay Maharaj,1084,Backend-end development,Online,08-11-2023,12/21/2023,Wagle PLC,M.tech,2,Female,yasminiyer@example.org,7785328046,86682668,52,99,51,30,63,PPAPAAPA
+Madhav Sarna,1085,Salesforces admin,Online,04/27/2023,07/20/2023,"Chander, Jayaraman and Iyer",M.tech,1,Male,bansalkimaya@example.org,8137716569,4907423,75,50,25,99,92,APAPAPPA
+Raunak Vora,1086,Salesforce development,Online,09/22/2023,01/29/2024,"Soman, Kala and Bath",BBA,2,Female,ngole@example.com,248123,91201530,4,15,43,4,67,AAAPAPPP
+Myra Shah,1087,Salesforce development,Offline,11/30/2023,04/25/2024,Mani-Khanna,B.tech,4,Female,praja@example.org,700882418,3092891,60,11,90,22,61,APPPAPAA
+Darshit Krishna,1088,Backend-end development,Online,06-03-2023,10/15/2023,"Sandal, Kanda and Sen",M.tech,4,Female,nmangat@example.org,99257795,4620698,96,10,31,99,52,AAAPAAAA
+Bhamini Chaudry,1089,AI/ML,Online,06/28/2023,12-11-2023,Saha Inc,MCA,1,Male,ykrishnan@example.com,647919651,8317321,30,11,23,10,54,APPAAPAA
+Mishti Vohra,1090,Front-end web development,Online,12-10-2023,05/28/2024,Dhar-Shere,BCA,2,Female,vanyabatra@example.net,63499368,6257009,26,6,1,15,30,AAAPPAPA
+Stuvan Deshmukh,1091,IOT with AI,Offline,02-12-2024,04/19/2024,Seth-Dewan,MCA,3,Male,tarini88@example.net,461157264,54345607,98,58,92,66,80,AAAPPPAP
+Shray Solanki,1092,Mobile app development with Flutter and Cloud with AWS,Online,01/14/2024,04-04-2024,Dey Ltd,MCA,2,Male,heermammen@example.com,7392662788,2247867841,19,95,22,57,19,AAAAAAAP
+Gokul Gupta,1093,IOT with AI,Offline,09/25/2023,02/18/2024,Saxena-Lala,B.tech,1,Female,senpari@example.org,460149,8898451,1,97,1,21,64,PAPAPAPA
+Tarini Golla,1094,Data Science,Offline,12/28/2023,05-03-2024,Dara-Subramanian,M.tech,3,Female,khushisani@example.net,1920644,8593848,68,9,23,65,72,PPAAPPAP
+Divit Venkatesh,1095,Mobile app development with Flutter and Cloud with AWS,Offline,04-11-2023,08/21/2023,Rege Ltd,M.tech,3,Female,xramesh@example.org,3679225,6743910383,97,48,78,72,34,APAPAPAA
+Aarush Kibe,1096,IOT with AI,Online,10/27/2023,01-11-2024,"Swamy, Magar and Dara",M.tech,4,Male,nakul36@example.com,9115568622,6811741490,99,79,56,42,56,AAPPAPAA
+Hazel Kar,1097,IOT with AI,Online,05-02-2023,07-01-2023,Kohli Ltd,B.tech,1,Male,saxenaaarav@example.org,5994817354,7629196,85,36,11,85,39,PPPPPAAP
+Taran Butala,1098,Data Science,Online,09-02-2023,11-04-2023,Sampath Ltd,BBA,1,Male,cbhattacharyya@example.net,2257796,7011462306,17,28,25,13,79,AAPAAPAP
+Himmat Dhingra,1099,Front-end web development,Offline,09/22/2023,03-08-2024,Kata-Sachar,IT,3,Male,sharafkanav@example.com,8463840,2567335,88,42,82,89,4,AAPAAAAP
+Pranay Kamdar,1100,Data Science,Online,08/14/2023,11/13/2023,"Batta, Ramachandran and Mane",BCA,3,Female,sarkarkimaya@example.com,11503981,1262632,89,1,72,68,7,PPPAAAAA
+Yuvaan Mangal,1101,Salesforce development,Online,07/24/2023,12/20/2023,Sanghvi-Tiwari,M.tech,3,Female,rajanlagan@example.org,8143026,59072700,78,92,0,18,99,PAAPPAAP
+Anahita Vala,1102,Front-end web development,Online,03/26/2023,09-08-2023,Sachar Ltd,IT,1,Male,dhruv87@example.net,70313015,497997,46,47,51,45,46,PPPAAPPA
+Baiju D’Alia,1103,IOT with AI,Online,08/18/2023,12-08-2023,"Biswas, Sridhar and Trivedi",MCA,3,Male,kurianpari@example.net,8200332,82651336,62,68,66,97,88,PAAPPPAP
+Sahil Rama,1104,IOT with AI,Offline,10/20/2023,01/26/2024,"Chauhan, Anand and Sachdev",BCA,1,Female,kapadiarania@example.net,173498,3553239707,4,30,93,47,91,AAAAAAAA
+Kiara Badal,1105,IOT with AI,Online,05/18/2023,10-11-2023,Char-Kale,IT,4,Male,anaya60@example.com,5872240316,98748923,12,62,44,44,46,PPAAAPAP
+Jayan Manda,1106,AI/ML,Online,05/21/2023,08/30/2023,Raju-Agarwal,MCA,2,Male,bainssara@example.com,52894620,5241726,60,88,43,44,71,PAPPAPAA
+Adah Brar,1107,Mobile app development with Flutter and Cloud with AWS,Offline,12-07-2023,05/16/2024,"Sandhu, Reddy and Chaudhry",B.tech,1,Male,neelofaryohannan@example.net,7737250,5291963553,38,96,51,9,37,PAPAPPPA
+Shamik Devan,1108,IOT with AI,Offline,11-04-2023,04/22/2024,De-Gola,MCA,2,Male,nishith21@example.com,1766332,8550293391,42,3,11,13,48,AAPAPPPP
+Gatik Shanker,1109,Data Science,Online,07/14/2023,11-08-2023,Balakrishnan PLC,BBA,4,Male,rgour@example.com,64327555,7997317,74,20,14,88,25,APPAAAPP
+Miraan Shanker,1110,Mobile app development with Flutter and Cloud with AWS,Online,10/14/2023,03-09-2024,Rege-Bajaj,IT,4,Male,anya11@example.org,9095415,85814581,17,24,21,64,43,PAAAAAAP
+Indrans Sekhon,1111,AI/ML,Offline,07-08-2023,12-01-2023,Ghose Ltd,M.tech,4,Female,pbhandari@example.com,64952379,23371386,74,53,93,70,30,PPAAPPAA
+Kaira Jha,1112,Data Science,Offline,01-12-2024,06-11-2024,Dua-Bhakta,BCA,1,Female,odevi@example.org,6010958,2301632786,34,97,84,95,49,PAAAPPPP
+Aradhya Luthra,1113,Backend-end development,Online,03-03-2023,06/26/2023,Vig and Sons,B.tech,1,Male,keya35@example.org,9966191,80692251,36,41,80,84,71,PPPPPAAA
+Hrishita Sha,1114,Mobile app development with Flutter and Cloud with AWS,Offline,10/26/2023,12/26/2023,Krishnamurthy-Deol,IT,1,Male,magarvanya@example.net,6906145682,22447585,80,57,36,84,51,APAPAAAP
+Vivaan Sinha,1115,Front-end web development,Offline,10/17/2023,03/19/2024,Saha LLC,IT,3,Female,misha34@example.org,8594000496,9143742,97,28,81,32,55,APAAAAAA
+Jivin Khosla,1116,Data Science,Offline,02/25/2023,06/18/2023,Sawhney Inc,M.tech,3,Male,rajagopalancharvi@example.net,45848187,5539385,94,55,19,44,70,PAAAAAAP
+Pari Gola,1117,IOT with AI,Offline,06/30/2023,10/16/2023,Bora LLC,B.tech,3,Male,fmannan@example.org,7268619983,58060597,3,29,8,53,8,PAPAAPPA
+Hazel Banik,1118,Front-end web development,Online,04-12-2023,06/28/2023,Sarkar-Sur,B.tech,2,Female,samarth47@example.net,1469448,8953496378,66,87,88,48,61,PPPPAAPP
+Suhana Sahni,1119,Data Science,Offline,07/21/2023,11/14/2023,Randhawa Group,M.tech,2,Male,ahana-08@example.org,8476080187,8995805,78,7,14,38,40,PPAPPAPA
+Dishani Comar,1120,Mobile app development with Flutter and Cloud with AWS,Offline,09/20/2023,03/13/2024,Dey PLC,MCA,1,Female,cherianmisha@example.net,6332892344,3942095,18,45,35,56,36,PAPAAPAA
+Neysa Ganguly,1121,IOT with AI,Online,04/19/2023,06/19/2023,Choudhary-Loyal,BCA,1,Female,thamansamar@example.org,6449321,4395205894,65,50,23,4,16,PAPAAPPA
+Aaina Comar,1122,Mobile app development with Flutter and Cloud with AWS,Online,11-02-2023,03-03-2024,"Roy, Karan and Vala",M.tech,3,Female,vjoshi@example.com,16626567,1268790058,36,16,61,49,78,PAAPAAPP
+Taran Dada,1123,Mobile app development with Flutter and Cloud with AWS,Online,07/25/2023,09/27/2023,"Loyal, Ratti and Kothari",IT,1,Male,tanya65@example.org,9017949,8531650,75,64,97,49,68,PAAPPPPA
+Veer Chadha,1124,Backend-end development,Online,10-09-2023,12/28/2023,Krishnamurthy-Goel,BBA,1,Female,kurianshalv@example.com,7055924085,82918351,89,55,22,47,1,PAPAAPAP
+Hazel Lata,1125,Front-end web development,Online,06/19/2023,10-09-2023,Kalita LLC,IT,3,Male,raghavsrinivasan@example.org,5355586,4856894212,71,46,5,42,32,PPPPPPPP
+Mehul Saraf,1126,AI/ML,Online,05/27/2023,08/19/2023,"Walla, Uppal and Mand",BBA,3,Female,yseshadri@example.net,7383764,39304400,96,58,57,70,82,PPPAPAPA
+Ritvik Joshi,1127,Salesforces admin,Offline,01-07-2024,04/25/2024,Chad PLC,BCA,4,Male,aaryahikorpal@example.com,6420243,7919342,82,19,19,20,93,PAAPPAAP
+Armaan Mangat,1128,Front-end web development,Online,03-05-2023,05-05-2023,Khalsa-Dhaliwal,BCA,3,Male,sairabaral@example.com,8793835871,79199064,96,66,84,96,64,PPPPPAAA
+Baiju Vig,1129,Salesforces admin,Online,12-05-2023,05-05-2024,"Chaudhuri, Bhatti and Chandra",B.tech,4,Female,daniehsaan@example.org,2553336858,8583881,15,40,1,10,68,AAAPAPPA
+Adah Arora,1130,Salesforces admin,Online,11-07-2023,02-07-2024,Issac Ltd,MCA,4,Male,shanayachacko@example.net,15661155,82792518,83,57,66,55,80,PPAAAPPP
+Armaan Kumer,1131,Mobile app development with Flutter and Cloud with AWS,Online,01-12-2024,03/22/2024,Krishnamurthy-Ahuja,BBA,3,Female,ddas@example.net,2383118135,5946550,16,4,80,2,81,APPPPPPA
+Nirvaan Balasubramanian,1132,Data Science,Online,10/23/2023,02-04-2024,"Chaudhuri, Gaba and Korpal",MCA,1,Male,sarkarpranay@example.net,13524080,18210755,97,91,51,19,28,AAAAAPPP
+Ryan Rout,1133,Salesforce development,Offline,02/25/2023,06/16/2023,Zachariah-Kaul,BCA,4,Male,nbuch@example.net,87363834,73663368,28,52,88,3,59,PAPAPAPP
+Zaina Kamdar,1134,Salesforce development,Offline,05/20/2023,10-11-2023,"Swamy, Raja and Chadha",IT,1,Female,lallashlok@example.net,6277516079,13414004,96,78,37,38,82,PAPAPAAA
+Hridaan Lala,1135,Salesforces admin,Offline,06-03-2023,11/29/2023,Jha Ltd,MCA,2,Female,anika19@example.com,6265241,6986957551,44,35,36,90,25,APAPPPAP
+Nitara Dhar,1136,AI/ML,Offline,02-02-2024,07/17/2024,Buch-Dhaliwal,M.tech,4,Female,cdas@example.org,3479947135,5828875035,61,76,35,78,89,APPPAAAP
+Trisha Mallick,1137,Backend-end development,Offline,04/13/2023,08-12-2023,Ramanathan Group,BBA,1,Female,tkalla@example.net,858951361,8913983769,85,61,22,37,11,PAPPAAPA
+Siya Sagar,1138,Salesforces admin,Online,09/29/2023,02-09-2024,Dara-Chandra,IT,4,Female,csarraf@example.org,9757258,7275464,70,6,97,1,8,APAPPAAA
+Kaira Rajan,1139,Data Science,Online,11/29/2023,05/22/2024,"Sachar, Sule and Sule",B.tech,3,Male,sanadutt@example.com,4944807056,118009792,100,5,100,14,88,PAAPPPPP
+Mahika Buch,1140,Backend-end development,Online,12/29/2023,04-01-2024,Kade Group,IT,4,Male,vaibhavkhosla@example.net,48462721,5338591,91,35,34,99,78,PPPAAPPA
+Ela Vaidya,1141,Front-end web development,Online,07-07-2023,11/25/2023,Raju LLC,IT,4,Female,hunarchatterjee@example.net,27889843,37891197,50,64,18,23,28,PPAAAAAA
+Tanya Rajagopalan,1142,Salesforces admin,Offline,01/31/2024,04/14/2024,Dayal-Salvi,BBA,2,Female,onkar79@example.org,77895887,4486465,47,93,47,19,93,PPPAAPAP
+Kimaya Mander,1143,AI/ML,Offline,11-08-2023,05-05-2024,"Rajan, Gara and Acharya",M.tech,3,Female,paribasu@example.org,76799723,586312,95,68,47,75,98,PPAAPPAP
+Gokul Mammen,1144,Front-end web development,Online,03-01-2023,06/25/2023,Chacko-Swaminathan,MCA,1,Female,tdara@example.org,1099438643,9716,66,12,94,51,93,PPPAAAPA
+Vidur Vala,1145,Mobile app development with Flutter and Cloud with AWS,Online,06-04-2023,09-02-2023,"Wali, Bose and Devi",M.tech,4,Male,tgoel@example.net,12650784,1091616823,34,91,79,50,15,PPPAAAAP
+Yakshit Sandal,1146,Front-end web development,Offline,02-11-2024,08-03-2024,Bahri PLC,MCA,1,Female,shankarvanya@example.org,6660437694,63424086,49,24,96,64,36,APPAPPPA
+Nirvaan Choudhary,1147,Mobile app development with Flutter and Cloud with AWS,Online,02/28/2023,08/27/2023,Brar-Amble,BCA,2,Female,indransbhargava@example.com,50500252,5928030,86,11,34,30,49,PAPAAPAA
+Jivin Keer,1148,Salesforces admin,Online,04/19/2023,07/16/2023,Dugal-Bose,BBA,3,Female,ivanluthra@example.org,4348716,61303444,24,16,47,98,45,PPAAPAPP
+Uthkarsh Mahal,1149,Front-end web development,Online,03/21/2023,08/29/2023,Kala-Mallick,IT,3,Male,mohanlal20@example.net,8857175,9322695675,45,0,30,89,13,AAAAAPAA
+Dhanush Taneja,1150,Front-end web development,Offline,08-05-2023,10-05-2023,Amble Ltd,IT,1,Male,jchhabra@example.org,7946859,7630185987,63,21,46,58,52,AAPAAAAP
+Tara Ahuja,1151,Salesforces admin,Online,02-01-2024,04/28/2024,Dixit LLC,MCA,1,Male,pdeol@example.net,4692744,21595394,22,68,33,79,12,PPPPAPAP
+Keya Chokshi,1152,Data Science,Online,01/18/2024,03/27/2024,Kakar-Keer,M.tech,3,Female,khushi71@example.net,7077925,8850847354,93,42,78,62,36,PPPAAPPA
+Ishita Loyal,1153,Front-end web development,Online,05-12-2023,09-03-2023,"Keer, Kulkarni and Kanda",BBA,2,Female,virkahana@example.com,4319304,65642388,60,83,0,60,83,AAAPAPAA
+Zara Sampath,1154,Salesforce development,Offline,08/18/2023,12-08-2023,Buch-Krishnan,BCA,3,Male,shanzaina@example.net,9547366,8558662888,83,88,61,100,40,APPPPPAP
+Mehul Chatterjee,1155,Backend-end development,Offline,04/15/2023,06/20/2023,Choudhry PLC,BCA,2,Female,aainarajagopal@example.org,7540181,7768825,16,59,43,49,67,APAPPPPP
+Adira Vyas,1156,Data Science,Online,11/14/2023,03-04-2024,Sarma-Shetty,MCA,3,Female,draval@example.com,17454601,6442569339,54,83,14,20,32,APAPAAPP
+Hansh Bhardwaj,1157,Salesforce development,Online,11-08-2023,04/16/2024,Sangha-Shenoy,BBA,2,Male,piya38@example.net,5037778855,4318753279,17,16,76,0,28,AAAAAPPP
+Alia Saini,1158,IOT with AI,Online,08/18/2023,10/22/2023,Rama-Vohra,B.tech,2,Female,arhaanshankar@example.com,6432793,6245252742,54,76,56,63,49,PAAAPAAP
+Tushar Khalsa,1159,IOT with AI,Offline,12/15/2023,06-08-2024,Barad and Sons,B.tech,3,Female,lavanyadube@example.com,4268812288,73596336,18,22,48,30,49,PAAAAAPA
+Nirvaan Randhawa,1160,Backend-end development,Online,06/14/2023,10-11-2023,Majumdar-Tata,MCA,1,Female,kadakiatanya@example.net,896854,4348168097,67,89,70,19,36,PAAPAPAA
+Emir Aurora,1161,Backend-end development,Online,01/17/2024,03/25/2024,Dugal-Srinivasan,MCA,2,Male,reyanshsheth@example.net,3127161922,4294536,42,94,44,33,48,PPAPPPPA
+Kavya Bose,1162,Salesforce development,Offline,12-10-2023,05-09-2024,Kata-Lata,IT,3,Male,romil75@example.com,2979546,62434827,15,42,71,73,98,AAPPAPAP
+Sana Mani,1163,AI/ML,Offline,10/24/2023,01/22/2024,Grewal-Bassi,M.tech,1,Female,rmander@example.com,1294060,5849608,32,23,21,78,3,PAPAPAAP
+Veer Varkey,1164,Salesforce development,Online,03/30/2023,06/28/2023,Bal-Samra,BCA,3,Female,lagan74@example.net,2537503337,1060452,47,65,91,80,16,PAAAAAPA
+Ritvik Saha,1165,Salesforce development,Online,12-06-2023,05-01-2024,Brar PLC,BBA,1,Female,baralvihaan@example.net,3600449,683364633,19,8,5,87,2,APAAPPPA
+Nayantara Iyer,1166,Salesforces admin,Offline,03/26/2023,07-02-2023,"Wagle, Sridhar and Sane",IT,4,Female,kauldhruv@example.org,2775197,494447,48,27,28,37,66,PPAPAPAA
+Advika Bansal,1167,IOT with AI,Online,12/19/2023,03/22/2024,Chahal Group,M.tech,3,Female,bosemadhav@example.com,9059808068,3798172356,93,42,28,41,55,PAAPAAAA
+Zoya Sengupta,1168,AI/ML,Offline,03/27/2023,06/21/2023,Deshpande-Wason,IT,2,Female,banikmiraan@example.com,1527184,86861482,92,35,6,8,15,AAAAAAAP
+Sahil Mangal,1169,AI/ML,Online,05-03-2023,09/28/2023,"Devi, Bhardwaj and Manne",BBA,2,Male,bassisaanvi@example.net,7365147,6685549,29,28,63,9,36,PAAPPPAA
+Lagan Venkataraman,1170,Mobile app development with Flutter and Cloud with AWS,Online,06-02-2023,10/24/2023,Chatterjee-Chowdhury,BBA,3,Female,ktalwar@example.com,70539814,16277144,1,95,16,94,29,APPAPPAA
+Chirag Soman,1171,Salesforce development,Offline,03/18/2023,06-07-2023,Mann LLC,M.tech,3,Female,cagrawal@example.com,30341732,5137194,52,88,25,6,63,PPPPAPPP
+Anahita Badami,1172,Salesforces admin,Online,07/25/2023,09/30/2023,Dhar-Viswanathan,M.tech,4,Male,vidurdin@example.org,9836849271,8919999643,41,35,89,17,95,PPAPAPPA
+Riaan Khare,1173,Data Science,Online,10/30/2023,04/25/2024,Sinha-Ghosh,BBA,1,Male,samar42@example.com,4351980,78097837,22,30,76,82,91,APAAPPPP
+Dishani Shah,1174,Data Science,Online,01-01-2024,04-04-2024,Shukla-Bhat,B.tech,2,Male,upadhyaymanjari@example.net,8859589698,4555199555,4,77,37,42,16,APPAPPAP
+Tanya Kari,1175,Mobile app development with Flutter and Cloud with AWS,Online,05/19/2023,09/19/2023,"Setty, Taneja and Gaba",M.tech,1,Male,zeeshan36@example.org,4555708922,3418498537,63,78,18,28,71,PPPAPPAP
+Badal Dutt,1176,AI/ML,Online,01/26/2024,04-12-2024,"Sankaran, Agarwal and Maharaj",MCA,2,Male,kamdarkashvi@example.net,4180051,1791195,80,15,50,37,23,APAPPPPP
+Akarsh Tiwari,1177,Data Science,Online,12-03-2023,05-08-2024,Bava-Goswami,MCA,2,Male,kchar@example.org,62147073,81938812,32,8,23,44,34,PAPPPAPA
+Ehsaan Rana,1178,AI/ML,Online,11/23/2023,02/20/2024,Dutt and Sons,BCA,4,Male,cdewan@example.org,617173761,2688850,79,28,82,4,90,AAAAPAPP
+Armaan Sekhon,1179,Backend-end development,Offline,09/26/2023,12/25/2023,"Baria, Bali and Sundaram",B.tech,2,Female,ivan71@example.net,64102194,54601040,59,26,60,31,94,PPAPAAAA
+Siya Shroff,1180,IOT with AI,Offline,08-04-2023,11/13/2023,Srivastava Inc,B.tech,3,Female,tarasharma@example.org,7252661,99368614,16,81,74,58,62,PAAPAAAP
+Shalv Wali,1181,IOT with AI,Offline,05/22/2023,07/24/2023,Chander Group,B.tech,3,Male,dhruvbarad@example.org,7150842,49832683,99,31,54,63,22,APPAAAAA
+Drishya Arya,1182,Backend-end development,Online,05-03-2023,10/28/2023,Khurana Ltd,IT,3,Female,tellakashvi@example.org,5920678508,5542670,84,33,3,85,78,PAAPPAPA
+Khushi Jhaveri,1183,Data Science,Offline,04/14/2023,08/13/2023,Sura-Grover,BCA,3,Female,balakrishnananay@example.org,69150146,7109272408,46,65,21,41,1,PAPPPPPP
+Vardaniya Warrior,1184,Front-end web development,Offline,10/13/2023,03-09-2024,Mahajan-Chawla,BBA,1,Female,bhavin34@example.com,2331650960,7925183390,12,84,13,95,56,PPPPPPPP
+Emir Iyer,1185,Salesforces admin,Online,08-08-2023,01/20/2024,Sangha-Konda,B.tech,1,Female,sachdevriaan@example.org,1336755525,7508444602,52,26,81,28,47,AAAAAAAA
+Nishith Kapoor,1186,Data Science,Offline,05/29/2023,08-04-2023,"Sathe, Gera and Manne",B.tech,1,Female,piya01@example.com,9874570,71411098,36,6,63,52,72,AAAPPPAA
+Mahika Hayer,1187,Mobile app development with Flutter and Cloud with AWS,Offline,03/30/2023,08/29/2023,"Chakraborty, Shroff and Tak",BBA,1,Female,asankar@example.org,9329171153,62491441,23,65,31,11,91,PPPPPPPP
+Hiran Bassi,1188,Front-end web development,Online,06/17/2023,10-03-2023,Kibe-Korpal,BCA,1,Male,bijuchakraborty@example.com,9050486,9359175170,8,75,87,92,61,PAPPAPPP
+Indrans Verma,1189,Salesforce development,Offline,11/23/2023,03-01-2024,Gola-Bora,MCA,2,Female,hrishita31@example.com,21911666,1040761,81,71,43,64,85,PPAPPPAA
+Shlok Agarwal,1190,IOT with AI,Online,08/24/2023,10/24/2023,"Bumb, Warrior and Loke",M.tech,4,Female,dewanhimmat@example.net,4755635,8225646860,56,15,92,51,59,APAAAPPA
+Yakshit Swamy,1191,Salesforces admin,Online,01/27/2024,04/23/2024,Choudhary Inc,MCA,2,Male,darkhushi@example.org,30824924,1121778,25,87,33,4,37,PPPAPAPA
+Jayan Lad,1192,IOT with AI,Online,10-08-2023,02/24/2024,"Rajagopalan, Sura and Anne",MCA,2,Male,mannatbatta@example.net,8842098,5756433020,8,65,28,51,3,PPPAAAPA
+Lakshay Chakraborty,1193,Backend-end development,Online,09-07-2023,11-12-2023,Krishna Ltd,MCA,1,Male,khatrimadhav@example.org,777550521,25909375,92,90,68,24,86,AAAPPPAA
+Ivan Apte,1194,Salesforces admin,Offline,03-06-2023,07/27/2023,"Ramanathan, Warrior and Biswas",B.tech,4,Male,subramaniamhiran@example.org,7886952820,71365438,25,14,89,61,77,AAPPPAPA
+Shlok Dhawan,1195,Salesforces admin,Offline,08/13/2023,11-01-2023,"Zacharia, Raman and Karnik",MCA,1,Female,nbhatia@example.com,3294588525,8731224890,80,35,67,46,97,PPPPPAPA
+Reyansh Balay,1196,Mobile app development with Flutter and Cloud with AWS,Offline,11/13/2023,04/29/2024,"Raval, Balay and Gopal",IT,4,Male,lrama@example.com,1157019940,16158956,0,80,89,52,63,PPPAAPPA
+Advika Garg,1197,Data Science,Online,04/19/2023,08/19/2023,"Choudhry, Barad and Manda",M.tech,3,Male,divij79@example.com,34657358,11556570,68,29,16,87,70,PPPPPPAA
+Eshani Jani,1198,Backend-end development,Offline,11-02-2023,04-02-2024,Deep Inc,BCA,2,Male,chakrabartibadal@example.com,9555346,42538437,100,90,12,43,22,AAPPAAAP
+Onkar Ramesh,1199,AI/ML,Offline,06/17/2023,11-01-2023,"Sodhi, Varughese and Tata",M.tech,3,Female,mandalamira@example.com,65198062,64019856,60,15,49,66,6,PAPAPPAA
+Fateh Khare,1200,Front-end web development,Online,09-10-2023,02/24/2024,Dave PLC,BCA,4,Male,aroraanay@example.net,21890877,33171718,45,5,18,1,94,AAPAAAAP
+Oorja Bhattacharyya,1201,Salesforce development,Offline,05/25/2023,09/27/2023,Krishna-Bassi,BCA,4,Female,alia20@example.net,23043156,9169721,14,13,8,44,6,PPPAPPPA
+Sana Chanda,1202,Salesforce development,Offline,09/20/2023,11/26/2023,Bedi and Sons,IT,3,Female,fwalla@example.org,2937559168,482159,54,16,11,15,75,PAAAPPAP
+Jayan Rao,1203,Salesforces admin,Offline,02/20/2024,06/15/2024,Banik Group,M.tech,4,Female,bhavinbal@example.net,4255547933,220322596,100,64,7,57,8,PAAAPPAP
+Anay Kara,1204,Salesforces admin,Offline,04-07-2023,07/13/2023,"Venkataraman, Joshi and Bansal",BCA,1,Male,sidhutaran@example.net,1554250022,35961986,56,57,1,21,3,APPPPPPP
+Jivika Rastogi,1205,Salesforce development,Offline,08/23/2023,11/26/2023,Dube PLC,M.tech,2,Male,divyansh39@example.org,9621423450,9492499,85,31,98,82,56,APAAAAPP
+Himmat Karpe,1206,Mobile app development with Flutter and Cloud with AWS,Offline,09-11-2023,11/14/2023,"Sandhu, Tank and Maharaj",MCA,2,Male,bhallaela@example.net,8943307155,6831197,6,16,15,33,10,PAAAAAAA
+Manikya Dalal,1207,Front-end web development,Offline,05/23/2023,11-11-2023,Raju Group,B.tech,1,Male,amira44@example.net,80657858,9506240,87,71,19,71,59,PAAPAAAA
+Kiara Sankar,1208,Mobile app development with Flutter and Cloud with AWS,Offline,09/28/2023,02/18/2024,"Sunder, Dave and Suri",BCA,3,Female,ishitadeo@example.org,8356276,3007706,3,98,11,40,38,APAPPPAP
+Neelofar Sengupta,1209,Data Science,Offline,07/22/2023,10/19/2023,Goel-Ganesh,M.tech,1,Female,narya@example.org,9728406564,8846701,17,25,47,45,36,APAAPAPA
+Neysa Sheth,1210,IOT with AI,Online,04-12-2023,08/22/2023,Apte-Comar,IT,1,Male,anikabava@example.net,693475554,7633387958,90,88,93,50,27,APAAPAPA
+Parinaaz Ray,1211,Backend-end development,Offline,12-02-2023,02/24/2024,Karpe Ltd,IT,1,Female,krishbedi@example.net,1032668662,3037194,4,1,27,51,55,PAAPAAPP
+Mannat Goyal,1212,Backend-end development,Online,09-04-2023,02/22/2024,Deo Inc,M.tech,3,Female,kabir73@example.net,4506744365,978870,72,31,96,91,17,AAAAPAAP
+Shayak Wadhwa,1213,Salesforces admin,Online,12/26/2023,05-11-2024,Buch-Kumar,IT,1,Male,faiyazchopra@example.com,77370865,78970113,74,43,67,83,60,AAPPAAPA
+Mamooty Arora,1214,Salesforces admin,Offline,02/23/2023,08/17/2023,Ganguly-Bains,M.tech,2,Female,bassivihaan@example.org,8406805383,3775393754,67,40,19,99,4,APAAAAAA
+Mamooty Dada,1215,Mobile app development with Flutter and Cloud with AWS,Offline,12-11-2023,05-07-2024,Borde Group,B.tech,3,Female,rattitarini@example.net,56538255,8426864,20,47,65,81,26,PPPPPAAP
+Kaira Malhotra,1216,IOT with AI,Online,12/31/2023,04/21/2024,"Raj, Raja and Dhawan",BCA,4,Male,sabharwalkabir@example.org,4022906,86469078,31,54,61,90,36,PPAAPAPP
+Raunak Chacko,1217,Backend-end development,Online,05-09-2023,09-03-2023,"Yogi, Toor and Shroff",IT,2,Male,divij84@example.com,47763842,7482826179,76,87,55,76,53,PPAPAAAP
+Rati Chakraborty,1218,Mobile app development with Flutter and Cloud with AWS,Online,07-04-2023,12/22/2023,Devi PLC,M.tech,1,Male,vardaniyasehgal@example.org,3026174524,390513077,79,77,91,97,87,PPAAAPAP
+Uthkarsh Kala,1219,Front-end web development,Online,09/21/2023,01-08-2024,"Kapadia, Chaudhari and Tak",BBA,4,Female,kabir03@example.com,16207297,48298291,82,25,93,8,76,APPPPPAP
+Nirvaan Rana,1220,Front-end web development,Online,07/23/2023,01/19/2024,Bhagat-Ramakrishnan,IT,1,Male,elakshibasu@example.net,3799464397,1175053,97,43,41,90,79,AAAAAPAA
+Hansh Goyal,1221,Salesforce development,Online,03/17/2023,07-02-2023,Dugar Inc,BCA,3,Female,fdave@example.net,7350212,9401617535,50,9,91,56,11,PAPAPAAP
+Zara Badami,1222,Salesforces admin,Offline,08/13/2023,11/19/2023,Rama-Gade,BBA,3,Male,sureshreyansh@example.org,3528013,8407628,26,72,6,2,56,PAPAPAAA
+Pranay Manda,1223,Salesforce development,Offline,09/17/2023,12/13/2023,Wali-Sami,IT,2,Male,eganesan@example.com,6038354,75351204,29,89,53,23,40,APPPPPPP
+Romil Sachdeva,1224,AI/ML,Offline,12/21/2023,03/15/2024,"Mani, Gala and Tara",IT,3,Female,samrabadal@example.org,3550005,9283267266,23,16,56,3,16,PPAAAPPA
+Jivika Sachdeva,1225,Data Science,Offline,06/18/2023,08/21/2023,Varughese and Sons,BCA,3,Male,divitvaidya@example.org,6338356405,2165283458,51,65,73,70,9,AAAPPAAP
+Siya Agarwal,1226,AI/ML,Online,11/30/2023,02/16/2024,Thaker-Mangat,BBA,4,Male,emir33@example.net,5872460807,16523297,29,45,81,89,61,PPAAAPPA
+Nehmat Kalla,1227,Data Science,Offline,02/22/2023,05/16/2023,Dash LLC,MCA,3,Female,tejasdin@example.net,3364693856,2993901788,18,81,46,89,70,PAAAAAAA
+Saanvi Tripathi,1228,IOT with AI,Online,03-03-2023,07/24/2023,Tella Group,IT,1,Female,dugarkeya@example.com,6426282,42527849,36,70,75,77,67,APAPPAPA
+Urvi Divan,1229,AI/ML,Offline,12-03-2023,02-08-2024,"Hayre, Arya and Golla",IT,1,Female,asundaram@example.net,2123061878,755643,8,24,67,62,39,AAPAAPAA
+Vihaan Manda,1230,Mobile app development with Flutter and Cloud with AWS,Offline,05/13/2023,08/26/2023,"Dugar, Ghosh and Taneja",MCA,3,Male,tsaini@example.org,50948092,8143067092,92,39,48,37,52,AAAAPPAA
+Myra Edwin,1231,Front-end web development,Online,04-12-2023,09/29/2023,"Edwin, Gour and Shukla",IT,2,Female,zdayal@example.com,46711847,22272424,94,27,49,68,65,APPAAAAP
+Elakshi Lad,1232,Backend-end development,Online,09/16/2023,03-05-2024,Dhingra Ltd,IT,4,Male,vmadan@example.com,37676125,4455295,55,12,95,48,72,PPAPPAAP
+Aarush Varma,1233,Salesforce development,Online,07/13/2023,12/19/2023,"Subramanian, Roy and Kohli",BCA,1,Male,sumeranne@example.com,2249056,5168271,39,71,58,42,69,PAAPAAPA
+Stuvan Johal,1234,AI/ML,Online,11-03-2023,04/29/2024,Soman PLC,MCA,2,Female,raunakbasak@example.org,6777094,4265707130,24,67,46,7,45,APAAAAPP
+Heer Sethi,1235,Backend-end development,Offline,08/19/2023,11/26/2023,Majumdar-Loyal,BCA,3,Male,oorjaatwal@example.net,7110927,17875281,51,28,90,33,60,PAPAPPPP
+Inaaya  Magar,1236,IOT with AI,Online,10/18/2023,01-06-2024,"Bajaj, Vyas and Wason",BCA,3,Female,alisha87@example.org,86275429,61598422,39,79,82,74,39,PPAPPPPA
+Pari Arora,1237,Backend-end development,Offline,12-12-2023,05/31/2024,Jani Group,B.tech,1,Male,ydasgupta@example.org,778191,7461062,72,41,50,22,27,PPAAAAPA
+Kiara Dhawan,1238,Backend-end development,Online,12/22/2023,05-05-2024,Sunder-Brahmbhatt,BCA,4,Male,parinaaz00@example.net,5679567,54008450,76,85,60,66,42,APPPAAPA
+Sumer Grewal,1239,Mobile app development with Flutter and Cloud with AWS,Online,10/22/2023,01-11-2024,Yadav PLC,M.tech,3,Female,jivikasastry@example.com,3321492,9316676216,62,34,53,84,34,APPAPPPP
+Saksham Sastry,1240,Backend-end development,Offline,10-03-2023,12/20/2023,"Vyas, Bhatia and Acharya",BBA,3,Male,taimur95@example.org,649112254,21291464,90,61,83,13,19,PPAAAAPA
+Anya Gera,1241,Data Science,Online,01-07-2024,05-06-2024,Chana-Mall,BBA,2,Male,horazara@example.org,3031928,3025554,16,65,96,44,20,APPAPPAP
+Vihaan Shroff,1242,AI/ML,Offline,06-08-2023,11/27/2023,Dugar Group,B.tech,4,Male,skapur@example.com,1891868,9393350209,9,56,67,56,20,PPAAPPAA
+Reyansh Iyer,1243,Data Science,Offline,06-08-2023,11-09-2023,Kara LLC,MCA,1,Female,ikumar@example.net,4237475,7146080,46,29,44,45,3,PPPAPPPP
+Divij Anand,1244,Mobile app development with Flutter and Cloud with AWS,Offline,06/13/2023,08/19/2023,Khosla-Raj,MCA,1,Female,dubeypriyansh@example.com,9246173,10011668,97,47,93,47,49,PPPAAPPA
+Aarav De,1245,Salesforce development,Online,12/14/2023,05/13/2024,"Mandal, Sood and Apte",IT,3,Female,inaaya-95@example.net,5685571502,5683442,51,14,36,53,18,APAAAPPA
+Himmat Bhandari,1246,Salesforces admin,Offline,07/15/2023,10/23/2023,Chadha PLC,IT,2,Male,yasminsahota@example.com,5063567273,775466916,22,18,1,40,60,AAPPAPAP
+Mannat Bora,1247,Front-end web development,Online,02-08-2024,07/14/2024,"Dhawan, Bhattacharyya and Sehgal",BBA,3,Female,indranil24@example.org,5712586086,2074232500,44,2,82,42,49,PAAAPAPA
+Kiara Kanda,1248,Salesforces admin,Online,05-06-2023,10/24/2023,Balakrishnan PLC,B.tech,1,Male,farhan85@example.org,8669413,80601353,3,9,56,1,77,AAPPAAPA
+Ayesha Chakrabarti,1249,Front-end web development,Offline,03/15/2023,07/24/2023,Gokhale-Balakrishnan,M.tech,3,Female,ahana-96@example.net,3143288667,575973,47,50,55,12,13,APPAPAPA
+Shanaya Balakrishnan,1250,Data Science,Online,09-01-2023,12/17/2023,Swamy-Srinivasan,B.tech,3,Male,aarnakakar@example.com,745602184,8457181,33,33,4,42,24,PPPAPAPP
+Manikya Sarna,1251,Backend-end development,Offline,08/28/2023,12-04-2023,Mahal-Ravi,MCA,4,Female,dassyuvraj@example.org,651758452,8522665,88,37,60,53,65,PPAAAPAA
+Sahil Tiwari,1252,IOT with AI,Offline,08/29/2023,01-06-2024,"Halder, Virk and Kunda",IT,2,Female,kaira50@example.net,9190248832,73318544,66,12,24,72,91,APPPPAPP
+Diya Bhalla,1253,IOT with AI,Online,10/30/2023,01/27/2024,"Srinivasan, Bhakta and Gola",IT,1,Female,thamanvritika@example.org,40546713,77600709,70,78,68,97,86,AAPPAAAA
+Nakul Bala,1254,IOT with AI,Offline,08/21/2023,01/31/2024,"Sachdeva, Ahluwalia and Barad",B.tech,4,Female,bariasaira@example.org,7795097,9163258,86,33,61,87,40,PPAPPAPP
+Abram Basak,1255,AI/ML,Offline,06/19/2023,11-10-2023,"Mammen, Kapur and Sarma",M.tech,4,Female,advik09@example.org,6066566204,14496321,21,39,30,17,31,APAAPPPA
+Jhanvi Chahal,1256,Mobile app development with Flutter and Cloud with AWS,Online,02/18/2024,07/27/2024,Raj Ltd,IT,2,Female,sodhikiara@example.com,5459020553,5742975,78,38,52,68,62,PPAPPAAP
+Rati Ahluwalia,1257,AI/ML,Online,10/21/2023,12/23/2023,Ravi-Lata,MCA,1,Female,annedhanuk@example.org,7484764,7429941,47,1,50,11,34,APAPAPPA
+Samaira Bail,1258,IOT with AI,Offline,08-11-2023,11/13/2023,Koshy-Bhattacharyya,IT,3,Male,singhalmahika@example.com,4136570,71786691,75,38,63,83,12,APAAAPPP
+Shayak Bedi,1259,Salesforce development,Offline,06/17/2023,11-10-2023,Ratti-Bhatnagar,BBA,2,Male,lsaxena@example.org,77535940,7736757,44,92,25,34,34,APAPPAAP
+Adah Mahajan,1260,Mobile app development with Flutter and Cloud with AWS,Offline,05-07-2023,09-12-2023,"Dhar, Srinivas and Karnik",B.tech,2,Male,zkaran@example.org,80196734,330958,12,20,63,31,75,PAAAPPAP
+Damini Singh,1261,Salesforces admin,Offline,08/16/2023,12-12-2023,Deo Inc,BBA,1,Male,wasondhanuk@example.com,53038132,2661045,39,76,77,6,41,PAAAPAAP
+Siya Wagle,1262,AI/ML,Online,11/22/2023,03-12-2024,Rao PLC,BCA,4,Female,samihajohal@example.com,2805104758,8066130,14,12,59,57,79,PAAPPAPA
+Rohan Shenoy,1263,Salesforces admin,Online,04/25/2023,09-02-2023,"Verma, Sehgal and Swaminathan",B.tech,3,Male,onkar53@example.com,65698489,4306260,95,18,17,55,15,PAAAPPAP
+Devansh Balan,1264,Backend-end development,Offline,06-05-2023,11-05-2023,Hari-Sur,IT,1,Male,warrioreva@example.net,804553772,4190166,86,47,0,91,43,PAPAAPAA
+Ira Chakrabarti,1265,AI/ML,Offline,07-05-2023,09/19/2023,Mani-Jayaraman,MCA,4,Male,hridaan23@example.com,55287508,2908988,37,11,44,16,41,APAPAAAP
+Shaan Goswami,1266,Front-end web development,Online,05-07-2023,10/14/2023,Dada-Khosla,M.tech,4,Male,prerakhegde@example.com,5909938483,8768481058,52,67,92,2,35,PPPAAAAA
+Tejas Datta,1267,AI/ML,Online,08-05-2023,11/16/2023,Agate-Randhawa,IT,3,Male,mkar@example.net,96377793,9935256532,2,1,69,2,84,APAAPAPP
+Urvi Date,1268,Salesforce development,Online,04-05-2023,08-08-2023,Raj Group,MCA,3,Female,kavya20@example.net,8566085,67759333,38,0,56,19,26,PPPAAPAA
+Jayant Jani,1269,Data Science,Offline,01/19/2024,07-11-2024,"Manda, Chada and Loyal",B.tech,1,Female,darahridaan@example.org,38695810,2303968,16,33,55,12,60,PAAPPPPA
+Eshani Jha,1270,IOT with AI,Offline,06-04-2023,10/24/2023,Ravi Ltd,BCA,2,Male,neysaganguly@example.net,7361401828,42505937,49,51,100,83,16,AAAAAAAA
+Hazel Iyer,1271,AI/ML,Online,01/24/2024,07/19/2024,Gandhi PLC,MCA,4,Male,divitshroff@example.com,1719812,2595065241,74,33,47,87,90,AAPPPAPA
+Umang Sami,1272,AI/ML,Offline,10/22/2023,02-05-2024,Sampath-Bhalla,IT,3,Male,lakshitmahal@example.com,1276153,3736830,76,33,61,62,6,AAAAPAPP
+Taimur Sandal,1273,Front-end web development,Offline,05-09-2023,09/19/2023,Gera-Dave,M.tech,2,Male,rattivaibhav@example.com,8048295,69585999,4,100,19,93,65,PPPPAAAA
+Aayush Sankaran,1274,AI/ML,Online,09/23/2023,02-01-2024,"Bali, Saini and Sani",MCA,4,Female,dhanukdyal@example.com,8216537,9786525869,10,97,16,66,91,PAPAPPPA
+Anay Sandhu,1275,Data Science,Online,09/18/2023,11/28/2023,Chaudhry LLC,BBA,2,Male,lkanda@example.org,56356507,47253153,56,82,99,30,35,PPAAAAPA
+Zoya Mann,1276,Front-end web development,Online,04/20/2023,10-10-2023,"Tiwari, Kumer and D’Alia",MCA,2,Male,yjohal@example.com,154790395,1258735183,74,42,6,75,45,PPPAPAPA
+Sumer Rastogi,1277,Front-end web development,Offline,04/17/2023,06/23/2023,Dugar Group,MCA,4,Male,sanghatanya@example.net,3875793,1136527935,32,26,9,11,52,AAPAAAPA
+Tanya Zacharia,1278,Mobile app development with Flutter and Cloud with AWS,Online,09/21/2023,02/18/2024,Basak PLC,M.tech,2,Female,kismat04@example.net,1238906,2753192574,100,34,14,73,22,AAPPPPAA
+Mahika Kapoor,1279,Salesforce development,Offline,03/23/2023,07/27/2023,"Dutt, Srinivas and Varkey",BCA,3,Male,tejassaran@example.net,52731091,4429394084,11,55,25,61,4,APAAAAAP
+Anahi Bandi,1280,Data Science,Offline,10/27/2023,03/25/2024,Ramachandran and Sons,IT,2,Female,eshaniborra@example.net,2018080470,4507031,28,54,61,70,41,PAAAPAAA
+Saksham Jayaraman,1281,Salesforces admin,Online,10/20/2023,01/24/2024,"Saran, Kala and Keer",B.tech,4,Female,krish52@example.com,19382805,76492722,76,4,51,80,68,PAAPAPPA
+Rasha Apte,1282,Salesforces admin,Online,04/29/2023,08/26/2023,Baral Ltd,BBA,2,Male,chandransamaira@example.net,89440343,3050699,23,27,8,80,36,APAAAAAA
+Manikya Wali,1283,IOT with AI,Online,06-11-2023,10/25/2023,Karnik-Swamy,BBA,1,Female,eshanigopal@example.com,3656566904,343259684,65,39,40,7,56,APPAAPPA
+Ojas D’Alia,1284,Backend-end development,Online,03/14/2023,07-02-2023,Bansal-Brahmbhatt,IT,1,Female,karniknitara@example.org,5913184474,3778719,68,9,6,81,19,PPAAAPAP
+Riaan Bali,1285,Mobile app development with Flutter and Cloud with AWS,Online,01/18/2024,06/17/2024,"Bandi, Balan and Krish",BCA,2,Male,nmadan@example.net,2010718474,7169108,8,84,49,12,57,PAAAAAAA
+Uthkarsh Som,1286,Backend-end development,Offline,11/24/2023,02/23/2024,"Zachariah, Batra and Shroff",IT,3,Female,khoslamohanlal@example.com,77145004,9685985130,76,61,2,15,9,APAAAAPA
+Adira Chatterjee,1287,Mobile app development with Flutter and Cloud with AWS,Offline,12/13/2023,03-01-2024,Chaudhari-Dash,BBA,1,Male,nishith25@example.com,5913372,5828962455,74,40,37,39,71,AAPPPPPP
+Hiran Chandra,1288,Salesforces admin,Online,08/16/2023,02-05-2024,"Gupta, Ranganathan and Ramachandran",BBA,3,Male,ibhagat@example.org,8964107103,86312408,95,19,41,65,30,APAAAPAA
+Uthkarsh Shan,1289,Mobile app development with Flutter and Cloud with AWS,Online,07/21/2023,11-09-2023,Kala Group,BBA,1,Female,suraanahi@example.net,16035869,8568946415,42,80,38,12,75,PPPPPAAP
+Lagan Ramachandran,1290,Front-end web development,Online,02/15/2024,06/21/2024,Ratta-Bains,B.tech,2,Female,sarachokshi@example.org,5969497,29100663,20,79,8,39,96,AAAPPPAA
+Rati Srivastava,1291,Backend-end development,Offline,10-05-2023,03-12-2024,Datta-Chada,M.tech,2,Male,hiran28@example.net,8364515,4087815897,32,70,42,65,60,PPAAPPAP
+Vardaniya Devi,1292,Salesforces admin,Online,06-08-2023,09-03-2023,Bail-Kumer,M.tech,2,Female,yvora@example.com,7797777,7749312676,9,97,34,44,99,APPAAPAA
+Fateh Seshadri,1293,Front-end web development,Offline,12-05-2023,03/21/2024,"Zacharia, Chawla and Kadakia",M.tech,1,Female,adiravaidya@example.net,7977577500,6627831,56,81,83,9,49,APAPAPPP
+Rania Sur,1294,Salesforce development,Offline,01/27/2024,07/21/2024,Biswas-Majumdar,MCA,2,Female,ochacko@example.com,1349394488,4868145,86,0,65,14,94,AAAAAPAP
+Tara Comar,1295,Salesforces admin,Online,04-03-2023,07/25/2023,Gaba PLC,BBA,3,Male,sankarmamooty@example.net,7027615,55104708,84,47,90,49,86,AAPPPPAA
+Ira Kapadia,1296,Salesforce development,Online,08/16/2023,02-12-2024,Badal Inc,MCA,3,Male,hbedi@example.org,7086054388,8504630,45,15,83,95,49,APAPPPAP
+Saanvi Samra,1297,Salesforce development,Offline,05/20/2023,09/16/2023,"Din, Chopra and Karan",B.tech,4,Male,chandamanjari@example.net,19268835,812877,99,25,5,96,50,AAPPAAAP
+Dhanush Walia,1298,AI/ML,Offline,06-09-2023,11-05-2023,"Mane, Badami and Johal",MCA,4,Female,parinaazbedi@example.net,9265052154,1818938723,76,67,6,34,5,PAPPPPPP
+Madhup Thaker,1299,Mobile app development with Flutter and Cloud with AWS,Offline,07/13/2023,09/23/2023,"Arya, Garde and Kibe",IT,1,Female,vanya60@example.org,9615054189,934996,87,19,31,13,20,APPAPAPA
+Yuvaan Viswanathan,1300,Mobile app development with Flutter and Cloud with AWS,Offline,10/22/2023,04/19/2024,Bhalla-Bandi,BCA,3,Female,pihu39@example.com,73239459,58057021,73,47,7,12,79,AAAPAPAP
+Pari Kari,1301,AI/ML,Online,07-08-2023,11-10-2023,"Mann, Kala and Chadha",M.tech,1,Female,veerswamy@example.org,2160644993,5657635,51,82,36,4,71,PPPPPPPA
+Aayush Sastry,1302,Salesforce development,Offline,09-03-2023,11-11-2023,"Gole, Sura and Sankaran",IT,1,Female,anayatiwari@example.net,66742739,67234599,56,76,37,34,16,APAPPAAP
+Veer Dash,1303,Mobile app development with Flutter and Cloud with AWS,Online,05/25/2023,11/21/2023,Srinivas-Choudhury,MCA,4,Female,duttapiya@example.org,3984505974,6030529950,45,6,20,95,72,PAPAPPPA
+Nitara Chand,1304,Backend-end development,Online,09/19/2023,11/30/2023,"Soman, Chaudhuri and Sampath",BBA,2,Female,pranay66@example.org,74112139,56354427,54,54,62,56,24,PPAAPAAA
+Ojas Shah,1305,Salesforce development,Offline,05/28/2023,09/13/2023,Kakar-Solanki,B.tech,1,Male,ysankar@example.com,3789720041,7393825,39,40,67,7,53,PPAAPAAA
+Zara Vohra,1306,Backend-end development,Offline,08/16/2023,12/26/2023,"Bava, Gera and Chana",BBA,4,Female,tanyayadav@example.net,71046303,48992975,42,40,58,93,49,APAAAPAA
+Vidur Raju,1307,Front-end web development,Online,10/14/2023,01/28/2024,"Bera, Agate and Bhatt",BCA,2,Female,shuklamannat@example.net,756342197,3499224,74,43,26,41,55,AAPPAPAA
+Priyansh Lad,1308,Front-end web development,Online,04-11-2023,10-07-2023,"Sood, Mangal and Barad",IT,2,Female,bsinghal@example.com,30947369,49057842,45,74,47,80,63,PPAAAPAP
+Tarini Bassi,1309,Mobile app development with Flutter and Cloud with AWS,Online,02/23/2023,05/18/2023,Banik LLC,MCA,3,Male,darshit34@example.net,55716978,91542939,24,11,63,30,81,APAPPAPA
+Anvi Keer,1310,Front-end web development,Online,01-12-2024,06-03-2024,Mander-Acharya,MCA,3,Male,bhatiataimur@example.org,2021549,1484771,76,27,59,67,78,PPAPPPAP
+Tushar Divan,1311,Mobile app development with Flutter and Cloud with AWS,Online,04/14/2023,09/25/2023,"Bains, Virk and Madan",MCA,1,Male,dhawanyasmin@example.org,8215332,40526317,43,18,82,4,46,AAAAAPPP
+Ivana Taneja,1312,AI/ML,Online,05-02-2023,09/15/2023,"Sami, Sabharwal and Kala",BCA,4,Female,misha63@example.net,3888206693,3243649,82,31,25,77,93,PPPAAAAP
+Ira Kibe,1313,Backend-end development,Offline,01/16/2024,03/27/2024,Kapur and Sons,B.tech,4,Male,mdara@example.org,3209075,8042591027,10,90,75,54,71,APAAPAPA
+Yasmin Dhar,1314,Front-end web development,Offline,11-10-2023,01/23/2024,Chokshi-Karpe,BCA,4,Male,stuvan75@example.net,9866341997,98368414,88,31,92,0,50,PAAAAAPP
+Jivin Chopra,1315,Mobile app development with Flutter and Cloud with AWS,Offline,12/14/2023,04/15/2024,Mammen Ltd,M.tech,1,Female,rattamanjari@example.org,6640047,8244421766,35,73,69,34,33,AAPPPPAP
+Aaina Bhakta,1316,Salesforces admin,Online,10-03-2023,02/13/2024,Buch-Apte,BBA,4,Female,kalamyra@example.com,2862668,72570,66,26,45,62,73,PPAAPAAP
+Nitara Seth,1317,Salesforce development,Online,09/19/2023,01/22/2024,"Lal, Gara and Walla",B.tech,4,Male,hridaanrao@example.org,2968836,4818197636,80,35,85,60,33,AAPPAAPA
+Chirag Chakraborty,1318,Salesforce development,Offline,07/15/2023,01-08-2024,"Khalsa, Arora and Bose",B.tech,3,Male,akarshlata@example.com,74233693,82900,99,95,75,68,91,PAPPAAAP
+Manikya Hora,1319,Salesforce development,Offline,11/23/2023,01/28/2024,Chandra Ltd,BCA,3,Female,devanshvohra@example.com,5592237,3173453697,100,42,84,84,92,PPAPPAAP
+Lagan Kumar,1320,Salesforce development,Online,09/23/2023,02-06-2024,"Sane, Kala and Aurora",BBA,4,Female,banerjeetejas@example.net,627813360,4472574831,83,5,94,82,4,APPPPPAA
+Taimur Sehgal,1321,Salesforces admin,Online,04-02-2023,08-01-2023,Lad-Sule,BBA,2,Male,tram@example.org,1188207,1279130929,56,88,90,83,78,AAPPAAAA
+Shaan Bose,1322,Salesforce development,Offline,10/17/2023,01-09-2024,Srinivas-Tak,BBA,4,Female,krish15@example.net,8733306,7217123736,30,87,27,88,12,AAPPPPPP
+Drishya Bawa,1323,Backend-end development,Online,03/20/2023,08/21/2023,Samra-Bhagat,BCA,1,Female,hunarganesh@example.com,9195115,7691236,55,100,24,56,94,PAPAPPPP
+Lakshit Rastogi,1324,Salesforces admin,Offline,11/24/2023,02/28/2024,Banerjee LLC,IT,1,Male,bahrieva@example.net,15986257,6764255058,48,22,95,40,46,APAPPPAA
+Yashvi Mangal,1325,Backend-end development,Online,07/16/2023,10/24/2023,"Agarwal, Sastry and Dave",IT,3,Male,awadhwa@example.net,7875472061,7312065621,84,77,29,4,1,PPAAPAPP
+Ojas Keer,1326,Data Science,Online,03/20/2023,06/22/2023,"Balasubramanian, Kannan and Tiwari",BBA,2,Male,hbains@example.com,9974215,2251493,73,70,13,18,15,APPPPAAP
+Tanya Iyer,1327,AI/ML,Online,07/16/2023,11/14/2023,Ghosh and Sons,BCA,3,Male,sainilakshit@example.com,9507632441,4597568988,41,28,36,15,98,AAPAPPPP
+Kismat Deshmukh,1328,AI/ML,Online,06/16/2023,09/22/2023,Chand-Banerjee,B.tech,4,Male,sanadas@example.org,94655310,9321166,70,17,88,46,17,APPPAPAA
+Bhavin Bajwa,1329,Mobile app development with Flutter and Cloud with AWS,Online,07/21/2023,12-09-2023,Thakur-Shere,B.tech,3,Male,ishaansamra@example.net,4698127151,9889641,38,52,42,35,37,PPAPAPPP
+Indranil Mannan,1330,AI/ML,Offline,08/23/2023,01-03-2024,Som-Sathe,BCA,1,Female,chokshimadhav@example.org,681446,2852987841,93,37,31,42,50,AAAAPAPA
+Samarth Salvi,1331,AI/ML,Online,04/16/2023,09-06-2023,"Kurian, Brar and Johal",BCA,4,Female,mdey@example.org,5147837249,16343560,91,33,93,18,27,PPAAPPPP
+Faiyaz Arya,1332,Mobile app development with Flutter and Cloud with AWS,Offline,07-10-2023,11/14/2023,Sekhon-Bansal,B.tech,3,Male,chaudhrykrish@example.net,1400560832,1479434696,79,9,30,68,99,APAAPPAA
+Krish Kapadia,1333,Backend-end development,Offline,02-06-2024,06-10-2024,Sur Inc,BBA,4,Female,bhardwajishita@example.org,454251,4305819971,10,66,33,42,65,APPAPPAA
+Adah Gulati,1334,Salesforces admin,Online,01/13/2024,04/18/2024,"Karan, Varty and Som",B.tech,4,Female,anahitakar@example.com,3679744,1626082,77,84,94,58,33,APAAAAPP
+Zain Bajwa,1335,AI/ML,Offline,04/17/2023,09/17/2023,Sharaf-Seshadri,BBA,1,Male,mannatrajan@example.com,6366887756,32389257,38,48,1,21,78,PAPPAAAP
+Rania Dewan,1336,Salesforce development,Online,04-03-2023,06/21/2023,"Sandhu, Mall and Samra",IT,3,Female,sekhonvivaan@example.com,37459834,12962592,84,99,59,87,78,APAPPAAA
+Ivan Brar,1337,IOT with AI,Online,08/20/2023,10/19/2023,"Walia, Sandal and Bobal",BBA,4,Male,daradivit@example.net,5087118725,7145560,54,36,34,33,63,PAPPPPAP
+Saksham Anand,1338,Salesforces admin,Online,06/15/2023,10/25/2023,Goyal-Chana,M.tech,4,Female,ahana-91@example.org,7250645,2578058,45,66,83,34,87,APPAAAAP
+Kavya Thaker,1339,Backend-end development,Offline,12/21/2023,06/15/2024,Subramanian LLC,MCA,4,Male,anikamani@example.org,31270888,3365823568,5,33,12,30,41,APAPAAAP
+Mannat Cherian,1340,Mobile app development with Flutter and Cloud with AWS,Offline,04-12-2023,06/17/2023,Sura-Bora,MCA,4,Male,zdhingra@example.com,44544834,97734220,20,12,89,19,85,PPPAAPAA
+Hunar Comar,1341,Backend-end development,Online,09/20/2023,11/27/2023,Sarraf-Sanghvi,BBA,2,Female,miraya62@example.com,50567254,4522861242,32,41,6,89,81,APAPPPAP
+Miraan Sabharwal,1342,Mobile app development with Flutter and Cloud with AWS,Offline,10/27/2023,04-04-2024,Kohli-Cherian,BCA,1,Female,viswanathandivij@example.net,64227952,2660616,87,67,35,38,15,PAPPPPPP
+Indrans Vig,1343,IOT with AI,Offline,05/17/2023,11-11-2023,"Sharma, Balakrishnan and Sagar",BBA,1,Female,kuriankimaya@example.org,6947644,9366469,48,95,81,94,7,PAPAPPAP
+Kavya Varughese,1344,Front-end web development,Offline,10/24/2023,03-01-2024,Aurora-Ravi,IT,1,Male,usuresh@example.com,8235525617,4905355,49,86,44,55,38,APAPAPPA
+Divij Badami,1345,Data Science,Online,09/15/2023,12/18/2023,"Seshadri, Khurana and Bava",B.tech,4,Female,kabir03@example.org,3018640,498334068,62,85,48,36,80,APAPPAPA
+Prerak Ramanathan,1346,Salesforce development,Online,11/19/2023,03/26/2024,Mander PLC,B.tech,1,Female,mjayaraman@example.net,1180309189,8924433,48,16,85,84,19,PAPAAPPP
+Kiara Chakrabarti,1347,AI/ML,Offline,08-02-2023,01/26/2024,Chaudhuri-Dalal,BBA,1,Male,dasguptasahil@example.com,8600033168,8011474378,22,59,76,35,97,APAAPPPP
+Purab Wason,1348,Salesforces admin,Online,01-02-2024,03/22/2024,"Raman, Vyas and Saraf",IT,3,Male,savantvanya@example.net,2620837654,13792338,27,53,4,53,69,PAAPAPAA
+Ahana  Sundaram,1349,Salesforce development,Online,09/19/2023,12/19/2023,Rama-Iyer,BCA,3,Female,taran41@example.com,1255191492,4305945,66,42,97,87,1,AAAPAPAP
+Shray Chawla,1350,AI/ML,Online,11/15/2023,02/29/2024,"Brar, Shere and Chopra",BBA,2,Female,sarmareyansh@example.org,413843,7496889,72,74,52,91,56,PPPPAAPP
+Nirvi Kota,1351,Salesforces admin,Online,12-04-2023,05/30/2024,Gokhale and Sons,BCA,2,Female,qshah@example.org,3910901047,70229906,39,77,50,52,5,AAPAAPAP
+Umang Choudhry,1352,Salesforce development,Online,12/13/2023,02/24/2024,Kalita-Hayre,M.tech,1,Female,deosaanvi@example.org,9152315,80539861,32,36,8,28,23,APPAPPAP
+Shalv Khalsa,1353,Salesforces admin,Offline,06-08-2023,10/24/2023,"Subramanian, Bala and Bhatti",BCA,3,Male,ldhar@example.net,2064650,74398666,7,28,94,4,45,AAPPAPPP
+Rohan Walla,1354,Salesforce development,Online,11/18/2023,05-04-2024,Chadha PLC,IT,1,Female,ladmanjari@example.org,3139793111,8048261,16,57,74,68,30,PPAPPAAA
+Raunak Shan,1355,Mobile app development with Flutter and Cloud with AWS,Offline,10-09-2023,01/28/2024,Devi-Doctor,B.tech,1,Male,dhanush81@example.com,7494678179,5216280,43,41,43,97,83,APAPAAAP
+Saanvi Kamdar,1356,IOT with AI,Offline,02-02-2024,06/17/2024,Raj-Choudhary,MCA,1,Male,priyansh02@example.net,41540934,6234622331,81,1,3,72,99,APAAAAAA
+Chirag Kara,1357,Salesforces admin,Online,08-05-2023,12-05-2023,Ganesan Inc,M.tech,3,Male,anaya08@example.org,95498852,6074729524,2,99,32,71,41,PPAPPPAA
+Kiaan Sabharwal,1358,Mobile app development with Flutter and Cloud with AWS,Online,06/24/2023,09-03-2023,Dora-Varty,M.tech,1,Male,divij89@example.net,7178376,3854889622,39,36,84,12,80,PPPPPAPA
+Piya Jani,1359,IOT with AI,Offline,08-06-2023,12-09-2023,Edwin-Kota,BCA,1,Male,anya66@example.net,9875881851,89743036,25,80,55,19,7,AAPPAPPA
+Faiyaz Maharaj,1360,IOT with AI,Offline,05-05-2023,10/21/2023,Sahota-Chacko,M.tech,3,Male,drishya05@example.net,5401354,3477359018,86,89,36,41,45,AAAPAPAP
+Elakshi Sheth,1361,Salesforce development,Online,09/13/2023,11/26/2023,Kala-Trivedi,M.tech,3,Male,sana24@example.net,60353629,8380182369,10,78,34,63,93,AAPPPAAP
+Vaibhav Kamdar,1362,Backend-end development,Online,02/25/2023,07/18/2023,"Bahl, Soni and Shankar",BCA,1,Male,lalayashvi@example.org,3871099,4673258068,12,70,0,55,77,APPAAAPA
+Samarth Reddy,1363,Salesforces admin,Offline,11/23/2023,02/14/2024,Sami and Sons,MCA,4,Male,hegdeanahi@example.net,2547989639,7107426,58,28,8,31,40,PPAAPAAA
+Rania Sanghvi,1364,AI/ML,Offline,12/15/2023,05-08-2024,Wali-Batra,BCA,3,Male,ishita45@example.net,43726082,2125866,99,98,99,52,58,PPPPPPPP
+Vaibhav Cherian,1365,Data Science,Offline,01/27/2024,07-07-2024,Tailor and Sons,BCA,1,Male,romilbir@example.com,1059527,940254755,96,6,14,92,87,APPAPPAP
+Sana Bhagat,1366,AI/ML,Offline,02-04-2024,06/15/2024,"Chaudry, Borah and Bobal",BCA,2,Male,settyraunak@example.com,64701019,705902391,83,24,57,39,92,APAAAPPP
+Jayant Gokhale,1367,Data Science,Online,11/19/2023,01/29/2024,"Banerjee, Mangal and Taneja",IT,3,Female,okothari@example.org,8161362821,22106172,7,80,78,58,18,APPAPAPA
+Kanav Sinha,1368,AI/ML,Offline,04/18/2023,09/17/2023,"Andra, Ravel and Batra",B.tech,1,Male,alia34@example.com,5054808051,6786024744,91,16,83,45,21,PPAPAAAP
+Akarsh Wable,1369,Mobile app development with Flutter and Cloud with AWS,Online,11/21/2023,03-01-2024,Aurora-Kashyap,M.tech,4,Male,zoyaramakrishnan@example.org,83600712,7370791,48,14,57,69,6,AAPAPAPP
+Myra Sant,1370,Data Science,Online,11-11-2023,03-04-2024,Badal-Aggarwal,BBA,1,Female,venkataramananya@example.org,7799525,82295800,5,91,72,17,21,PPAAPAAA
+Kiaan Chawla,1371,IOT with AI,Offline,11/21/2023,05/16/2024,Mangat-Dixit,BBA,3,Female,hunar60@example.org,70862015,5857987805,40,54,54,50,54,AAPPAAAP
+Eva Gola,1372,Mobile app development with Flutter and Cloud with AWS,Offline,11/17/2023,03-07-2024,"Chadha, Dugar and Bhattacharyya",BBA,4,Male,sridharshayak@example.net,22361617,4439400008,2,81,6,95,3,PAAPAAPP
+Vivaan Bera,1373,IOT with AI,Offline,03-01-2023,07/19/2023,Raju PLC,B.tech,1,Female,borakrish@example.com,285071,8419395636,41,32,88,56,86,APPAPAPA
+Arhaan Rao,1374,AI/ML,Online,07/23/2023,10-08-2023,"Gour, Bajaj and Subramanian",BCA,3,Male,mchhabra@example.org,1623605870,3086661410,24,40,15,99,33,AAPPPAPP
+Urvi Dixit,1375,Salesforces admin,Online,08/27/2023,02/18/2024,Bhavsar-Chakraborty,B.tech,1,Female,tsom@example.com,5531136,4398387293,57,38,52,87,67,AAPAAPPP
+Vritika Bhatti,1376,Data Science,Online,02-10-2024,07-08-2024,"Randhawa, Bera and Ratta",M.tech,4,Female,ambleanaya@example.net,91822193,3903992864,23,56,26,61,61,PPPPPPPA
+Nehmat Dixit,1377,Salesforces admin,Offline,09/28/2023,02-11-2024,"Boase, Barad and Rana",IT,3,Male,qbath@example.org,1039881,2118042607,31,18,77,31,8,APAPPPPP
+Adah Ratta,1378,Backend-end development,Online,11/17/2023,02/14/2024,Vasa PLC,IT,2,Female,danihridaan@example.net,4831895,86702605,49,35,7,52,1,PPAPAAPP
+Rasha Bhalla,1379,Mobile app development with Flutter and Cloud with AWS,Online,03/21/2023,09-06-2023,"Dora, Acharya and Ghose",B.tech,3,Male,alisha91@example.com,49820999,2634982,15,16,95,83,94,PPPPPPPP
+Ojas Batra,1380,Front-end web development,Online,10-07-2023,12/31/2023,Deep-Guha,BBA,2,Female,jiyadeep@example.org,2929284,82133868,25,12,21,70,33,AAPAPAPA
+Nehmat Baral,1381,IOT with AI,Offline,04/22/2023,09/17/2023,"Sankar, Sarma and Kunda",IT,4,Male,aggarwalfateh@example.com,2128765809,5408949,38,24,94,54,58,PPPPAPPA
+Parinaaz Khalsa,1382,Front-end web development,Offline,02/27/2023,08-08-2023,"Tara, Sidhu and Sehgal",BBA,1,Female,hanshkrish@example.net,7440855,1656120588,52,92,56,0,44,PPAPAAPA
+Mahika Setty,1383,Backend-end development,Offline,07/23/2023,11-05-2023,"Hayre, Sibal and Gill",BCA,2,Male,bawatrisha@example.com,9428096,8389829,22,84,75,43,55,APAAAAAA
+Saanvi Sant,1384,Salesforce development,Offline,04/13/2023,09-03-2023,"Biswas, Sathe and Divan",IT,1,Female,fateh21@example.org,2640578,18700869,75,58,84,30,81,AAAAPPPP
+Lagan Lad,1385,Salesforce development,Online,05-11-2023,10/21/2023,"Walla, Khare and Gola",M.tech,3,Female,divij07@example.org,7537619,1997198863,3,13,97,18,32,PPPPAPPP
+Kanav Bhargava,1386,Backend-end development,Online,02/24/2023,05-09-2023,Saha-Desai,M.tech,4,Female,ayesha84@example.net,9904864,8195024192,37,12,27,62,49,PAPAAPPP
+Suhana Borra,1387,Backend-end development,Online,02-10-2024,06-04-2024,Mannan-Sangha,MCA,4,Female,sacharindranil@example.net,6204063,45530613,26,65,49,70,61,PAPAAAAA
+Vardaniya Baral,1388,Mobile app development with Flutter and Cloud with AWS,Online,12-05-2023,02/23/2024,Dugar-Yadav,BCA,2,Male,badaminishith@example.com,6011957,8206218,12,50,11,75,10,PPPPPPPA
+Krish Sem,1389,AI/ML,Online,02-05-2024,07/29/2024,"Bath, Thaker and Talwar",IT,2,Male,tejaskata@example.net,19204632,141882782,5,24,90,52,87,APPPAAPA
+Onkar Sandhu,1390,AI/ML,Offline,09/17/2023,01-07-2024,Kumer and Sons,IT,3,Female,kulkarnijivin@example.org,7998723,5134705335,15,43,69,54,31,PPPAAPPA
+Nitya Ben,1391,Front-end web development,Offline,11/30/2023,04/24/2024,Khanna-Dhingra,MCA,3,Female,xsagar@example.org,9701849,8150950794,45,9,17,50,15,AAPAPPPA
+Kashvi Zacharia,1392,Backend-end development,Offline,08/19/2023,12-11-2023,Jayaraman-Raj,MCA,4,Male,rtara@example.org,9450223306,676735,100,51,39,76,16,PPPPPPAP
+Yashvi Dube,1393,Salesforces admin,Offline,11/26/2023,02/28/2024,"Shetty, Konda and Bhat",B.tech,1,Female,mahika84@example.net,3574758,444224027,15,78,95,15,9,PPAAPAAP
+Indrans Wali,1394,IOT with AI,Offline,05/21/2023,10-03-2023,"Chopra, Dugar and Samra",BCA,4,Male,samiha27@example.com,8069160712,2629695,92,89,25,52,35,PPPPAAAP
+Anya Krishnamurthy,1395,Backend-end development,Online,10-08-2023,02/18/2024,Solanki Group,BBA,1,Male,jiyabarman@example.com,3193359437,948207,53,39,100,48,10,APPAAAPP
+Shayak Kothari,1396,Front-end web development,Offline,09-01-2023,02/24/2024,Dayal-Bhandari,IT,3,Male,desumer@example.net,79635341,21032477,22,45,93,29,37,APAAAAAP
+Hridaan Garde,1397,AI/ML,Offline,07/26/2023,09/25/2023,Sankar-Venkatesh,MCA,1,Female,wsawhney@example.org,3104132,5874068,84,27,19,21,3,PAAPAPAP
+Mahika Deshmukh,1398,Front-end web development,Online,11/22/2023,03-07-2024,Sheth-Sarraf,BBA,3,Male,osrivastava@example.com,9588766630,8408114,74,96,25,78,36,PPPAAAPP
+Saksham Bansal,1399,Mobile app development with Flutter and Cloud with AWS,Offline,04-11-2023,09/16/2023,Kala PLC,BBA,1,Male,shettycharvi@example.com,3802945063,8063866,57,39,74,65,79,APPPAPAA
+Ojas Sidhu,1400,Data Science,Offline,09/21/2023,02/22/2024,"Kapoor, Sani and Bir",M.tech,2,Female,aarav63@example.com,8529337434,4119421,19,4,40,95,32,PAAPAAPP
+Anahita Arya,1401,IOT with AI,Offline,01/22/2024,07-11-2024,Dhillon-Sha,B.tech,4,Male,omahal@example.net,8323851657,4120056,73,13,92,91,66,APAAPAAA
+Madhav Mani,1402,Salesforce development,Offline,10-07-2023,12/31/2023,Bhardwaj-Zacharia,B.tech,3,Male,farhandey@example.com,6604842542,1880381,6,61,32,74,26,APPAPPPP
+Lakshit Joshi,1403,Salesforces admin,Online,02/21/2024,04/29/2024,"Arya, Chahal and Hayre",BBA,4,Female,shenoymiraya@example.net,68579192,9748412,68,48,13,98,54,PAAAAAPP
+Jayan Bhatnagar,1404,Front-end web development,Online,02-10-2024,04-10-2024,Venkatesh-Mangat,BBA,2,Female,arhaan60@example.net,4856982,4304076,22,26,69,18,47,PPPAPPAA
+Ritvik Majumdar,1405,Salesforces admin,Offline,02/26/2023,04/29/2023,"Sundaram, Chhabra and Guha",MCA,1,Female,mannat26@example.org,1702069,7233710898,19,8,2,69,62,APAAPPPA
+Shamik Devan,1406,Backend-end development,Offline,04/20/2023,09/15/2023,Raj-Wable,MCA,1,Male,nayantara13@example.org,5174263,58646558,88,9,65,4,68,AAPPPAPA
+Divit Seth,1407,Backend-end development,Online,10/25/2023,02/13/2024,"Raval, Mahajan and D’Alia",B.tech,3,Male,bhattriaan@example.net,71260601,8498274704,27,73,65,35,83,APPAAAPP
+Keya Bansal,1408,Salesforces admin,Online,02-10-2024,05/26/2024,Mahal-Bose,BBA,1,Male,badamimanikya@example.org,9968955,1913341,39,15,16,46,23,PAAPPAPP
+Ishaan Devi,1409,IOT with AI,Offline,12-10-2023,03/31/2024,Gara Group,M.tech,4,Female,zain89@example.net,2961499326,52839473,87,59,66,51,99,PPPPPPAA
+Ivan Khare,1410,Salesforces admin,Online,03/23/2023,08-07-2023,Hegde and Sons,M.tech,1,Male,kgandhi@example.org,2739542451,58536351,46,66,72,68,96,APPAAAAA
+Jiya Soni,1411,Mobile app development with Flutter and Cloud with AWS,Offline,01/31/2024,07-10-2024,D’Alia-Gupta,M.tech,3,Female,jsundaram@example.org,86799418,5310694,17,45,43,14,36,PPPPAAPA
+Tushar Vora,1412,Backend-end development,Offline,04-04-2023,06/17/2023,Sandal Inc,BBA,2,Male,raghavchaudhary@example.com,13185459,8285510725,80,34,17,59,92,PAPAPPAA
+Jiya Desai,1413,Backend-end development,Offline,01/19/2024,06/27/2024,Sane LLC,BCA,4,Male,rausamarth@example.net,832643329,33188075,22,1,11,82,93,PPAAPAAP
+Siya Ganesan,1414,Salesforce development,Offline,04/29/2023,09/23/2023,Chakraborty Group,M.tech,1,Female,vedikabala@example.org,91606407,3481474071,99,1,2,37,42,APAPPAPP
+Oorja Soni,1415,Mobile app development with Flutter and Cloud with AWS,Offline,11-09-2023,03-07-2024,Sarraf-Dhaliwal,M.tech,2,Female,karnikhazel@example.org,1555673,3104765,79,8,1,17,79,PAPAPPAA
+Inaaya  Dass,1416,Backend-end development,Offline,01/31/2024,05/13/2024,Gupta Group,M.tech,2,Female,vtalwar@example.net,9756675341,2838729626,85,57,98,48,49,AAPPAPPP
+Vedika Kala,1417,Data Science,Offline,07/21/2023,11/17/2023,Dani Ltd,B.tech,4,Female,badal19@example.org,13235865,8630855,94,26,28,38,60,APAPPPPA
+Samarth Krishna,1418,IOT with AI,Offline,07/20/2023,11/13/2023,Kulkarni Group,BCA,4,Female,bordearmaan@example.net,27958652,11617980,30,17,57,36,44,APAPPAPP
+Nehmat Johal,1419,IOT with AI,Online,01-02-2024,03-09-2024,Garde Ltd,BBA,4,Male,yhayre@example.org,8207388,8986773133,25,0,0,64,70,APPAAPAP
+Jiya Varkey,1420,IOT with AI,Online,04/30/2023,07-11-2023,Sachdeva PLC,IT,1,Male,jhanviseth@example.org,29501125,73642624,100,82,27,51,26,APAAPAPP
+Aaryahi Guha,1421,Mobile app development with Flutter and Cloud with AWS,Online,08/23/2023,01-12-2024,"Jayaraman, Sarkar and Maharaj",IT,3,Male,zara94@example.org,5587735038,1578790,13,17,82,4,17,PAPAPAPA
+Shamik Ravel,1422,Salesforce development,Offline,08-03-2023,11/13/2023,"Mandal, Khare and Batta",BCA,2,Male,ranbir02@example.com,15148080,7665820230,50,100,46,99,55,PAPPAPPP
+Pranay Sankaran,1423,Data Science,Online,04-06-2023,06/28/2023,Bose-Apte,IT,4,Female,shamik20@example.org,1277431380,9906079501,65,60,75,97,85,AAAAPAAP
+Biju Kashyap,1424,Backend-end development,Online,01/27/2024,06-11-2024,Dass-Chada,B.tech,3,Female,navya11@example.net,2690922945,5843530,5,80,54,95,7,APAAAAPP
+Aniruddh Chauhan,1425,Salesforce development,Online,10/26/2023,01/15/2024,"Raju, Mallick and Roy",IT,2,Female,qdhar@example.com,42495128,6041739,77,96,45,67,58,APPPPPPP
+Darshit Borra,1426,Salesforces admin,Offline,08/26/2023,11/24/2023,Khanna-Bala,B.tech,3,Female,braval@example.net,51440738,4692899,47,59,87,73,88,APAAPPPA
+Armaan Vala,1427,Backend-end development,Online,06/13/2023,10/27/2023,Manne Inc,BBA,2,Male,buchkaira@example.com,7452842518,9921458,93,22,100,6,8,PPPPPPPP
+Saira Bali,1428,AI/ML,Online,11/15/2023,02/14/2024,"Toor, Chokshi and Sani",BBA,3,Male,indrans40@example.com,7734050595,9966525813,86,100,74,45,37,APPAPAAA
+Renee Bava,1429,Front-end web development,Online,12-11-2023,05/20/2024,"Shah, Bahl and Kulkarni",MCA,4,Male,settydarshit@example.org,5417739,53429671,40,96,12,43,38,PAPAAPAA
+Kiara Kumar,1430,AI/ML,Online,04/28/2023,08-07-2023,"Ahuja, Brahmbhatt and Rao",BBA,3,Male,diyasant@example.org,9627263129,9400895,82,75,38,17,97,APPAPPAA
+Khushi Samra,1431,Mobile app development with Flutter and Cloud with AWS,Online,06/17/2023,10/27/2023,Mangat PLC,M.tech,3,Male,seshadridrishya@example.com,3794647048,22227589,63,94,86,92,62,PPPAPAPA
+Gatik Aurora,1432,Mobile app development with Flutter and Cloud with AWS,Offline,11/16/2023,04-05-2024,"Kapadia, Dar and Koshy",B.tech,1,Male,aniruddhchada@example.com,89230504,9720097,76,23,7,43,72,PPAAPAAP
+Amira Gulati,1433,Backend-end development,Online,05/27/2023,11/22/2023,"Kaul, Zachariah and Aggarwal",IT,2,Male,shaharmaan@example.org,87994950,60202318,33,50,89,20,78,APPPAPAA
+Yuvraj  Barad,1434,IOT with AI,Online,10-02-2023,02/18/2024,Gupta Inc,BCA,4,Female,dasguptaromil@example.net,68476177,40645245,93,80,45,68,39,AAPAAAAA
+Yuvaan Sathe,1435,Salesforces admin,Offline,06/24/2023,09/26/2023,"Anne, Tank and Garg",BBA,2,Male,regeritvik@example.com,94016081,5762572,9,40,43,99,88,APAAAPAP
+Anya Walia,1436,Mobile app development with Flutter and Cloud with AWS,Online,10-01-2023,01/21/2024,Dani-Garde,IT,2,Female,adah74@example.net,5092625354,77342625,40,100,46,36,86,AAPPPAAP
+Jayant Toor,1437,Mobile app development with Flutter and Cloud with AWS,Online,11-07-2023,03/18/2024,Rajagopal Group,BCA,4,Male,shaumang@example.com,9253439,8594016809,80,50,80,53,94,APPPPAPA
+Neelofar Barad,1438,Salesforces admin,Online,09/25/2023,12/15/2023,"Bhalla, Balay and Rattan",IT,4,Female,jivinbalakrishnan@example.org,2648151353,57465303,25,91,85,80,53,APPAAPAA
+Khushi Chahal,1439,Front-end web development,Offline,11-04-2023,01/13/2024,Bains Group,B.tech,4,Female,ahujakrish@example.net,741201937,53902136,10,35,22,59,66,APPPPPAA
+Divij Dutt,1440,Mobile app development with Flutter and Cloud with AWS,Offline,05/21/2023,11-10-2023,Madan-Amble,M.tech,3,Male,saksham52@example.com,48871860,7930994153,81,15,60,60,62,PAAAAAAP
+Rania Krishnan,1441,Salesforce development,Online,07/30/2023,11/22/2023,Balay-Sibal,B.tech,1,Male,oorja34@example.org,872088,2813093942,9,11,77,90,44,PPAAPAAP
+Indranil Ray,1442,Salesforce development,Offline,09/26/2023,01/13/2024,"Zachariah, Chopra and Badal",BCA,3,Female,vanyashenoy@example.com,21102526,8667200,91,34,9,10,38,APAPAPPP
+Zoya Kadakia,1443,Salesforce development,Online,08/19/2023,10/24/2023,Bora-Barman,BBA,4,Female,jhanehmat@example.net,9664145456,4635844,3,9,39,83,45,PAPPPPPA
+Akarsh Rajagopalan,1444,Mobile app development with Flutter and Cloud with AWS,Online,05-06-2023,10-05-2023,"Lad, Baria and Gole",IT,2,Male,azad55@example.com,35988535,8028338,53,28,37,21,27,AAPPAAAP
+Anika Mall,1445,Salesforces admin,Offline,05-02-2023,09-08-2023,"Srivastava, Sankaran and Lata",MCA,4,Female,nitya63@example.com,5406328,6864064,36,47,34,33,86,PAPAPPAA
+Jayan Toor,1446,Backend-end development,Offline,11/21/2023,03/28/2024,Dasgupta PLC,MCA,4,Male,daminiloyal@example.net,61121920,72373483,63,74,0,68,63,PAAPPAAA
+Taimur Dugar,1447,Mobile app development with Flutter and Cloud with AWS,Online,02/28/2023,06-12-2023,Goel and Sons,MCA,1,Female,ojas65@example.org,75045587,1560779,11,65,7,15,38,PPAAAPAA
+Oorja Ramesh,1448,Backend-end development,Offline,01/21/2024,06/14/2024,Kakar Inc,BCA,3,Male,hram@example.org,78555741,4398148814,49,7,4,40,53,PAAPAPAA
+Gatik Toor,1449,IOT with AI,Online,03/16/2023,05/30/2023,"Sundaram, Bora and Goda",B.tech,1,Male,bhayer@example.net,4913363444,9450513,81,94,74,92,30,AAPPAPPP
+Devansh Kant,1450,Front-end web development,Offline,11/14/2023,02/19/2024,"Manne, Sathe and Rajagopal",B.tech,1,Female,tarini22@example.com,30950538,5594678327,80,80,87,18,83,AAPAAPAP
+Aarush Jha,1451,AI/ML,Offline,05-05-2023,10-11-2023,"Khare, Bajaj and Khosla",BBA,4,Female,rattakismat@example.com,3023513,1245279422,64,61,58,30,24,PPAAPPPA
+Shlok Rana,1452,Data Science,Online,12/25/2023,06-02-2024,Gera-Bhakta,M.tech,4,Male,samarth89@example.org,4323848791,8968348,84,95,86,33,53,PPAAPAAA
+Nishith Kothari,1453,IOT with AI,Online,01/23/2024,04/30/2024,Andra Group,BBA,3,Female,tanyaraju@example.net,534852,509329808,39,8,84,4,68,AAPAAPPA
+Lavanya Sankaran,1454,Salesforce development,Online,01/25/2024,06-07-2024,Bhakta-Randhawa,MCA,4,Male,rkhanna@example.org,1665262,4448461,22,97,95,81,23,AAAAAPPP
+Adira Barman,1455,Mobile app development with Flutter and Cloud with AWS,Offline,05-10-2023,08/28/2023,"Varty, Cheema and Sampath",IT,3,Female,andraaradhya@example.com,82891233,40108,23,4,6,41,55,AAAAPPAA
+Ivan Baria,1456,IOT with AI,Online,02/14/2024,04/16/2024,"Dayal, Chandra and Char",IT,2,Female,baiju37@example.org,3510576144,1347047501,100,63,1,3,25,PAAAPAPP
+Arhaan Tailor,1457,Data Science,Online,04-07-2023,06/17/2023,Kade-Kade,B.tech,2,Female,bhasindrishya@example.org,846653,3456764,93,49,60,97,98,PPAPPAPA
+Nitara Sidhu,1458,AI/ML,Offline,02/13/2024,05/29/2024,Kuruvilla-Ramaswamy,BCA,2,Male,taran58@example.net,56740391,431388854,57,31,11,6,81,PAPAPAAA
+Onkar Shankar,1459,IOT with AI,Online,02-09-2024,07-12-2024,"Jhaveri, Walia and Dass",B.tech,1,Female,badamiseher@example.com,5817001,4185652,41,54,24,22,60,PAPAAPAA
+Miraan Atwal,1460,Salesforces admin,Offline,09-03-2023,02/18/2024,Gaba Inc,M.tech,2,Female,qdar@example.net,25597750,5522561,23,58,79,3,33,AAAPAAPA
+Elakshi Aurora,1461,Front-end web development,Online,12/21/2023,03-01-2024,Sha Inc,BCA,3,Male,choudhrytarini@example.com,3918329484,1178737071,90,60,72,82,53,AAPPPAAA
+Prisha Jhaveri,1462,Backend-end development,Offline,05-10-2023,08-03-2023,Dhawan Group,M.tech,3,Female,yasmin56@example.net,2634123457,3460954077,63,71,93,44,93,APPPAPAP
+Miraya Balay,1463,IOT with AI,Offline,12/20/2023,03/27/2024,Bhavsar Group,M.tech,1,Female,xvarkey@example.com,5163637676,4851329179,7,28,87,76,64,PAPAAPAP
+Hiran Dhaliwal,1464,IOT with AI,Online,11/21/2023,02/25/2024,"Dhingra, Krish and Varghese",BCA,4,Female,xkhare@example.com,6206105,5324148522,29,64,84,50,64,PAPAPPPP
+Nirvi Sura,1465,Mobile app development with Flutter and Cloud with AWS,Online,08-05-2023,01/26/2024,Bhandari-Venkatesh,IT,4,Male,sankargokul@example.org,27000403,8432305700,44,9,24,10,74,PPAAAAAA
+Miraya Dua,1466,Backend-end development,Online,09/18/2023,02-05-2024,"Thakur, Srinivasan and Reddy",MCA,4,Male,stuvansem@example.org,20477435,8254093349,76,37,36,90,2,PPPAPAPA
+Rohan Raj,1467,Backend-end development,Offline,10-03-2023,01/21/2024,Sur-Bera,B.tech,2,Male,ytaneja@example.com,960022185,48579928,78,38,50,48,38,APAPPPPA
+Shamik Bhagat,1468,IOT with AI,Online,07/27/2023,10-11-2023,Yohannan-Hayer,B.tech,1,Male,stuvantaneja@example.com,6719183252,3126099,54,94,53,26,12,PPPPAPAA
+Ira Sabharwal,1469,Front-end web development,Online,06/29/2023,12/16/2023,Dalal-Agarwal,M.tech,2,Male,shamik38@example.com,7937344,62480072,79,91,55,66,71,AAAAAPPA
+Ehsaan Chana,1470,IOT with AI,Offline,10-09-2023,01/26/2024,Kota Group,BCA,2,Male,vaibhav66@example.org,9562641,74181992,13,60,86,78,86,APAAAAPA
+Farhan Devan,1471,Data Science,Offline,05-11-2023,09-03-2023,Dada-Chander,IT,1,Male,latadarshit@example.com,5808132,48564743,21,82,97,5,42,AAAAPPPP
+Divit Garg,1472,Front-end web development,Offline,03-08-2023,05-12-2023,Choudhry-Raja,B.tech,4,Male,kbadami@example.org,8211896323,70269630,8,72,30,61,58,PAPPPAPP
+Lakshit Barman,1473,Data Science,Online,11/28/2023,03/19/2024,Atwal-Thakur,IT,2,Female,kamdarmamooty@example.org,44004954,8212672,25,33,18,5,92,PAPPPPPA
+Jivika Divan,1474,Front-end web development,Online,01/23/2024,07-08-2024,"Manda, Rege and Bedi",IT,3,Male,vaidyakiaan@example.com,2665204688,6173261990,21,60,16,30,80,APAPAPPA
+Eva Gill,1475,Backend-end development,Online,07-11-2023,11-01-2023,Sodhi Group,IT,3,Male,karnikkrish@example.com,8247904,5547422314,54,5,46,85,73,PPAAPAAA
+Hiran Sharaf,1476,Front-end web development,Offline,02-10-2024,06-02-2024,Bose Ltd,MCA,1,Female,borazoya@example.org,7680472,4143880908,78,3,28,30,54,PPAAAAPA
+Aaryahi Dada,1477,Salesforces admin,Online,03-02-2023,05-12-2023,Chana-Ghosh,MCA,4,Female,divijbose@example.net,8829228,66487275,94,32,9,81,46,APPPPPPP
+Arhaan Chad,1478,Data Science,Offline,08/31/2023,11-07-2023,Hayre-Loke,B.tech,2,Female,wratti@example.com,66079065,2834561776,58,60,62,33,63,APPPAPPA
+Shamik Gole,1479,AI/ML,Online,12/18/2023,05/17/2024,"Kashyap, Gill and Din",B.tech,3,Male,myraborde@example.net,5537270,92675280,22,100,37,88,3,APPPPPAA
+Vritika Balasubramanian,1480,Backend-end development,Online,07/24/2023,12/31/2023,Das and Sons,B.tech,2,Male,nayantarakhare@example.net,4860054,1124334479,75,50,76,79,100,PPAPAAPP
+Hazel Kala,1481,Front-end web development,Offline,11-06-2023,03-06-2024,Sabharwal and Sons,IT,4,Female,dhingramyra@example.org,1802468,7939030738,24,48,80,26,53,AAPPPAAA
+Jivika Dyal,1482,IOT with AI,Online,09-06-2023,11/30/2023,Borde LLC,MCA,2,Male,yakshit76@example.org,9960239,607264,98,63,5,30,63,AAPAPPAA
+Ojas Ghosh,1483,IOT with AI,Online,12-08-2023,05/31/2024,"Vyas, Apte and Deep",BCA,4,Male,chauhanjayesh@example.org,6364707,67285939,85,29,4,43,67,AAAAAAAA
+Eshani Kunda,1484,Salesforces admin,Offline,04/23/2023,06/28/2023,"Kanda, Srivastava and Comar",BCA,2,Male,wasondevansh@example.com,79225759,4103976,64,35,65,73,37,PPAAAPAP
+Advika Zacharia,1485,IOT with AI,Online,04/16/2023,08/29/2023,Varty LLC,MCA,1,Male,gkota@example.net,7703263847,9155637196,79,0,29,81,52,AAAAAPPP
+Drishya Wable,1486,Backend-end development,Offline,05/18/2023,10-07-2023,"Gulati, Bal and Tripathi",IT,4,Male,wdalal@example.com,2134943624,7725764,97,71,45,0,98,PAAPAPAA
+Ranbir Biswas,1487,Front-end web development,Offline,03/14/2023,09-06-2023,"Swaminathan, Kota and Sharma",MCA,1,Male,fatehvig@example.org,1026783,30417636,34,45,11,59,77,PAPPAAAP
+Inaaya  Mani,1488,Front-end web development,Online,10-02-2023,02-03-2024,Banerjee Group,BBA,3,Male,mishagara@example.org,86735381,27910477,89,57,84,83,84,AAPAAPAP
+Bhamini Varma,1489,Front-end web development,Online,03/24/2023,06-08-2023,Wali PLC,BCA,1,Male,mahika39@example.com,85158657,35769543,44,13,95,6,57,APPPPPPA
+Purab Bala,1490,IOT with AI,Offline,05-10-2023,08-06-2023,Biswas Ltd,BCA,1,Female,kumarishaan@example.net,22814823,692927549,84,9,24,24,51,PAPPPPPP
+Anahita Tripathi,1491,Data Science,Online,08/19/2023,02-06-2024,Bahl LLC,M.tech,4,Male,johaljiya@example.net,4072228084,8997244,50,69,33,32,35,PAPPPPPP
+Zaina Bhatt,1492,IOT with AI,Offline,09/30/2023,12/17/2023,Yohannan-Deol,BBA,4,Male,obhatnagar@example.net,65545512,5371672,59,18,36,92,15,PAAAAPAA
+Abram Garde,1493,Front-end web development,Offline,08-08-2023,11-04-2023,Madan and Sons,B.tech,2,Male,yraman@example.net,13775668,6042944949,32,4,50,24,7,APPAAPPA
+Ranbir Kaur,1494,AI/ML,Offline,07/27/2023,11/13/2023,Sen LLC,BBA,3,Male,arnav76@example.net,38878655,1620613,52,17,5,10,91,AAPAAAPA
+Trisha Grewal,1495,Data Science,Online,06/26/2023,09-09-2023,Sampath Group,IT,3,Female,dharmajanratti@example.net,287446452,74956808,80,23,7,36,29,PAAPPPPP
+Advika Basak,1496,AI/ML,Offline,11/13/2023,01/30/2024,"Bakshi, Sankaran and Chadha",BBA,3,Male,bhattacharyyaaarush@example.com,8051680992,6001355,34,94,8,85,92,PAAAAAPP
+Aaina Madan,1497,Salesforces admin,Offline,11/24/2023,04/14/2024,Mannan Ltd,M.tech,4,Female,anya13@example.com,4164750,59149236,25,50,46,78,28,AAAPAPAP
+Badal Bali,1498,IOT with AI,Offline,08-02-2023,11/27/2023,Kapadia Inc,M.tech,1,Female,shamikvasa@example.net,603911288,27115157,10,9,95,38,38,APAPPAPA
+Rohan Shan,1499,Front-end web development,Online,05/21/2023,11-05-2023,Rajagopal-Sankar,BBA,2,Female,semshray@example.com,66760949,8543912,15,7,45,99,7,AAAAPPAA
+Faiyaz Talwar,1500,Backend-end development,Online,10/26/2023,02-11-2024,"Biswas, Mammen and Goda",B.tech,2,Male,ravifateh@example.com,2676609,60095686,17,96,13,18,16,APPPPPPP
+Jayant Khatri,1501,Salesforces admin,Offline,07/14/2023,09/14/2023,"Chawla, Goyal and Varkey",BCA,3,Male,sumer21@example.com,4123036796,8855052,68,23,58,94,31,APAAAAAP
+Fateh Majumdar,1502,Mobile app development with Flutter and Cloud with AWS,Online,10-09-2023,02-11-2024,Ratta-Deshpande,M.tech,4,Female,reyansh47@example.com,6551189490,8236634,92,75,85,60,34,PPPAPAAA
+Inaaya  Varma,1503,IOT with AI,Online,02-03-2024,06/20/2024,"Sahni, Dua and Sankaran",BBA,1,Female,diya03@example.org,88411928,8233317,63,46,40,85,8,AAAAAAPP
+Pari Sawhney,1504,Data Science,Offline,03/26/2023,09-08-2023,"Choudhary, Taneja and Vaidya",BBA,2,Female,fatehmann@example.com,77649855,7139247156,49,90,36,22,41,PAPPPPAA
+Emir Kashyap,1505,IOT with AI,Offline,06-09-2023,11/13/2023,Acharya and Sons,BCA,4,Male,nishithgoel@example.org,54251502,64787523,73,84,71,79,79,PAAAAPAP
+Hunar Sastry,1506,Data Science,Online,06/13/2023,11-09-2023,Guha-Arora,B.tech,4,Male,sachdevaaaina@example.net,4752971883,1488145,33,64,28,44,27,AAAPPPPP
+Aarav Sehgal,1507,Data Science,Offline,04/27/2023,09-11-2023,"Sandal, Thakur and Rastogi",MCA,1,Female,pchandra@example.net,7334169386,7724024,13,46,34,91,31,PAPAPPPA
+Vritika Bakshi,1508,IOT with AI,Offline,01-09-2024,03/31/2024,Wali Group,IT,3,Male,yuvraj-gill@example.com,7573737,4033280,83,28,97,74,96,AAAPPPAA
+Kimaya Chaudry,1509,Backend-end development,Online,04-01-2023,06/16/2023,Anne LLC,BBA,3,Female,purabmalhotra@example.net,5957877983,8875108,42,56,2,10,98,APAPAPAP
+Aarav Dash,1510,Data Science,Online,10-10-2023,12/20/2023,"Ramanathan, Lal and Virk",MCA,2,Female,ivanavenkataraman@example.net,3450286797,959132,4,59,69,5,14,AAAAPAAP
+Mannat Kaur,1511,Salesforces admin,Offline,02-07-2024,05-09-2024,"Saraf, Mani and Dube",IT,3,Female,rajanzaina@example.org,9455516,7982599,89,85,54,25,24,APPAPPAP
+Aarna Mangal,1512,Mobile app development with Flutter and Cloud with AWS,Offline,02/25/2023,08/18/2023,"Mannan, Majumdar and Rout",BBA,2,Female,bhavin12@example.org,1305581,66804355,84,97,30,42,40,PAPPAAAA
+Yuvraj  Shah,1513,Salesforces admin,Offline,02/18/2024,05/22/2024,Chandran PLC,BCA,1,Female,rattimamooty@example.net,2240142,562030216,55,48,93,59,87,PPPAPPAP
+Aarush Chaudry,1514,Salesforce development,Offline,03/20/2023,06-04-2023,Sawhney LLC,BCA,3,Female,myra39@example.net,6160682996,79227505,79,51,44,66,5,PAAAAAAA
+Jayesh Kota,1515,Mobile app development with Flutter and Cloud with AWS,Offline,09/15/2023,12/16/2023,"Dhar, Ganesan and Mangal",B.tech,2,Female,jayantandon@example.org,61708197,8398339394,10,43,13,49,96,PAPAAAPP
+Lavanya Lala,1516,AI/ML,Offline,10/19/2023,03-11-2024,Kunda-Kaul,B.tech,4,Female,msridhar@example.net,412145680,6085308,58,8,17,44,89,PAAAPPAA
+Tejas Gandhi,1517,Front-end web development,Offline,10-03-2023,02-05-2024,"Hans, Kota and Deshmukh",BCA,3,Female,tejas66@example.net,43186258,3222946847,11,69,94,47,62,AAAPPAPA
+Fateh Deol,1518,Salesforce development,Offline,10-08-2023,12/28/2023,Jayaraman Group,IT,2,Female,sakshamgara@example.net,6593678690,7603817196,40,95,51,32,99,PPAPAPAA
+Shalv Dhingra,1519,Mobile app development with Flutter and Cloud with AWS,Online,05-01-2023,10/17/2023,Ramaswamy Group,MCA,3,Male,veer99@example.com,931906846,7098684,48,13,86,10,100,PPPAAPPA
+Myra Shanker,1520,Mobile app development with Flutter and Cloud with AWS,Offline,06/20/2023,11-05-2023,"Ratta, Krishna and Sekhon",BBA,2,Male,groversamarth@example.org,8823594951,4389661,76,99,85,93,96,PAPPAAPP
+Jayan Wason,1521,Front-end web development,Online,02/23/2023,05/19/2023,Mann-De,M.tech,1,Male,beraadvik@example.net,3886580068,91268575,79,42,33,34,39,AAAAPAPP
+Armaan Chahal,1522,IOT with AI,Offline,05/26/2023,10/19/2023,Bhat PLC,IT,4,Male,ngrover@example.org,8123544808,1443564605,23,80,23,68,75,PPPAAPAA
+Gatik Dugal,1523,Mobile app development with Flutter and Cloud with AWS,Online,12-10-2023,03/31/2024,Grewal Ltd,MCA,2,Male,emir48@example.net,4919157,921006125,18,49,3,97,99,APPAAAPA
+Fateh Chhabra,1524,Mobile app development with Flutter and Cloud with AWS,Online,04/20/2023,09/23/2023,"Ganesh, Sangha and Tank",BCA,4,Male,madhav15@example.org,2175621114,3319278,66,11,8,27,79,PPPAAAPA
+Tushar Deol,1525,Mobile app development with Flutter and Cloud with AWS,Online,09-11-2023,12/13/2023,Kapadia-Dass,MCA,1,Male,varmasamiha@example.org,5717387502,2888361,73,43,68,58,39,AAPPPPAA
+Fateh Dhillon,1526,Mobile app development with Flutter and Cloud with AWS,Online,08-09-2023,11-04-2023,Dayal Inc,BCA,2,Male,wdash@example.org,6883552,65298031,82,49,68,31,86,PAPAAAAA
+Lakshay Ram,1527,Backend-end development,Offline,12/26/2023,05-07-2024,Hegde PLC,IT,1,Male,fbalan@example.com,9788184,4580784,22,23,7,22,87,AAAPAAPA
+Kiaan Dugal,1528,Salesforce development,Online,07/30/2023,01-05-2024,"Dutt, Som and Saini",BCA,2,Female,ayesha12@example.net,2170720927,3539441,31,94,61,65,63,AAPAPAPA
+Tanya Zacharia,1529,Salesforce development,Online,03-03-2023,05-03-2023,Sodhi-D’Alia,BBA,3,Male,dbera@example.net,39151355,5732999,34,11,39,57,84,PAAAPAAP
+Urvi Chakraborty,1530,Salesforce development,Online,11/20/2023,02/22/2024,"Suri, Brahmbhatt and Keer",IT,1,Female,surhimmat@example.net,6076460,53058920,85,89,66,64,81,APAAPAPA
+Riaan Bajwa,1531,IOT with AI,Online,04/23/2023,09/28/2023,Tak and Sons,M.tech,2,Male,cgopal@example.com,38529436,5817059,61,71,26,6,97,PAPAAPAP
+Anahi Dave,1532,Front-end web development,Offline,11/21/2023,04-12-2024,"Rattan, Badal and Chawla",IT,4,Female,ikulkarni@example.net,43355441,3675945,52,15,84,33,66,PAAPPAAP
+Elakshi Ganguly,1533,Salesforces admin,Online,07/15/2023,11/21/2023,Loyal-Vohra,IT,3,Female,wallayuvaan@example.net,45510801,4568835975,83,28,47,57,29,AAPAAPAA
+Anika Borde,1534,Mobile app development with Flutter and Cloud with AWS,Offline,02-04-2024,05-02-2024,Bhargava-Bhardwaj,MCA,1,Male,chadaraghav@example.net,82278754,6425594,95,80,15,60,47,APAPPAAA
+Madhav Baral,1535,Front-end web development,Online,05/25/2023,10-05-2023,Dhillon Ltd,BBA,3,Male,saxenaamira@example.org,380023,14579680,51,52,35,80,97,APAPAAPA
+Zeeshan Karpe,1536,Salesforce development,Offline,10/23/2023,12/22/2023,"Balay, Tak and Baral",M.tech,1,Male,baijuchowdhury@example.com,3301901,35263649,52,11,96,41,31,APAPPPAA
+Eva Rama,1537,Backend-end development,Offline,11/22/2023,02-10-2024,Chokshi LLC,BBA,2,Female,koshymanikya@example.com,5882561,70082283,56,98,25,57,43,PPPAAPPA
+Miraya Sagar,1538,Mobile app development with Flutter and Cloud with AWS,Online,06/22/2023,11-01-2023,"Soni, Manda and Kala",B.tech,3,Male,tripathisara@example.org,24021648,5145665400,28,12,55,98,68,PAAAPPAA
+Alisha Kari,1539,Backend-end development,Online,12-11-2023,05-10-2024,Keer LLC,B.tech,2,Female,neelofardeshpande@example.org,7219918733,54180756,90,1,67,80,94,APAAPPAP
+Ryan Kalla,1540,IOT with AI,Offline,09/17/2023,12-10-2023,"Sridhar, Bahri and Garg",MCA,4,Male,shalvramaswamy@example.net,7779280006,2746383636,59,57,33,11,29,PAAAPPPA
+Azad Krishnan,1541,Salesforces admin,Online,11-03-2023,04-09-2024,Gole and Sons,BCA,4,Female,pranay97@example.net,6807758040,9936054,46,78,8,35,59,AAAAAAAP
+Baiju Chatterjee,1542,Backend-end development,Offline,07/26/2023,10-09-2023,Borra Group,BCA,3,Female,alisha42@example.net,95381817,3359810069,49,49,59,43,61,APAPPAPP
+Urvi Mannan,1543,Front-end web development,Offline,03-12-2023,07/31/2023,"Kumar, Balasubramanian and Talwar",B.tech,1,Male,neysa88@example.net,7569275669,64220367,47,63,47,84,57,PPPPAAPA
+Krish Dhaliwal,1544,Backend-end development,Offline,05-12-2023,10/14/2023,"Wable, Ben and Lall",IT,4,Female,yraja@example.com,895150810,5439883996,96,54,21,20,81,PAAAAAPP
+Anay Subramaniam,1545,Data Science,Online,08/20/2023,10/19/2023,Wali Inc,B.tech,3,Female,nityagill@example.org,3550196630,5634811,52,42,54,6,76,PPPAAAAP
+Hunar Chaudry,1546,AI/ML,Offline,12/21/2023,04/20/2024,Sampath-Thakkar,B.tech,1,Female,romil21@example.net,6380500037,57095947,56,82,87,74,69,APPPPAPP
+Prerak Balay,1547,IOT with AI,Online,07/19/2023,10/20/2023,Chahal-Zacharia,IT,3,Female,sankarsamiha@example.org,3582893,1813104373,6,21,61,60,70,APAPAPAA
+Rati Sagar,1548,IOT with AI,Online,05/29/2023,10-01-2023,"Yohannan, Arya and Sachdeva",BBA,3,Male,abram02@example.org,54097980,81568863,51,82,7,92,44,PAPPPPAA
+Dishani Vasa,1549,Salesforce development,Online,06/17/2023,10/22/2023,"Sengupta, Buch and Johal",IT,4,Female,anahigade@example.org,4275969,17232982,49,49,0,90,13,APAAPAAP
+Anya Samra,1550,Salesforce development,Offline,06/19/2023,11-08-2023,Jha LLC,BBA,3,Male,cbanerjee@example.com,4108972841,7934614431,68,95,52,92,90,PPAPAPPA
+Prisha Bhalla,1551,IOT with AI,Offline,01/23/2024,04/17/2024,Virk-Badal,IT,2,Male,deshmukhbadal@example.com,1980850,79245034,41,60,66,46,97,APAAPPPP
+Heer Rao,1552,Front-end web development,Online,03-07-2023,08-02-2023,Bail-Sarna,B.tech,4,Female,basusaanvi@example.org,20348048,2237151,33,68,66,20,61,APPAAPPP
+Abram Gour,1553,Salesforces admin,Online,02-02-2024,05/16/2024,Bora PLC,BBA,2,Female,pranaykapoor@example.org,2236966905,4221686,74,89,29,27,42,AAPAAAPA
+Gokul Kunda,1554,AI/ML,Offline,08-07-2023,11/13/2023,"Badal, Borde and Samra",BCA,1,Male,hanshdhillon@example.com,8682403,31097048,8,92,40,65,1,APPAAAAA
+Vidur Gera,1555,IOT with AI,Offline,03-01-2023,05-11-2023,Das-Kant,BBA,2,Male,valarohan@example.com,70011785,4478556348,45,27,30,52,90,PPAAAAAA
+Anya Seth,1556,AI/ML,Offline,12/14/2023,03/16/2024,"Kuruvilla, Gera and Amble",B.tech,1,Male,barmananvi@example.net,8609144,2784145386,52,18,85,7,56,APAAAPPP
+Pari Dhingra,1557,IOT with AI,Offline,08/19/2023,11/25/2023,Agate Ltd,M.tech,1,Female,dugarrania@example.com,2035034923,7719890287,79,2,74,35,31,PAAAAAPP
+Ishaan Sarna,1558,Backend-end development,Offline,02-03-2024,07-11-2024,"Andra, Ramanathan and Bhatt",MCA,2,Female,igolla@example.net,898751,5840170778,63,90,11,87,54,APPAPAPP
+Gatik Kala,1559,AI/ML,Online,05/30/2023,11-04-2023,Lad Ltd,BCA,4,Female,kharezain@example.com,9073386,8743169474,55,38,72,76,47,APAAPPAP
+Saira Char,1560,Salesforce development,Online,04/26/2023,08/22/2023,Gokhale-Mander,B.tech,3,Male,baijubanik@example.com,4661466222,6939354,79,80,57,24,95,PAPAAAAP
+Onkar Jayaraman,1561,Data Science,Offline,02/28/2023,07/17/2023,"Raja, Brahmbhatt and Hans",IT,2,Female,shlok37@example.com,4944098260,1663960452,36,21,34,58,61,PPAPPPPA
+Raghav Chaudhary,1562,Mobile app development with Flutter and Cloud with AWS,Online,04/27/2023,07/19/2023,"Yadav, Dhillon and Batta",IT,2,Male,mbhat@example.com,2196722150,3292370,70,68,51,27,71,PPPAAAAA
+Ivana Sunder,1563,Data Science,Offline,02-10-2024,06/21/2024,Maharaj and Sons,B.tech,4,Male,jivikasarin@example.org,203845255,9005183220,72,52,89,48,79,AAAAAPAA
+Anika Koshy,1564,Salesforces admin,Offline,04/18/2023,07/19/2023,Roy Inc,MCA,2,Male,bhavindugal@example.com,45736693,1797301,49,29,6,24,94,PAPPPAPA
+Samaira Goel,1565,Salesforces admin,Online,09/13/2023,12-03-2023,Singhal-Virk,IT,4,Female,samiromil@example.com,7074131034,1923590,39,58,68,36,67,PAPPPPPA
+Riaan Sarin,1566,Data Science,Online,07/23/2023,12-05-2023,"Ganesh, Dhillon and Jani",M.tech,3,Female,kashvi38@example.com,88555694,44778403,24,16,82,11,33,PAAAAAAA
+Reyansh Shroff,1567,Salesforces admin,Offline,09-09-2023,02/28/2024,Sha-Desai,BBA,1,Female,ddasgupta@example.org,1055644951,76150747,50,60,46,84,66,PAPPAPAP
+Prisha Hora,1568,Data Science,Online,01-02-2024,03-03-2024,Behl LLC,MCA,1,Female,qthakkar@example.net,4989252,2842156497,1,32,39,62,6,PPPAAAPA
+Anya Bava,1569,AI/ML,Online,11/17/2023,02-06-2024,Chaudhuri-Das,IT,3,Female,vbajaj@example.org,7594733,17529851,45,62,60,29,30,APPPPPAP
+Saira Kunda,1570,Front-end web development,Online,09-04-2023,01/16/2024,Sarna-Dhaliwal,BBA,1,Male,mborra@example.net,38454626,5265748554,49,48,32,11,3,PAAPAAPP
+Indrans Goyal,1571,AI/ML,Online,03/20/2023,06-01-2023,Savant Group,MCA,1,Male,jayant69@example.net,89846522,23019047,22,84,78,47,17,PPPAPPPA
+Baiju Saha,1572,Front-end web development,Offline,01-07-2024,06/28/2024,Kata Ltd,BCA,1,Male,anandmadhav@example.net,96936989,1070184,42,15,97,79,59,AAPPPAPA
+Mishti Dalal,1573,AI/ML,Offline,12/13/2023,04-12-2024,Kaur Group,BBA,1,Male,sarnasumer@example.net,1238016514,4575996,85,19,37,44,8,APAPAAAA
+Emir Sawhney,1574,Front-end web development,Online,03/28/2023,07/19/2023,Chaudhari LLC,MCA,1,Female,siya04@example.net,30021567,9222543585,75,91,90,79,52,APAPAAAA
+Nitara Bal,1575,Salesforces admin,Offline,02/25/2023,06-04-2023,Bobal Inc,M.tech,3,Male,aliaraju@example.com,1913309364,3949140565,14,32,18,62,95,AAPPAPPP
+Damini Bahri,1576,AI/ML,Online,09/26/2023,12-12-2023,Karnik-Suresh,BBA,2,Female,mehul14@example.com,2861729,663626,4,93,58,57,62,APPAAAPA
+Madhup Sama,1577,Front-end web development,Online,10/20/2023,01/17/2024,Upadhyay Group,BBA,1,Male,samairaarora@example.org,70548363,4500800328,85,74,12,88,55,PPPPAPAP
+Aayush Sengupta,1578,Salesforce development,Online,09/22/2023,12-05-2023,Ravel-Soni,MCA,3,Female,bsankaran@example.org,41816237,3911210,35,66,9,73,90,APPAPAAA
+Trisha Jaggi,1579,Salesforces admin,Offline,05-07-2023,07/30/2023,Sarkar-Chakrabarti,B.tech,1,Female,miraya09@example.com,70446817,2365728889,37,4,74,10,56,APAPPAPA
+Mahika Srinivas,1580,Backend-end development,Offline,07/29/2023,12-12-2023,Chana Group,M.tech,3,Female,waliahridaan@example.net,4860805,53199827,81,42,59,52,11,APPAAPAA
+Anika Suresh,1581,Data Science,Offline,08/18/2023,02-06-2024,Dani-Trivedi,B.tech,1,Male,ryan47@example.com,7896759,33096491,79,22,47,99,36,APAPAAPP
+Hrishita Tara,1582,Front-end web development,Online,02/13/2024,05/14/2024,Solanki PLC,BCA,3,Male,kanav45@example.com,10699676,3565113,55,87,25,82,84,APAPPPAP
+Onkar Ray,1583,Front-end web development,Offline,02/17/2024,08-02-2024,Rege-Bhat,IT,2,Male,mamooty20@example.net,3485738,6068979,16,61,49,73,21,APAPPAAP
+Saanvi Agarwal,1584,Front-end web development,Offline,08-11-2023,10/23/2023,Keer Group,B.tech,1,Male,aaryahi99@example.net,8167176,2120525,32,76,17,15,56,APPAAPPA
+Prisha Lall,1585,IOT with AI,Online,09/23/2023,01-10-2024,"Sidhu, Hans and Rattan",BBA,1,Male,osarma@example.net,5263085,15270572,55,80,91,52,67,AAPPPAAA
+Aarav Sarin,1586,Salesforce development,Offline,11-04-2023,04-04-2024,Bandi and Sons,BCA,2,Female,aayushchaudry@example.com,40860746,24908502,17,31,28,68,48,PPPPAPPA
+Romil Chakrabarti,1587,Salesforce development,Online,02-06-2024,07-10-2024,Bahl Ltd,M.tech,4,Male,balinayantara@example.com,7685694349,8928037,40,31,73,24,78,PAAPAPPA
+Hunar Ahluwalia,1588,Backend-end development,Online,08-11-2023,10/16/2023,Subramanian-Shere,B.tech,3,Female,shaanbabu@example.com,65789897,308680,10,91,66,41,72,PAAPAAPP
+Pihu Walla,1589,Data Science,Offline,06-11-2023,11/23/2023,"Chander, Ramachandran and Ahluwalia",IT,4,Female,prisha46@example.net,8860954630,8843718,64,69,16,83,58,APAPPAAP
+Miraan Ramachandran,1590,AI/ML,Online,05-05-2023,09-08-2023,Aggarwal Inc,MCA,3,Male,samaira20@example.net,2096204,4232821487,87,37,40,98,38,PAAPAPPP
+Hunar Comar,1591,AI/ML,Online,09-01-2023,01-11-2024,"Thaman, Bhavsar and Dube",BCA,3,Male,taimur97@example.com,6739763283,59998530,24,6,88,54,91,AAAAPAPP
+Mahika Mandal,1592,Data Science,Online,11/24/2023,03/19/2024,"Sura, Sachar and Arya",MCA,1,Female,baijulanka@example.net,464857,2537885,33,89,15,96,2,PAAPPPAP
+Anahi Jain,1593,AI/ML,Offline,07/31/2023,01/23/2024,Mannan-Dhingra,IT,3,Female,xtailor@example.net,9616327358,795867,55,99,83,22,28,PAAPAAPP
+Neysa Mane,1594,Salesforce development,Online,12/25/2023,03/15/2024,Sama Ltd,M.tech,3,Female,darshray@example.com,9171251,5315333,2,24,21,95,33,AAAAPPAA
+Ritvik Doctor,1595,Backend-end development,Online,11-10-2023,01/20/2024,Talwar PLC,MCA,1,Male,laganyohannan@example.net,38181293,4112187,82,35,36,43,76,PAAPPPAP
+Vidur Bhardwaj,1596,Salesforces admin,Online,06/14/2023,08/20/2023,"Atwal, Agrawal and Subramaniam",BBA,4,Female,inaaya-32@example.net,92737897,153150,28,62,96,71,0,PAAAPPAP
+Hiran Sarraf,1597,IOT with AI,Online,11/21/2023,03/15/2024,Bahl PLC,BCA,1,Male,econtractor@example.org,807868,46920700,47,74,86,11,95,APAAAPPA
+Priyansh Sura,1598,Data Science,Online,02/17/2024,06-08-2024,Sathe-Mani,BCA,3,Male,gokulsule@example.net,66527747,8972406,26,35,0,93,27,APAAAAAP
+Indrans Acharya,1599,Data Science,Online,08/27/2023,12/25/2023,Krishna Inc,BCA,1,Male,mirayasrinivas@example.com,94493006,6506488356,70,26,88,4,15,PAAAPAAP
+Kiaan Mann,1600,Data Science,Online,02-06-2024,07/13/2024,Balakrishnan-Sane,BBA,3,Male,saksham17@example.org,7597992,3700006596,18,78,51,54,24,APAAAAAA
+Rohan Tailor,1601,Salesforces admin,Online,06/15/2023,11/18/2023,Ravel Group,B.tech,1,Female,datekabir@example.com,2758238365,450879623,88,92,66,68,42,PPPPAAAA
+Bhavin Agarwal,1602,Mobile app development with Flutter and Cloud with AWS,Online,08/18/2023,11/19/2023,"Brar, Contractor and Bava",B.tech,3,Female,shankarnakul@example.com,9409433,9369952,64,62,43,78,44,PAPPAAAA
+Priyansh Chand,1603,Backend-end development,Offline,09/28/2023,03/21/2024,Kumer-Dugal,B.tech,2,Male,xagarwal@example.org,8695525,7535196,1,58,90,74,68,PAPPPPPP
+Riaan Sarin,1604,AI/ML,Offline,03/31/2023,07-01-2023,Bhandari-Rajan,M.tech,1,Female,mannatguha@example.com,3418127,7058130,99,92,1,15,89,AAAAAAAA
+Riaan Dash,1605,Salesforces admin,Online,05/28/2023,08-11-2023,"Sem, Varkey and Lal",B.tech,1,Male,suhanavyas@example.net,84388668,5490833,71,88,41,46,60,APAAAPPA
+Navya Bhandari,1606,IOT with AI,Online,10-12-2023,12/28/2023,Ravi Group,IT,4,Male,rcheema@example.net,9509338,91929448,24,70,47,56,2,PPPAPAAA
+Azad Yadav,1607,AI/ML,Offline,02/22/2023,07-03-2023,Chada Inc,BCA,3,Male,divit96@example.net,57825706,35842946,100,63,97,42,72,PAPAAAPP
+Rasha Bakshi,1608,IOT with AI,Offline,05/20/2023,09-05-2023,"Dara, Gola and Dixit",M.tech,2,Male,yuvaan93@example.com,9297972773,8662118,70,85,83,93,29,AAAPAAAA
+Shlok Seth,1609,Backend-end development,Offline,08/26/2023,01-10-2024,"Sharaf, Varughese and Madan",BCA,3,Male,kashvisridhar@example.net,55813791,2102932,89,3,40,25,45,APAAAAAP
+Divit Datta,1610,Salesforce development,Online,03/21/2023,07/29/2023,"Sarma, Bajaj and Ganesh",BBA,3,Female,taran39@example.org,39118119,48693507,5,91,57,13,95,PPAPAAAP
+Oorja Kade,1611,Mobile app development with Flutter and Cloud with AWS,Offline,08-01-2023,12/30/2023,"Sahota, Rajagopal and Sood",M.tech,3,Female,ebains@example.net,8760936402,59394189,83,33,42,60,10,APAAPAAP
+Gatik Bera,1612,Salesforce development,Offline,02/21/2023,08-11-2023,"Sundaram, Loke and Guha",M.tech,3,Female,priyanshjain@example.org,5020240,8713192,12,92,26,49,8,AAPPAPPP
+Jayesh Bhatt,1613,AI/ML,Offline,12/29/2023,06-05-2024,"Dhar, Desai and Bhardwaj",M.tech,4,Female,zaina25@example.net,27643097,52010327,48,18,24,98,87,PAPPPPAP
+Nitya Sankar,1614,Backend-end development,Online,11-10-2023,03/19/2024,"Mall, Dutta and Varghese",BBA,4,Female,mohanlal81@example.com,55586099,1867413125,57,95,57,45,11,PPPPPPPP
+Suhana Setty,1615,Mobile app development with Flutter and Cloud with AWS,Offline,09/17/2023,01-12-2024,Chacko Group,BBA,1,Male,jayeshtara@example.net,7283704611,3724161,13,19,100,96,99,PAPPPPAA
+Shayak Gopal,1616,Mobile app development with Flutter and Cloud with AWS,Offline,11/17/2023,04-08-2024,Mani-Garde,BCA,3,Male,vkumer@example.net,15613822,59308231,67,1,36,14,97,AAPAAAAP
+Hunar Sekhon,1617,Salesforce development,Offline,09/30/2023,12-06-2023,Shah-Butala,IT,4,Male,karankanav@example.org,31941582,85181001,49,4,99,22,28,AAPPAAAP
+Darshit Dora,1618,Mobile app development with Flutter and Cloud with AWS,Offline,11/22/2023,04/30/2024,Devan Inc,MCA,4,Male,keerakarsh@example.net,1749222485,6651797,85,60,40,55,87,PAPPAAAA
+Ojas Verma,1619,Backend-end development,Offline,01/18/2024,04/14/2024,Goswami-Raval,BBA,1,Male,doshiela@example.net,7386016,7976947960,46,83,53,24,91,AAAPAAAP
+Yuvraj  Mahajan,1620,AI/ML,Online,07/30/2023,12-10-2023,Amble-Borra,B.tech,3,Female,vidur22@example.com,4342339,6646951617,7,35,56,29,43,PPAPPAPP
+Farhan Chandra,1621,Salesforces admin,Online,02/22/2023,07/18/2023,Majumdar LLC,MCA,1,Male,keeraradhya@example.net,6853252431,6452008669,38,46,88,61,27,PAAAAPPP
+Gokul Dugar,1622,Front-end web development,Offline,08-09-2023,01-07-2024,"Sarna, Kadakia and Lad",B.tech,4,Female,latasara@example.com,8832564054,6616288,78,69,72,42,62,PAAAPPAP
+Umang Dhaliwal,1623,Front-end web development,Offline,12/26/2023,05-01-2024,"Agarwal, Kalla and Basu",M.tech,2,Male,roysiya@example.net,8101696060,50028636,90,0,85,76,7,PPPAPAAP
+Saksham Kunda,1624,Backend-end development,Online,08/31/2023,01/18/2024,Uppal and Sons,MCA,2,Male,vihaan54@example.net,2912198,7409408,85,16,41,88,36,PAPPPAAA
+Zain Bedi,1625,AI/ML,Online,07/30/2023,01/20/2024,Devi Group,MCA,1,Female,bajajgatik@example.net,55754709,57346105,1,41,63,56,18,PPAPPAPA
+Adah Sekhon,1626,Backend-end development,Online,06/28/2023,10-07-2023,Kalita PLC,BBA,3,Female,saanvi95@example.org,4322209373,74258129,23,32,17,0,2,APAAPPAP
+Anay Brar,1627,Salesforce development,Online,01/22/2024,05/31/2024,Lal LLC,M.tech,1,Female,ebhattacharyya@example.net,8708336,8089928,68,44,8,6,58,AAPPAPPP
+Samarth Brar,1628,Mobile app development with Flutter and Cloud with AWS,Online,08-02-2023,11/20/2023,"Anand, Bains and Karan",B.tech,2,Male,oupadhyay@example.com,6357939171,8778018,73,14,70,6,31,AAAPPAAP
+Nishith Rout,1629,Front-end web development,Offline,12-11-2023,06-08-2024,Ratta Ltd,MCA,4,Female,khushi10@example.net,32155317,12038796,100,25,35,14,61,APPAPPPA
+Manikya Verma,1630,Salesforce development,Online,06-12-2023,08/20/2023,"Chahal, Vora and Bhardwaj",IT,3,Male,anyadatta@example.com,497282192,94453726,59,19,53,98,1,PPAAPPAP
+Mamooty Dada,1631,Backend-end development,Online,08-08-2023,11/13/2023,Dewan LLC,MCA,2,Male,kundamehul@example.org,6253313848,23002,97,59,76,8,2,APPAPPAA
+Divyansh Ben,1632,AI/ML,Offline,07-02-2023,10/22/2023,Ghosh-Bhatia,BBA,4,Male,pihuchand@example.org,5731313600,7582069050,31,77,83,49,80,AAAAPAAA
+Shalv Kunda,1633,AI/ML,Offline,07-12-2023,10-10-2023,"Lal, Babu and Shankar",B.tech,3,Female,nitara76@example.net,28291780,1774516,26,80,57,15,8,APPPAPPP
+Mannat Konda,1634,Salesforce development,Online,06-05-2023,10/21/2023,Sarraf-Saraf,B.tech,2,Female,emir58@example.org,54625792,3233166,81,98,63,73,27,AAAPPPAA
+Sahil Krish,1635,Front-end web development,Offline,12/27/2023,06-04-2024,Agrawal LLC,BBA,4,Male,anahitathaker@example.net,54809770,18298303,69,8,30,76,60,PAPAAAPA
+Vedika Barad,1636,Front-end web development,Offline,06/22/2023,11-06-2023,Dave LLC,B.tech,4,Female,lakshay47@example.com,8001592424,1595396,64,59,13,50,12,APPAPAPP
+Krish Chaudhuri,1637,Data Science,Offline,08-06-2023,10-11-2023,Joshi-Sodhi,BCA,3,Female,xkara@example.org,47429334,45594990,3,68,31,13,18,APPPAAAP
+Tarini Majumdar,1638,Mobile app development with Flutter and Cloud with AWS,Offline,01/23/2024,03/25/2024,"Kapur, Varkey and Tak",IT,1,Male,jayan87@example.com,65364660,2342662886,42,62,53,80,89,PPAAPAAA
+Dhruv Soni,1639,Backend-end development,Offline,03/13/2023,07-06-2023,Wadhwa-Jayaraman,IT,2,Male,divyanshdyal@example.net,4128991,8379351878,87,69,75,85,3,PAAAPAAP
+Raghav Gopal,1640,IOT with AI,Online,09/18/2023,12/17/2023,Uppal-Bakshi,MCA,2,Female,sumersuri@example.net,7944643,33920547,35,49,91,38,12,PPAPPPAP
+Hazel Manne,1641,Backend-end development,Online,09/29/2023,12-04-2023,"Shenoy, Tank and Mann",MCA,1,Male,chauhandrishya@example.com,97078520,60056017,62,64,17,56,10,PPPAPPPP
+Miraan Mammen,1642,Data Science,Online,12-05-2023,04/20/2024,Badal LLC,B.tech,1,Male,hazel78@example.com,1329876,43650548,31,57,47,13,65,PPAPPPPP
+Mishti Seshadri,1643,Salesforces admin,Online,06/16/2023,11/23/2023,Thakkar-Deo,B.tech,1,Female,lavanya94@example.net,3979749,28885903,82,78,64,39,16,PPPPPAAA
+Siya Bhardwaj,1644,AI/ML,Offline,11-11-2023,04/19/2024,Chauhan Group,MCA,1,Male,pranay65@example.org,8250067622,29323077,55,73,18,8,67,PAAPPPPP
+Hazel Ben,1645,Front-end web development,Online,03-01-2023,07/23/2023,Bhatti-Sura,M.tech,2,Female,ushenoy@example.net,57078136,41940679,73,22,50,75,42,APAAAAAP
+Jayesh Ganguly,1646,AI/ML,Online,12/19/2023,02/25/2024,Sathe-Lala,BBA,2,Female,vanya40@example.org,9181038,95597614,58,6,31,70,80,APAPAPPP
+Jayant Bahri,1647,IOT with AI,Offline,01/27/2024,05/30/2024,"Ramachandran, Chokshi and Dey",B.tech,3,Male,hravel@example.com,1807754174,1099197481,0,84,6,83,39,AAPAAPAA
+Veer Thaman,1648,Salesforce development,Online,08-07-2023,11/23/2023,Sidhu Inc,B.tech,3,Male,dtalwar@example.net,79610779,6099610160,68,2,43,41,28,PPAPPPPP
+Hazel Sawhney,1649,AI/ML,Online,07-04-2023,12/15/2023,Banerjee Ltd,IT,1,Female,goswamirania@example.org,7432639501,6858935,69,10,29,28,14,APAPAAPP
+Mehul Sachdev,1650,Salesforces admin,Online,01/24/2024,06/13/2024,Vig-Anne,BCA,4,Male,cram@example.net,9354147,45109259,5,53,31,93,61,AAPAPPPA
+Vivaan Setty,1651,Data Science,Online,01/24/2024,06/29/2024,"Karan, Sarma and Chaudhuri",BBA,4,Female,lmahal@example.org,71877401,1348971,21,63,10,25,14,AAAAPPAA
+Aniruddh Chander,1652,Salesforces admin,Offline,01/24/2024,07/17/2024,Sant-Tara,BBA,3,Male,advik61@example.com,5885903577,1901350985,75,84,32,62,15,APAAPAPA
+Alisha Sachar,1653,Data Science,Online,07/13/2023,12/18/2023,Boase Ltd,BBA,1,Male,tanyabandi@example.net,9290006,27847113,29,24,83,33,56,APAPPAAP
+Eshani Shan,1654,Front-end web development,Offline,05/22/2023,09-02-2023,Tailor-Shroff,BCA,2,Male,nitarakaran@example.com,2908817,340752881,3,64,6,37,54,PAAAAPAP
+Keya Kothari,1655,Front-end web development,Online,12-10-2023,05/27/2024,Kunda and Sons,MCA,4,Female,fgole@example.org,15481162,4098578,16,20,37,2,0,PAPPPAAP
+Seher Lad,1656,AI/ML,Offline,10/29/2023,01-06-2024,Ravel LLC,BCA,1,Male,guharenee@example.org,6234605,8085748127,69,44,98,44,58,PAAPAPAA
+Dhanush Karnik,1657,AI/ML,Offline,05-09-2023,10/27/2023,Raj Ltd,M.tech,1,Female,tsoni@example.net,90422106,75261463,89,91,55,65,50,PAAAPAPP
+Diya Char,1658,Backend-end development,Offline,04/13/2023,09-11-2023,Dada and Sons,B.tech,4,Female,ranbir38@example.com,294421,75319725,48,41,55,11,45,AAPPAPPP
+Prerak Rattan,1659,Mobile app development with Flutter and Cloud with AWS,Online,06-05-2023,10/17/2023,Chhabra-Aggarwal,MCA,4,Female,zdeol@example.net,71932129,50093289,69,68,65,77,79,PAPAAPAP
+Stuvan Gera,1660,Backend-end development,Offline,04/30/2023,10-07-2023,"Sachar, Roy and Tella",BCA,1,Female,bmammen@example.org,7331022,1623560,58,17,72,17,28,AAAPPPAA
+Dhruv Srivastava,1661,Backend-end development,Offline,11/16/2023,04-06-2024,Gara-Sandhu,BBA,4,Male,sainisumer@example.com,2008228659,10385407,83,42,36,45,21,PPPPAPPA
+Divyansh Chaudhry,1662,Data Science,Offline,05/24/2023,07/29/2023,Varma-Gulati,MCA,2,Female,vzacharia@example.net,2461020,2100694,68,63,91,71,85,PAPPPPAA
+Piya Mahal,1663,Front-end web development,Online,10-01-2023,01-09-2024,Johal-Thakur,BBA,3,Male,babuhrishita@example.net,2150632063,20525342,44,16,31,0,86,AAPAPPPA
+Samar Yogi,1664,Salesforce development,Online,12-02-2023,03/29/2024,Bawa PLC,B.tech,2,Female,umang47@example.net,7893833,944835,20,63,28,67,49,AAPAPAPP
+Shray Bajwa,1665,Salesforce development,Online,05/27/2023,09-12-2023,Chacko-Chada,MCA,2,Female,divyanshkarnik@example.net,79446288,2762216,61,65,81,99,70,APPPPAAA
+Amira Chhabra,1666,Data Science,Online,08/18/2023,11/13/2023,Warrior-Bose,BBA,4,Female,vihaan41@example.org,9342239,66289681,40,12,67,90,78,PAPPAAAP
+Seher Bawa,1667,Front-end web development,Online,07-11-2023,11-09-2023,Khatri-Sen,BBA,4,Female,samitushar@example.com,670556080,7482199950,65,82,39,19,71,AAPPPPPP
+Rania Sathe,1668,Backend-end development,Online,12/31/2023,05/18/2024,Arora Group,IT,4,Male,kavya48@example.com,6396089,86250566,94,72,24,1,86,PPPPPAPA
+Yakshit Rout,1669,Data Science,Offline,05/15/2023,08/26/2023,Kaur and Sons,IT,4,Female,nayantara73@example.net,44331837,98190989,92,31,99,30,8,PAAPPPAA
+Manikya Bhatnagar,1670,Front-end web development,Offline,12/24/2023,03/13/2024,Garde PLC,MCA,1,Male,sahniamira@example.net,7854547,47782464,91,87,2,31,68,PPPPPPPA
+Zoya Bassi,1671,Backend-end development,Online,04-05-2023,09/25/2023,Basak-Shan,MCA,1,Female,kandadharmajan@example.org,4635234086,194433,77,73,26,15,2,APPAAPAP
+Vihaan Soni,1672,Backend-end development,Online,05/14/2023,08/29/2023,Keer-Biswas,M.tech,4,Female,sakshamrau@example.com,2732379884,3481754,2,97,35,4,48,AAAPPAPP
+Pihu Sundaram,1673,Salesforces admin,Online,03/30/2023,07-06-2023,Acharya Ltd,BBA,1,Male,saneivan@example.net,3914518,549819,10,12,96,37,31,PPPAAAAA
+Zain Shankar,1674,Backend-end development,Online,01-12-2024,07-08-2024,"Konda, Sagar and Jhaveri",BCA,2,Female,damini00@example.com,50609438,6429292675,72,55,81,43,48,PPAPAPAA
+Samar Soman,1675,AI/ML,Offline,11/20/2023,02/13/2024,Vaidya-Lata,IT,1,Female,mandalryan@example.com,3249020,72120526,81,69,82,92,86,PPPAAPPP
+Diya Samra,1676,AI/ML,Online,06-02-2023,11-07-2023,"Thakur, Joshi and Dhar",B.tech,2,Female,chirag42@example.net,420837,6931268,33,39,34,56,56,APPAAPPA
+Darshit Mammen,1677,IOT with AI,Offline,09/30/2023,12/30/2023,"Bhasin, Choudhry and Kalita",BBA,2,Female,rkala@example.org,55974888,9847623,62,8,66,38,17,APAPAPAA
+Parinaaz Golla,1678,AI/ML,Online,07/18/2023,10-05-2023,Yogi-Sunder,BBA,4,Female,hiran33@example.com,6512171,33366217,3,6,83,68,37,PAPPAAAP
+Ivana Ganesan,1679,Mobile app development with Flutter and Cloud with AWS,Offline,01/19/2024,07-07-2024,"Chandran, Vasa and Dhar",MCA,1,Male,jhaabram@example.net,32590998,21685938,77,83,41,33,91,PPAPAPPA
+Jayan Anne,1680,Mobile app development with Flutter and Cloud with AWS,Offline,12/30/2023,05-11-2024,"Venkatesh, Dave and Dara",MCA,4,Male,bbains@example.net,2480420,71658007,27,54,75,2,76,PAPAAPPA
+Prisha Chaudhari,1681,Backend-end development,Online,06/14/2023,09/28/2023,Ranganathan Ltd,BCA,4,Male,urajagopal@example.com,5806069,4228344661,47,81,6,72,83,APAAPAAA
+Baiju Rattan,1682,Mobile app development with Flutter and Cloud with AWS,Offline,03/18/2023,09-05-2023,"Joshi, Lad and Dugar",MCA,1,Male,groverabram@example.com,8904414849,1731204317,46,22,91,50,53,AAPPAAPP
+Nitara Khatri,1683,Mobile app development with Flutter and Cloud with AWS,Offline,04-08-2023,06/21/2023,"Thakur, Ramakrishnan and Reddy",MCA,1,Female,hansnayantara@example.com,7849655420,5605493298,78,37,28,0,62,PPPAPAAA
+Hrishita Swamy,1684,Front-end web development,Offline,11/29/2023,04-02-2024,Chandran-Butala,BBA,4,Male,gargdishani@example.com,82803453,10576099,94,46,93,16,18,APPPPPPA
+Rati Dave,1685,Mobile app development with Flutter and Cloud with AWS,Offline,10/19/2023,04-12-2024,Dada-Dasgupta,BBA,4,Female,nitarathaker@example.org,7655062,4146679836,48,21,22,76,78,PPPAPPPA
+Azad Mander,1686,Salesforce development,Offline,12-10-2023,04-07-2024,Borde-Singhal,MCA,4,Male,ryan92@example.net,92613973,8965695,17,82,52,94,80,APAPPAAA
+Jiya Soman,1687,IOT with AI,Offline,03-07-2023,07-02-2023,Chadha Group,MCA,1,Female,banikmehul@example.org,1711272,48965573,12,6,77,3,79,APPAAAAA
+Abram Vasa,1688,Salesforces admin,Online,12/28/2023,04/17/2024,Kant and Sons,BCA,3,Male,kimaya78@example.net,3734824,2798755107,72,58,61,3,78,AAPPAAAP
+Rania Shukla,1689,Salesforces admin,Online,05-10-2023,10-08-2023,Rajagopal-Sahota,B.tech,1,Female,seher44@example.net,3269609,8146958,65,40,33,41,7,PAPAAAAP
+Zara Tara,1690,AI/ML,Online,09-06-2023,12/16/2023,Krishna-Saxena,BBA,2,Female,kvarty@example.org,18787752,6766427773,62,21,53,36,44,PPPAAAAA
+Arnav Bains,1691,Salesforce development,Online,04-02-2023,06/27/2023,"Sha, Bora and Chaudry",BCA,3,Male,gdewan@example.net,675338,1881265942,16,0,74,85,16,PAPAPPPP
+Trisha Balay,1692,IOT with AI,Offline,07-11-2023,09/15/2023,Khalsa PLC,MCA,2,Male,chaudhryritvik@example.net,8157666,4494790799,23,80,69,57,13,AAPAAAPA
+Hansh Chaudry,1693,Front-end web development,Offline,12/13/2023,03-07-2024,"Ramachandran, Ahuja and Bhattacharyya",M.tech,1,Male,choudhurybadal@example.org,5218919,1032062,39,55,50,58,89,PAAAAPPP
+Kavya Bhargava,1694,Front-end web development,Offline,09-10-2023,02-12-2024,Sundaram-Sampath,MCA,1,Male,fseshadri@example.org,9283964127,7818953,35,79,28,77,68,PAAPAAAA
+Jivika Sharma,1695,IOT with AI,Online,03/23/2023,07-01-2023,Dhawan LLC,MCA,2,Female,kismatmagar@example.org,2625966270,2252401,11,4,9,73,2,APPAAAPP
+Pari Saini,1696,IOT with AI,Online,12/31/2023,04-05-2024,Lanka-Mander,MCA,4,Female,mammenkabir@example.com,7664948,5412988,16,14,90,35,0,APAAPAAP
+Lakshay Chandra,1697,Front-end web development,Offline,08-11-2023,11-04-2023,Aggarwal and Sons,BCA,4,Male,esridhar@example.com,4468264861,99393,28,27,26,94,100,PAAAPPPP
+Kabir Mane,1698,Data Science,Offline,05/15/2023,10-04-2023,Srivastava-Andra,MCA,3,Male,uthaman@example.org,7769121322,8872797,7,72,58,34,97,PAPPAAPA
+Suhana Babu,1699,Salesforces admin,Offline,09/22/2023,03/17/2024,Deshmukh Group,IT,1,Male,ryan20@example.com,2703945,6454451,62,3,35,50,41,AAAPPAPP
+Zara Sandal,1700,Salesforces admin,Offline,10/23/2023,04-09-2024,Bhargava and Sons,B.tech,4,Male,brandhawa@example.org,3387636,71490130,100,72,42,37,19,PAAAAAPP
+Neelofar Tata,1701,IOT with AI,Online,07/16/2023,12/22/2023,Sagar Ltd,IT,4,Female,nehmatkapoor@example.org,1232144,9949306,15,96,11,91,11,PAPPAAAA
+Mahika Bobal,1702,Mobile app development with Flutter and Cloud with AWS,Offline,03-01-2023,08/28/2023,"Tandon, Walla and Raju",MCA,3,Female,sahilbalay@example.net,8163399185,62229790,47,65,3,22,81,PAPPAPAP
+Neysa Kari,1703,Backend-end development,Online,10-11-2023,01/28/2024,Suresh and Sons,BCA,1,Male,anayjani@example.net,12891059,98880677,54,73,59,89,7,APPPPPAP
+Nitara Dube,1704,Salesforce development,Online,05-03-2023,07-04-2023,Barad PLC,BCA,1,Male,cdin@example.com,9577172230,95276,56,58,45,35,54,PAAAAPPP
+Abram Chakrabarti,1705,Salesforces admin,Offline,01/18/2024,05-12-2024,Sachar-Dhar,IT,1,Female,lakshit24@example.com,3468108296,81378160,37,86,94,88,42,PAAPAPPP
+Aradhya Agrawal,1706,Front-end web development,Offline,08/25/2023,11/25/2023,"Bahri, Desai and Desai",BBA,3,Male,kairavenkatesh@example.com,29952080,5722877,44,50,70,74,65,AAPAAAAA
+Umang Cheema,1707,IOT with AI,Online,12-07-2023,02/14/2024,"Bala, Kumer and Anne",M.tech,2,Male,anaya48@example.net,2162337,37411198,42,50,87,53,50,PAPAPPAA
+Ishita Desai,1708,Mobile app development with Flutter and Cloud with AWS,Offline,01-04-2024,03/24/2024,Bawa-Arora,BBA,4,Male,sharmasumer@example.org,2686852257,1569749082,64,83,33,10,28,APAPAPAP
+Stuvan Tailor,1709,Data Science,Online,04/27/2023,09-05-2023,Sharaf-Chaudhuri,MCA,3,Male,neysa44@example.com,87228445,11113084,10,4,32,93,57,PAAPPPAP
+Anaya Dasgupta,1710,IOT with AI,Online,08/29/2023,11-03-2023,Chokshi-Gour,MCA,4,Male,slal@example.org,7289163,770701,38,32,97,75,9,AAAPPAAA
+Nitya Chatterjee,1711,IOT with AI,Online,09-01-2023,11-03-2023,Hayre Ltd,M.tech,1,Male,neysavora@example.com,85556908,292656,90,18,38,59,12,PPPPPAAA
+Kartik Kota,1712,Backend-end development,Online,09/15/2023,11/14/2023,Warrior-Dar,BCA,1,Female,klad@example.net,5321524,75780834,98,20,82,74,70,AAPPAPAA
+Yashvi Ahluwalia,1713,Salesforce development,Online,02/15/2024,07-06-2024,"Kaul, Bajwa and Kapur",BBA,3,Male,okorpal@example.org,6894506245,1908802456,91,15,39,59,87,AAPPAPPA
+Shamik Banerjee,1714,IOT with AI,Offline,10/31/2023,03-04-2024,Bhattacharyya Inc,B.tech,4,Female,lakshay67@example.net,22880074,7988073846,0,29,4,26,72,APAAPPPP
+Pranay Khanna,1715,IOT with AI,Offline,07/30/2023,01/15/2024,"Gola, Shanker and Wadhwa",BBA,3,Female,sara86@example.org,5843600889,42497614,35,54,62,21,9,AAAPPPPA
+Uthkarsh Upadhyay,1716,IOT with AI,Online,12-05-2023,05-01-2024,Venkataraman PLC,MCA,2,Male,jivinbadal@example.com,5516635,129411,66,100,55,56,29,APAPPAPA
+Anay Kala,1717,Backend-end development,Offline,09-10-2023,12-10-2023,Dhar and Sons,BCA,1,Female,bajwaindrans@example.com,3587114,7330348,83,48,3,98,28,AAAPPPPP
+Nehmat Deshpande,1718,Salesforces admin,Online,10-08-2023,01/27/2024,Desai-Brar,B.tech,3,Female,duazara@example.org,5859233,35190128,74,69,17,37,54,APAPAPAP
+Faiyaz Divan,1719,Salesforces admin,Online,09-11-2023,01/16/2024,Sawhney Ltd,M.tech,1,Male,alishabora@example.net,6206453,608490765,66,35,31,71,56,PAAAPPPA
+Madhup Bose,1720,Salesforces admin,Online,09-01-2023,12/18/2023,Thakur Group,B.tech,1,Female,mandhansh@example.net,2413664090,3129812488,63,34,38,86,27,APAPPAPP
+Ishita Kuruvilla,1721,AI/ML,Offline,11/21/2023,01/25/2024,Ganesh Ltd,BCA,2,Female,aarnachada@example.net,9128940879,3556898604,35,41,36,3,66,PPAAPAPA
+Ela Krishnan,1722,Salesforces admin,Online,03-09-2023,05/21/2023,Goyal Ltd,B.tech,4,Male,bhamini69@example.net,9861398,1069081,35,30,13,65,80,AAPAAAAP
+Rohan Tandon,1723,Front-end web development,Offline,12-02-2023,05/16/2024,Jani-Verma,B.tech,3,Male,hegdeanya@example.org,390983,94477029,14,31,97,7,74,PAAPPPPA
+Zara Mani,1724,AI/ML,Online,06/21/2023,09/23/2023,"Bains, Lad and Kota",B.tech,4,Male,lavanyadugar@example.com,52316038,4159044,76,44,12,14,40,APAPPPAA
+Arhaan Krish,1725,Salesforces admin,Offline,09-03-2023,01/27/2024,"Chad, Korpal and Agarwal",BCA,3,Female,inaaya-53@example.com,7504019141,8478125,47,75,25,35,52,APAAPAAA
+Jivin Wagle,1726,IOT with AI,Offline,09/20/2023,01-02-2024,"Raval, Rana and Balay",B.tech,3,Male,bireva@example.com,8234233915,4296277916,87,71,23,69,86,PAAAAPAA
+Armaan Chhabra,1727,Salesforce development,Online,10/29/2023,04/18/2024,Chaudhari PLC,BCA,4,Female,anahita76@example.org,4199630462,1722406678,77,74,58,80,44,PPPPPPAA
+Prerak Barman,1728,Mobile app development with Flutter and Cloud with AWS,Offline,09/19/2023,12-04-2023,"Bala, Vasa and Buch",BCA,1,Male,shalv70@example.net,5782904665,7910802,12,59,98,63,17,APAPPAAP
+Hrishita Varughese,1729,Backend-end development,Offline,02-12-2024,05/26/2024,Gola-Gill,BCA,1,Female,shray06@example.org,8741145438,2542831,77,42,2,20,5,AAPPPAAP
+Oorja Saha,1730,Mobile app development with Flutter and Cloud with AWS,Offline,03/22/2023,05/25/2023,Gopal Group,IT,1,Male,taimurhari@example.net,476007,4862887843,47,17,53,43,94,PPAPPAAP
+Armaan Karpe,1731,Data Science,Offline,10/31/2023,01/25/2024,Chhabra Group,BBA,3,Male,jgoda@example.net,3470897433,4004345848,23,13,65,57,48,PPPAAPAA
+Samaira Luthra,1732,Front-end web development,Offline,03/23/2023,08-07-2023,"Ram, Batta and Rattan",BCA,2,Male,khalsazeeshan@example.com,5931291,6401067964,59,19,56,15,15,AAPAPAAA
+Ishita Choudhry,1733,Front-end web development,Offline,10/25/2023,01/31/2024,"Bahl, Sunder and Venkataraman",M.tech,2,Female,braranahita@example.com,2656653739,8567580,58,73,31,21,14,PPPAAAAA
+Dhruv Ram,1734,IOT with AI,Online,01-08-2024,07-02-2024,"Yogi, Lal and Chand",MCA,2,Female,madandharmajan@example.net,4123594664,65934921,25,84,10,48,49,PPPAPAAP
+Mehul Wason,1735,AI/ML,Online,12-01-2023,03/14/2024,Bhatt Group,IT,4,Male,ritvik03@example.com,689203903,9052353,79,39,88,54,16,AAPAPAPP
+Samiha Dave,1736,Front-end web development,Offline,08/16/2023,12/31/2023,"Golla, Das and Dugar",MCA,3,Female,jbera@example.com,1746830,9953020,63,44,60,98,51,AAAAAAPP
+Himmat Viswanathan,1737,Salesforce development,Online,02/17/2024,05/15/2024,"Kalla, Atwal and Hayer",BBA,2,Male,kanav36@example.net,4094914351,8350101,2,58,52,96,92,AAAPAPAA
+Romil Karan,1738,Backend-end development,Offline,07/22/2023,11/19/2023,"Korpal, Sekhon and Dash",B.tech,3,Female,lbasu@example.org,86385703,7379149242,50,95,64,25,65,PPAAPAPP
+Purab Jain,1739,Front-end web development,Online,02-02-2024,04/25/2024,Sandal-Kakar,BBA,4,Male,keyakota@example.org,7586095,8293643,75,52,36,53,80,AAAAPPAP
+Dhanush Magar,1740,IOT with AI,Online,04-05-2023,07-02-2023,"Dayal, Acharya and Kunda",IT,3,Male,heer96@example.net,4752274,3458190705,17,87,63,91,66,AAPPPAAP
+Jiya Sodhi,1741,Salesforce development,Online,10-05-2023,03/25/2024,"Varty, Gala and Magar",BCA,3,Female,oseshadri@example.com,6140720640,11562193,60,55,8,58,16,PAAPAPPA
+Aniruddh Andra,1742,IOT with AI,Offline,06/13/2023,09/25/2023,Dass-Kothari,B.tech,1,Female,wallaindranil@example.net,75390755,57220344,16,64,82,31,68,APAAPPAP
+Advik Dalal,1743,Mobile app development with Flutter and Cloud with AWS,Offline,12/19/2023,06/15/2024,Mammen LLC,MCA,1,Female,chawlabhavin@example.org,53495654,93614388,98,69,26,16,71,APPPAPPP
+Ishita Goel,1744,Front-end web development,Offline,01-11-2024,05/19/2024,Tak-Chahal,BBA,3,Female,aaina29@example.com,33901214,9200613213,55,57,64,36,67,PPPAPPPA
+Armaan Dora,1745,Front-end web development,Offline,08/20/2023,11/21/2023,"Bava, D’Alia and Acharya",B.tech,1,Male,kkala@example.net,9550306925,6970710,50,12,36,27,6,APAAAPPA
+Anahita Gokhale,1746,Data Science,Offline,04/26/2023,08/15/2023,Thakur Group,B.tech,4,Male,hsagar@example.org,7956854547,81062577,54,46,9,53,39,PPAAAPAA
+Vardaniya Banik,1747,Front-end web development,Online,08/21/2023,11/23/2023,Bansal LLC,BBA,2,Male,mishamaharaj@example.net,9893882,184349390,23,98,9,22,50,AAAPPPAP
+Uthkarsh Lala,1748,Backend-end development,Offline,07/26/2023,01/21/2024,Handa Ltd,IT,1,Male,indrajit29@example.org,69597,40829768,19,35,6,44,37,PPPAPAAP
+Indrans Roy,1749,Data Science,Offline,02-03-2024,07/14/2024,Tara-Sur,M.tech,2,Female,ckarnik@example.org,29040810,71182566,5,76,78,79,90,AAAAAAAA
+Rohan Kari,1750,Backend-end development,Offline,01-05-2024,04/13/2024,Ganesan Group,IT,2,Male,bordehimmat@example.org,9364002630,2658141192,35,95,59,81,43,PAAAAPPA
+Divyansh Sampath,1751,IOT with AI,Online,09/22/2023,01-07-2024,Manne PLC,BCA,4,Female,krishnaaaina@example.net,5033958,188656646,82,33,74,20,11,APPPPPPA
+Kartik Dutt,1752,Salesforce development,Online,06/29/2023,09/28/2023,Shenoy-Dua,MCA,4,Female,rsolanki@example.com,35093965,58975928,82,62,29,60,22,AAAPPPAA
+Jayan Badami,1753,Backend-end development,Online,06-04-2023,10/31/2023,Bhatt and Sons,BCA,1,Female,amani87@example.com,3082207,6070975953,58,67,99,11,15,APPAAAPP
+Aayush Chakraborty,1754,AI/ML,Online,08/16/2023,12/27/2023,Dixit-Baria,B.tech,2,Male,anahichawla@example.com,8312619288,9712560,84,2,21,24,13,APPAPPAA
+Kiaan Loyal,1755,Front-end web development,Online,06/23/2023,12/14/2023,"Randhawa, Bera and Mander",B.tech,2,Female,khushi54@example.com,9725616521,4994900781,49,21,67,41,81,APPPPAPP
+Amani Loyal,1756,IOT with AI,Online,02-05-2024,04-12-2024,"Bajaj, Saini and Sethi",MCA,4,Male,cchakrabarti@example.org,2851086422,83827667,66,60,83,35,25,AAAAPPPA
+Kashvi Comar,1757,Front-end web development,Offline,04/16/2023,07-11-2023,"Chaudhuri, Sehgal and Goel",BBA,4,Male,madhupgoswami@example.org,47010300,25627924,43,6,84,2,54,PAPPAAAP
+Romil Chahal,1758,Backend-end development,Offline,07/16/2023,10-06-2023,"Varkey, Subramanian and Bala",B.tech,1,Female,rkara@example.net,39795577,8352406,38,66,78,77,37,AAPPAAPP
+Siya Sankaran,1759,Salesforce development,Offline,04-12-2023,10-02-2023,"Choudhury, Bhatt and Kumer",BCA,4,Female,htiwari@example.net,17922909,8453754118,50,4,97,4,64,AAAAPAPP
+Anya Barad,1760,Salesforces admin,Online,07/17/2023,11-01-2023,Kumer-Kunda,IT,1,Female,bbansal@example.net,4653541,6561784,91,95,29,42,77,APAPPAAA
+Jivika Sethi,1761,Front-end web development,Offline,04/15/2023,06/24/2023,Koshy PLC,M.tech,3,Female,lakshay28@example.org,69069006,9725446,48,71,12,95,92,APPPPPAA
+Mehul Deo,1762,Backend-end development,Online,09/13/2023,01/14/2024,Salvi Inc,BBA,3,Male,trisha86@example.org,296935502,72110882,42,79,95,45,1,PPPAAPAA
+Amira Kota,1763,IOT with AI,Offline,07/18/2023,12/15/2023,Sagar-Gara,BBA,3,Female,nehmat05@example.org,5684573,5967009,71,81,2,19,48,PPPPPPAA
+Hazel Lanka,1764,Salesforce development,Online,09/25/2023,01/19/2024,Tata-Sheth,BCA,4,Female,guhamiraya@example.com,7005996,4926484505,50,63,8,95,31,PPPPPAPP
+Zoya Subramanian,1765,Salesforce development,Offline,05/29/2023,09-10-2023,Seth-Maharaj,MCA,4,Male,zeeshanraval@example.com,80845279,19170012,95,7,83,66,67,APPPPAPP
+Divij Varughese,1766,Front-end web development,Online,11-06-2023,04-04-2024,"Ganguly, Sheth and Krishnamurthy",MCA,1,Female,vsolanki@example.com,54362817,7285788569,3,78,11,14,14,AAPPPPPA
+Jayesh Buch,1767,Salesforce development,Offline,11-07-2023,04-11-2024,"Tara, Toor and Sangha",BBA,4,Female,darshit26@example.com,1307740,97312725,14,14,27,1,8,PAPPAPPA
+Parinaaz Chandra,1768,Front-end web development,Offline,06-05-2023,09/14/2023,"Golla, Krish and Agrawal",M.tech,4,Male,nirvisachdeva@example.net,8036200,7999454555,9,28,36,52,87,AAAAPAPA
+Onkar Jani,1769,AI/ML,Offline,12-10-2023,02/19/2024,"Tak, Shetty and Shanker",MCA,1,Male,darora@example.org,5882187555,47243513,70,10,71,10,67,APAPAPPP
+Yashvi Borra,1770,Backend-end development,Offline,01-02-2024,04/13/2024,Agarwal-Rama,BCA,2,Female,kavya43@example.org,4089663,9232106455,6,67,52,95,67,APPPAAAP
+Alia Taneja,1771,Front-end web development,Offline,08/18/2023,01-11-2024,"Bahl, Krishnamurthy and Ram",IT,2,Male,mseth@example.net,8732965229,30167773,40,18,94,84,3,AAPAPAAP
+Misha Johal,1772,Mobile app development with Flutter and Cloud with AWS,Offline,04/14/2023,09-06-2023,"Vaidya, Sundaram and Roy",M.tech,2,Male,ybalan@example.com,9220886,3253591,82,46,7,86,71,PAAPAAPA
+Arhaan Dhar,1773,Front-end web development,Online,05/20/2023,10-07-2023,"Bera, Kapadia and Amble",IT,2,Male,kabirvaidya@example.org,1501408273,1515323,48,84,32,42,89,AAAPAAPA
+Eshani Goel,1774,Salesforce development,Offline,05-09-2023,10-01-2023,Thaker Group,MCA,2,Female,ssami@example.org,39630219,23495783,72,85,43,21,43,AAAPAAAA
+Miraya Seth,1775,Backend-end development,Offline,07/31/2023,10-10-2023,"Chokshi, Sehgal and Bhakta",BCA,2,Male,aarnabal@example.net,8192808,8640322244,26,18,99,18,82,AAAPAPPP
+Divit Gokhale,1776,Data Science,Online,10-08-2023,12/29/2023,"Shan, Warrior and Dhawan",IT,4,Male,zara90@example.org,69055195,5740412292,3,3,88,99,64,PAPAAPPA
+Samiha Chawla,1777,Salesforce development,Offline,11/17/2023,04-06-2024,Deshmukh PLC,MCA,2,Female,mirayabehl@example.net,8929518558,8506003951,55,85,15,84,19,AAPAPPPA
+Vanya Rastogi,1778,Mobile app development with Flutter and Cloud with AWS,Online,11/28/2023,03/24/2024,"Sastry, Sachdev and Kohli",B.tech,3,Female,banerjeekiara@example.com,67529598,8484425,22,20,84,81,60,AAPPPAPP
+Inaaya  Bir,1779,Data Science,Offline,09/28/2023,01/30/2024,Sangha-Handa,BBA,1,Female,indransaurora@example.com,4465286,49616492,14,30,9,48,32,APPPPAAA
+Rania Upadhyay,1780,Front-end web development,Online,07/23/2023,12-11-2023,Bhatia LLC,BCA,3,Male,cheemasamar@example.org,4983800208,70947088,14,11,7,75,42,AAAPAAAP
+Kavya Kade,1781,Salesforce development,Online,12/28/2023,05/24/2024,Vasa-Dixit,IT,4,Male,bhavin03@example.org,8295226789,76587041,14,17,94,6,84,PPPPPPPP
+Miraan Bhasin,1782,Backend-end development,Offline,01-03-2024,04-12-2024,Goswami-Acharya,M.tech,3,Male,khalder@example.net,650443802,3346666,92,47,42,52,25,AAPAPAAP
+Nirvaan Rana,1783,AI/ML,Offline,02-09-2024,06-01-2024,"Chadha, Bumb and Bail",MCA,3,Male,ykothari@example.org,8835721,2245564196,69,34,8,28,11,APPAAAPP
+Lavanya Tara,1784,Front-end web development,Offline,04-08-2023,07/21/2023,Rao LLC,B.tech,4,Male,singhurvi@example.net,26738914,66816826,63,98,68,57,0,PPAAPPAA
+Ela Bhatnagar,1785,IOT with AI,Online,07-09-2023,09/25/2023,Sachdev-Shah,M.tech,1,Female,emirshah@example.org,3083362,2480199,73,6,32,50,47,PAAPAAAA
+Ehsaan Mann,1786,AI/ML,Offline,12/19/2023,06-04-2024,Samra PLC,M.tech,1,Male,isami@example.net,7058113,1959395,85,96,71,49,76,AAAAPAPP
+Tiya Sarkar,1787,AI/ML,Online,04/26/2023,08-10-2023,Lad Group,BCA,2,Male,rausaksham@example.org,1995580807,92388180,51,69,23,56,87,APPPAPPA
+Lagan Sethi,1788,Backend-end development,Online,06-05-2023,10-03-2023,Acharya Group,IT,3,Male,mrau@example.com,2809787,841964250,54,19,37,39,3,PAPAAPPP
+Ryan Guha,1789,AI/ML,Online,01/14/2024,04-06-2024,"Tella, Khosla and Dey",BBA,3,Female,aaryahi56@example.com,13845442,9598995,85,91,82,25,25,PPAPAAAA
+Zeeshan Manne,1790,AI/ML,Online,04/17/2023,06/29/2023,"Master, Sarma and Ramaswamy",B.tech,4,Female,gatikkale@example.net,8287584441,5422395089,77,57,59,24,4,PAPAAPAA
+Shamik Mandal,1791,Backend-end development,Online,08/29/2023,02/19/2024,Salvi-Sridhar,M.tech,3,Male,hridaanseth@example.net,31176643,84680591,34,77,74,53,99,APAAPAAA
+Shlok Loyal,1792,Backend-end development,Online,04/14/2023,10-05-2023,"Mani, Gala and Mangat",B.tech,3,Male,nayantara90@example.org,63167010,9281463,15,17,100,56,68,PAPAPAPA
+Darshit Vaidya,1793,Mobile app development with Flutter and Cloud with AWS,Online,03-01-2023,07-07-2023,"Solanki, Trivedi and Rajagopal",B.tech,3,Male,devansh59@example.net,4123760876,72761104,11,82,77,3,71,PAPPPPAA
+Ivana Bhatnagar,1794,IOT with AI,Offline,11/13/2023,04/27/2024,Date PLC,BBA,1,Male,tara04@example.org,6028148,1386630,77,23,61,18,99,PAPPPPAP
+Adah Chada,1795,Data Science,Offline,12/17/2023,06-10-2024,"Ganguly, Sama and Raju",BCA,3,Female,vritikamaharaj@example.net,33499317,83874945,37,42,68,35,86,PAPPPPPP
+Kaira Dhingra,1796,Data Science,Offline,08-02-2023,11/15/2023,Kothari-Kota,IT,1,Male,bhattriya@example.com,67729688,6071437,91,60,62,49,19,PPAPAAPP
+Oorja Lal,1797,Salesforce development,Offline,12/30/2023,03-03-2024,Bala-Saini,IT,3,Male,urama@example.org,6137238503,5424076,74,79,99,19,24,PPAPPAAA
+Nakul Venkatesh,1798,IOT with AI,Offline,05-03-2023,07-06-2023,Magar Group,B.tech,4,Female,yuvaan11@example.com,37135705,8592956008,93,83,56,92,35,PPAPAPPA
+Indrans Goel,1799,Backend-end development,Online,10-01-2023,12-02-2023,Maharaj-Bhatia,BBA,3,Male,kondajayesh@example.org,65747869,4907443,24,42,4,68,18,PPAPPPPP
+Rohan Baria,1800,Front-end web development,Offline,04/15/2023,07-01-2023,Sahota LLC,M.tech,2,Female,gangulyaayush@example.org,3290333,3801813,10,49,77,13,61,APPPAAPA
+Tiya Batra,1801,Salesforce development,Offline,06/17/2023,10-01-2023,Mall PLC,BCA,4,Male,ghoshnakul@example.net,88567243,54390422,7,53,64,8,69,AAAAAAPA
+Samar Gopal,1802,IOT with AI,Online,05/19/2023,08/14/2023,Venkataraman PLC,BCA,4,Male,hunarsavant@example.net,50653883,903525,58,87,54,93,42,APPPPPPP
+Akarsh Seth,1803,Mobile app development with Flutter and Cloud with AWS,Offline,01/27/2024,04/20/2024,Sarkar-Kala,IT,3,Male,santjayant@example.org,28781116,8798031,32,85,77,33,86,PAAPPAPP
+Zaina Sethi,1804,Backend-end development,Offline,09/30/2023,01/14/2024,Chacko-Vala,B.tech,3,Male,anahikuruvilla@example.com,8869265562,6938858909,56,41,76,6,69,PPPPPPAA
+Aarav Toor,1805,Front-end web development,Offline,08-11-2023,10/30/2023,Agrawal Group,MCA,4,Female,hdave@example.net,6136792366,36288975,10,46,44,87,66,PAAPPAAP
+Elakshi Sunder,1806,AI/ML,Online,12/23/2023,06/14/2024,Agate Ltd,B.tech,4,Male,shalvwadhwa@example.net,24718693,1425362623,91,78,74,53,3,AAPPAPPA
+Miraya Kaul,1807,Mobile app development with Flutter and Cloud with AWS,Online,11/23/2023,01/31/2024,"Dara, Agarwal and Buch",BCA,2,Male,shamik31@example.com,8490571,47809573,65,13,66,62,100,APPAPPPP
+Reyansh Anand,1808,AI/ML,Online,10/23/2023,02/17/2024,Chandran-Swaminathan,MCA,4,Male,dsubramanian@example.net,6860433,4483280,88,22,50,93,50,PPAAAAAA
+Alisha Bal,1809,Salesforce development,Online,03/26/2023,07-08-2023,Dash-Mann,B.tech,1,Male,deolanika@example.net,4965833,6419675,5,32,80,49,2,AAAAAAAP
+Emir Gaba,1810,Data Science,Online,11-11-2023,02/26/2024,"Golla, Rattan and Edwin",M.tech,2,Female,faiyazgandhi@example.net,46417914,4233560405,87,68,99,85,88,AAPAAPAP
+Tushar Sachar,1811,IOT with AI,Online,06-07-2023,10/25/2023,Sarraf-Trivedi,BBA,4,Male,navya49@example.net,1839144,41457078,33,36,73,62,25,AAPAPAAA
+Aaina Dey,1812,Front-end web development,Offline,04/17/2023,07/25/2023,Contractor-Lata,BCA,4,Male,lvaidya@example.org,96660826,4519301,60,72,86,32,63,AAAPPPAP
+Yakshit Bedi,1813,Mobile app development with Flutter and Cloud with AWS,Offline,09/25/2023,01/27/2024,Bahl PLC,B.tech,3,Male,madhav13@example.net,5931720662,22723969,4,97,40,55,48,PPPAPAPA
+Neelofar Karpe,1814,Front-end web development,Online,10/25/2023,02-08-2024,Kulkarni Inc,BBA,4,Male,virkjayant@example.com,5774110,44495499,99,1,50,12,58,APAAPPAA
+Pranay Devan,1815,AI/ML,Online,01/27/2024,04/16/2024,Sama-Ram,BBA,2,Female,rasharavi@example.org,19537274,55830666,36,42,88,38,18,AAPPAPAP
+Charvi Yadav,1816,Front-end web development,Online,04-09-2023,08/31/2023,"Chakraborty, Dhar and Master",MCA,3,Male,aradhya55@example.org,86126776,7968891261,41,31,51,89,78,AAPAAAPP
+Nishith Deshpande,1817,IOT with AI,Offline,09/28/2023,03-12-2024,Chakrabarti-Bains,BBA,3,Female,himmat56@example.org,1347063397,4422448578,32,2,91,48,20,PAPAAAPA
+Samiha Sane,1818,Front-end web development,Offline,10/31/2023,04-04-2024,"Chander, Reddy and Mand",BCA,2,Male,ishaanmani@example.com,3123648717,3328645939,92,27,65,7,32,PPAPAPAP
+Nirvi Rana,1819,Salesforces admin,Online,06-10-2023,10/24/2023,"Samra, Batta and Mangal",M.tech,2,Male,rdhillon@example.org,67072945,29198203,37,82,42,7,24,PPPAPAPP
+Hunar Loke,1820,IOT with AI,Online,08/27/2023,01-07-2024,Dass-Srivastava,M.tech,4,Male,achaudhuri@example.net,38954369,18724239,11,34,13,1,37,AAPAAAPA
+Mahika Bhat,1821,Data Science,Offline,03-10-2023,07/20/2023,"Tak, Chaudhuri and Bail",MCA,4,Male,uthkarshgoswami@example.com,82524076,5509341,20,12,39,97,14,AAAAPAAP
+Aaryahi Bhatnagar,1822,AI/ML,Online,04-01-2023,09/13/2023,"Sani, Wali and Edwin",BBA,4,Female,acomar@example.org,2484774,6714395,79,47,63,39,29,APPPPAAP
+Hridaan Ramesh,1823,Salesforces admin,Offline,08/28/2023,01/26/2024,Sampath-Malhotra,M.tech,3,Female,hiran60@example.com,2347203,7541622,32,16,64,42,76,PAAPPPPA
+Vivaan Chakrabarti,1824,Data Science,Offline,04/15/2023,07-02-2023,Badami-Dube,BCA,2,Female,kismatbora@example.org,1034825,6283070,43,82,47,14,27,PPPPPPAP
+Manjari Wason,1825,Backend-end development,Online,06/19/2023,09/19/2023,"Bahl, Dayal and Bhasin",BBA,3,Female,bchaudhary@example.net,3996507,74502993,2,27,85,44,32,AAAPAPAA
+Taimur Mahal,1826,Salesforce development,Online,08-01-2023,12-10-2023,Ranganathan PLC,MCA,2,Female,bijubala@example.org,1537303,3848860,44,50,27,36,86,PAAAAPPA
+Yuvraj  Ravi,1827,Front-end web development,Offline,03/29/2023,07-10-2023,Sant Group,IT,2,Female,deolvritika@example.com,8849725714,3297070847,96,43,88,65,30,PPAAPPPP
+Taran Rastogi,1828,Salesforces admin,Online,03/24/2023,05/29/2023,Vohra-Johal,M.tech,2,Female,krishkrishna@example.com,9191858,99449705,81,88,3,79,0,PAAPPPAA
+Devansh Bora,1829,Data Science,Online,10/29/2023,03/25/2024,Singh-Boase,MCA,2,Female,mehulsinghal@example.com,2942294309,8735358422,84,44,5,96,0,PAAAPAPA
+Neelofar Bava,1830,IOT with AI,Online,11/14/2023,04-10-2024,Korpal and Sons,IT,2,Female,bailshalv@example.net,491987402,36803075,18,5,93,28,73,PAPPAAAA
+Badal Mann,1831,Backend-end development,Online,02-04-2024,06/20/2024,"Sabharwal, Som and Venkataraman",IT,3,Female,vgarg@example.com,36591976,9738912037,39,53,59,9,30,APPPAPAA
+Yuvaan Bansal,1832,Mobile app development with Flutter and Cloud with AWS,Online,04/17/2023,08/15/2023,"Wali, Goda and Borah",MCA,2,Female,nirvi23@example.com,9272853,99824065,64,24,12,94,55,PAPAAAAA
+Lakshit Shenoy,1833,Front-end web development,Online,04/16/2023,10/13/2023,"Kala, Sood and Chauhan",M.tech,1,Male,srivastavaira@example.net,3226039,4665145,1,89,61,49,54,PAPPAPPP
+Badal Bala,1834,Mobile app development with Flutter and Cloud with AWS,Offline,07-11-2023,11/20/2023,"Saha, Roy and Sekhon",IT,4,Female,wrattan@example.com,38623468,6219081,76,77,6,86,84,PAAAAAAP
+Anya Karan,1835,Data Science,Offline,03/28/2023,09/22/2023,"Loke, Bhavsar and Singh",M.tech,4,Female,kavyatailor@example.com,2184779,62621223,12,34,77,50,44,AAAAAPPP
+Elakshi Ganguly,1836,Front-end web development,Online,09/21/2023,03-06-2024,"Krish, Goel and Dhawan",BBA,3,Male,contractorbhavin@example.org,5292697359,2918992006,24,92,100,58,80,APAAPPAP
+Nirvaan Buch,1837,Data Science,Online,11-11-2023,02/28/2024,Ben-Kapoor,B.tech,3,Male,aayush44@example.org,3744085,9707090,13,99,19,95,1,PPAPPAAP
+Pihu Verma,1838,Data Science,Offline,08-03-2023,11/23/2023,Kant Group,M.tech,1,Female,zoyaramaswamy@example.com,9528185,9609353875,68,57,100,67,65,PAAPPAAA
+Sumer Vig,1839,Mobile app development with Flutter and Cloud with AWS,Online,10-07-2023,03/22/2024,"Sandal, Babu and Chander",MCA,4,Female,sbobal@example.org,66628274,14899303,54,47,59,35,96,APPAAAAA
+Advika Chaudry,1840,Salesforce development,Offline,09-02-2023,01/31/2024,"Bir, Randhawa and Korpal",M.tech,4,Male,alalla@example.net,1029323322,89386790,47,37,12,22,90,APPAPPPP
+Oorja Chopra,1841,AI/ML,Online,02-04-2024,06/14/2024,Mallick PLC,BCA,3,Male,srajagopal@example.org,6011720042,7072990114,70,60,66,92,20,APAAAAPA
+Anaya Dora,1842,Salesforces admin,Online,05/17/2023,10/22/2023,Ahuja-Divan,BBA,4,Male,shray24@example.com,3122754,8357051,54,17,59,83,30,AAPAAPPP
+Alisha Swaminathan,1843,Backend-end development,Online,12/27/2023,06-04-2024,"Jayaraman, Gour and Boase",M.tech,1,Male,yashvihegde@example.net,2539226,93784584,17,46,19,24,26,PPAPAAPA
+Alisha Butala,1844,IOT with AI,Offline,03/29/2023,08/30/2023,"Vora, Sengupta and Verma",MCA,3,Female,kde@example.com,9924437,8545741243,53,74,53,71,10,PAAAAPPP
+Darshit Khare,1845,IOT with AI,Online,04/19/2023,08-12-2023,Sandhu Ltd,BBA,4,Female,ahana-56@example.com,4165945968,87516403,13,88,75,74,11,APAAPPAA
+Diya Lala,1846,AI/ML,Online,06-06-2023,09/17/2023,Kadakia PLC,B.tech,3,Female,vardaniya87@example.org,2456355,6049078,82,33,42,93,68,APAAPAPA
+Manikya Karpe,1847,Front-end web development,Online,06/18/2023,11/21/2023,"Dave, Bedi and Mannan",M.tech,4,Male,mohanlalshankar@example.org,7533626392,27412675,29,82,32,96,30,PPPPPAPA
+Kimaya Borah,1848,Backend-end development,Offline,08/17/2023,02-02-2024,Roy and Sons,BCA,3,Male,djha@example.org,8429957112,5283614697,31,56,15,58,98,PAAAAPAA
+Aniruddh Sangha,1849,Backend-end development,Online,05-04-2023,10-07-2023,"Shan, Som and Banerjee",M.tech,2,Male,rhea33@example.net,8506025,6546378,61,1,16,9,26,AAPPAAAP
+Trisha Koshy,1850,Salesforces admin,Online,11/17/2023,04-08-2024,Dhar-Ram,BBA,2,Male,pchowdhury@example.com,4145506,5973992686,22,24,58,70,58,AAPAAPPA
+Miraan Borde,1851,Mobile app development with Flutter and Cloud with AWS,Online,10/21/2023,03/26/2024,Dass-Sabharwal,B.tech,2,Female,sahil66@example.net,41638286,2903900,97,63,50,52,49,PAAAPAPA
+Samaira Dutta,1852,AI/ML,Online,09-12-2023,12-08-2023,"Balakrishnan, Sur and Chaudhary",B.tech,3,Female,piya28@example.net,7206257,4964855079,40,65,60,20,21,APPAAPPA
+Kimaya Sandal,1853,IOT with AI,Online,12/18/2023,02/20/2024,Halder LLC,IT,1,Male,zoya47@example.com,95797006,17280602,4,59,87,10,45,APAPPAAA
+Ishaan Kari,1854,AI/ML,Offline,06/22/2023,09/16/2023,"Solanki, Kalla and Kurian",IT,2,Male,kavyabala@example.org,4763644,95289285,99,99,46,63,47,APPAAPPA
+Zeeshan Saraf,1855,Salesforce development,Online,07-06-2023,11-05-2023,Shanker-Butala,BBA,1,Male,raghavkara@example.com,1372478,4077147499,79,60,69,5,70,AAPPAAAA
+Akarsh Kara,1856,Salesforce development,Online,09/14/2023,01-03-2024,Goswami-Bhagat,BBA,4,Male,pkale@example.org,3384707895,4308543,29,26,90,76,20,APPAPAPA
+Zaina Shroff,1857,IOT with AI,Offline,11/21/2023,03/27/2024,"Bal, Chahal and Bhargava",IT,4,Male,siya30@example.org,369438516,5059071,7,62,41,60,32,PPPAPPPA
+Nitara Lad,1858,IOT with AI,Offline,04/16/2023,10-08-2023,"De, Virk and Dash",MCA,3,Male,bandisamar@example.net,5783162019,3617546397,59,76,10,94,49,PPAPAAAA
+Umang Sha,1859,Salesforce development,Online,04-08-2023,08/14/2023,"Sur, Rau and Lata",MCA,3,Male,tcheema@example.org,1647755,10688442,39,92,5,87,93,APPPPPPA
+Taimur Chaudhari,1860,AI/ML,Online,10/21/2023,04-11-2024,Hans PLC,MCA,3,Female,saralalla@example.org,6511006673,67433393,4,55,3,51,54,APPPAAAA
+Mehul Kapur,1861,AI/ML,Offline,11-07-2023,03/26/2024,Kunda-Bhagat,BBA,1,Female,krishnamurthyaniruddh@example.com,22329969,7029243,50,17,77,51,7,AAAPPAPP
+Samarth Mani,1862,Salesforce development,Offline,07/14/2023,10-08-2023,Kanda LLC,M.tech,1,Male,xsinha@example.net,525092,5879245613,83,84,92,69,37,AAAPAPPP
+Armaan Ahuja,1863,Salesforce development,Online,04/15/2023,09/20/2023,Atwal PLC,B.tech,4,Female,nramachandran@example.net,73166930,4221783,54,33,61,100,92,APAPPAPA
+Madhup Mall,1864,Data Science,Online,12-02-2023,02-07-2024,Talwar-Hans,BCA,2,Female,dharmajanramaswamy@example.com,8773701887,48437601,99,53,95,13,91,AAAPAPAP
+Anaya Vala,1865,Mobile app development with Flutter and Cloud with AWS,Offline,05-01-2023,08/25/2023,Choudhry-Bhatia,BBA,3,Female,umani@example.com,5543102,57856863,85,89,47,50,90,PAPAPAAP
+Amani Din,1866,Salesforces admin,Offline,11-05-2023,01/23/2024,Dada Inc,IT,4,Female,sanghadhruv@example.net,4797682,3529396,36,40,11,70,22,PPPPAPPP
+Indrajit Sheth,1867,Front-end web development,Online,06-03-2023,11-09-2023,Rajagopal PLC,IT,2,Female,tdhingra@example.com,9637467,28166912,96,65,75,12,83,AAPAAAAP
+Biju Kapoor,1868,IOT with AI,Online,11-06-2023,02/22/2024,"Saini, Dara and Bansal",BCA,3,Female,diya98@example.com,44401417,8619257390,73,26,85,5,80,AAPPAAPA
+Alisha Sarkar,1869,Salesforces admin,Online,01/22/2024,03/25/2024,"Char, Andra and Bhavsar",M.tech,2,Female,vedika89@example.com,1069593,7086654,33,19,66,31,6,PPPAPAPP
+Anaya Sami,1870,AI/ML,Offline,04-12-2023,06/14/2023,Bhargava-Shukla,BBA,3,Male,xbawa@example.com,9457750141,3854947361,0,86,32,53,63,PPAAAAAP
+Vritika Bains,1871,Salesforce development,Offline,08/28/2023,10/31/2023,Gour and Sons,B.tech,1,Male,reneesarna@example.org,5233067788,6408115,98,27,68,27,37,PPAPPAPP
+Aradhya Grewal,1872,Backend-end development,Online,01-06-2024,03/24/2024,"D’Alia, Bhalla and Lala",B.tech,3,Female,devansh56@example.org,3101804438,1377752,86,46,100,15,82,APAPAPPP
+Stuvan Bala,1873,AI/ML,Online,03-01-2023,08/13/2023,Basak Ltd,BBA,3,Female,jhanvi78@example.org,9228025,4196901735,35,61,92,44,16,PAPPAAAP
+Hridaan Halder,1874,AI/ML,Offline,03/20/2023,07-10-2023,D’Alia Inc,M.tech,1,Female,jdas@example.com,16691910,7612516,70,95,5,21,2,APPPAAPA
+Elakshi Golla,1875,IOT with AI,Online,02-05-2024,06/19/2024,Bhakta-Kalita,BBA,1,Female,ramanathanaayush@example.org,64646,9788879,62,53,68,13,13,PPAPAAPP
+Nayantara Varkey,1876,Mobile app development with Flutter and Cloud with AWS,Offline,08-02-2023,01/27/2024,Sridhar-Manda,B.tech,4,Male,romiljoshi@example.net,614183508,8851305590,53,90,55,62,25,PAAAAAPP
+Siya Gill,1877,Mobile app development with Flutter and Cloud with AWS,Online,05/29/2023,09/18/2023,Rajagopal-Dugar,B.tech,4,Male,haritaimur@example.org,3120948427,247186,53,77,63,39,39,PAAPAAAA
+Hazel Gulati,1878,Data Science,Online,03-02-2023,08-03-2023,Chana-Kara,M.tech,1,Female,regebiju@example.net,5324166,54026277,61,48,95,31,92,PPAPAAAA
+Uthkarsh Ranganathan,1879,Data Science,Offline,12/17/2023,05/24/2024,"Khanna, Balan and Chand",BBA,3,Female,kaira72@example.com,6598921117,5380576893,47,37,86,48,5,AAPPAPAP
+Samarth Bath,1880,Salesforces admin,Online,12/13/2023,04/21/2024,Thakur Ltd,IT,2,Male,sumerbal@example.org,3559347872,5034755,69,15,98,3,96,PPPAPPAA
+Anya Grover,1881,AI/ML,Offline,05/23/2023,11/18/2023,Sastry-Vyas,M.tech,2,Female,vihaandayal@example.org,5720579,77569831,69,77,30,93,27,PPPPAPAA
+Chirag Gill,1882,Salesforces admin,Online,08/23/2023,11/15/2023,"Issac, Vohra and Buch",BCA,4,Female,aliamaharaj@example.net,8584134,2081755,30,49,0,19,92,APAAPAPA
+Parinaaz Sarkar,1883,Salesforce development,Offline,02/27/2023,05/24/2023,Shetty PLC,B.tech,1,Male,ryan24@example.com,58322207,4119696145,65,12,38,55,98,PAAPAPPP
+Zara Dugal,1884,Data Science,Offline,07-06-2023,11-08-2023,Srivastava-Bansal,IT,2,Female,raghavvenkatesh@example.org,86066029,91826129,100,88,88,9,79,PAAAPPAA
+Zain Sarin,1885,AI/ML,Online,02/19/2024,06/25/2024,"Das, Khare and Thaker",BCA,3,Female,bajajlakshit@example.com,292899444,56901223,50,76,50,33,22,PPAPPPAP
+Arnav Ramanathan,1886,Front-end web development,Online,07/20/2023,10-05-2023,"Solanki, Date and Kalla",BCA,3,Female,venkateshdamini@example.net,3639633,4916989436,68,9,31,96,77,AAPPPPPA
+Jivika Korpal,1887,Mobile app development with Flutter and Cloud with AWS,Online,05/14/2023,08-03-2023,"Sidhu, Wali and Sha",BCA,3,Male,skaran@example.net,5658272,9326915,17,64,60,6,33,PPAAAAPP
+Ela Varughese,1888,Salesforce development,Offline,07-06-2023,11-07-2023,Sharma-Shroff,BCA,2,Female,tarini96@example.com,4263841,3254441,47,38,1,23,77,APPPPAAP
+Jivin Bhalla,1889,Mobile app development with Flutter and Cloud with AWS,Online,09/27/2023,02-06-2024,"Vala, Deshpande and Bumb",IT,3,Male,gulatirasha@example.org,36641258,35125002,15,0,39,1,6,PPAAAPPA
+Anvi Rau,1890,Backend-end development,Online,08/22/2023,11/29/2023,Kata-Amble,B.tech,1,Female,dattanirvi@example.net,1844174,5236150691,19,23,63,53,90,PAPAAAAP
+Ryan Sinha,1891,Salesforces admin,Online,09/25/2023,12/16/2023,Dora Inc,B.tech,4,Female,balikiara@example.org,268378145,7649611810,1,40,13,38,72,AAAAPAPA
+Kaira Rajagopalan,1892,Data Science,Offline,07/30/2023,12/29/2023,Kata-Johal,M.tech,1,Female,dbava@example.net,9303636,8433680,70,1,94,33,28,PAPAAAPP
+Tiya Brar,1893,Front-end web development,Online,10-05-2023,01/22/2024,Deshpande Ltd,M.tech,3,Female,nmaharaj@example.net,3607059842,4015753,48,96,7,52,78,APAPPPPA
+Divyansh Subramaniam,1894,Salesforces admin,Offline,02-04-2024,06/13/2024,Acharya-Som,BBA,4,Female,amani69@example.org,5525611,6701641355,62,80,78,0,66,PAAAAAAP
+Riya Balakrishnan,1895,Salesforce development,Online,12-02-2023,02/23/2024,"Hayer, Golla and Bhasin",M.tech,4,Female,prerakshankar@example.org,7378257,3291775746,85,38,20,15,69,PPPAAAAP
+Dharmajan Subramanian,1896,IOT with AI,Offline,07-06-2023,12/13/2023,Aggarwal-Dalal,IT,3,Male,nityasankaran@example.org,5702476434,49222216,55,78,27,2,42,PPAPAAAP
+Tanya Srinivas,1897,IOT with AI,Online,08-12-2023,12-02-2023,Bahri-Shroff,BCA,4,Female,khushiahuja@example.org,3237451798,5296369,27,47,62,88,53,PAAAAPAA
+Divyansh Barman,1898,IOT with AI,Offline,12/25/2023,04-09-2024,Bava-Dhaliwal,IT,3,Female,karnikkiaan@example.org,6170245586,68801430,29,25,41,83,72,AAPPAAAP
+Kimaya Dhawan,1899,Salesforces admin,Offline,05-02-2023,08/27/2023,Ramakrishnan-Hari,BCA,1,Male,fsaraf@example.com,9668373,75909084,35,29,7,78,58,PPPPPPAA
+Advika Chaudhry,1900,Salesforces admin,Online,09/29/2023,12/21/2023,Mander-Dash,B.tech,2,Female,dishanivarma@example.net,3189647064,1443276,95,65,58,81,52,PAAPAAPA
+Kartik Gera,1901,Front-end web development,Online,03-07-2023,06/19/2023,"Ganguly, Bhagat and Raja",BBA,3,Female,saranritvik@example.com,13987202,2777523945,97,67,65,75,48,APAAPPPP
+Nirvaan Bali,1902,AI/ML,Offline,10-09-2023,02-11-2024,Banerjee LLC,IT,3,Male,neysachandran@example.com,3790521203,78352961,87,42,38,77,12,PPAPPAAP
+Akarsh Kohli,1903,Salesforce development,Offline,07/27/2023,01-08-2024,"Batra, Sarma and Sandhu",M.tech,1,Female,ydube@example.net,5601582,98625085,43,84,35,30,40,PPAPPAAA
+Jiya Kalla,1904,Mobile app development with Flutter and Cloud with AWS,Online,01-02-2024,04-09-2024,Devi-Golla,IT,2,Male,daraamani@example.com,1166741,531021,7,55,28,67,82,PAAAPPAA
+Kashvi Chawla,1905,AI/ML,Online,04-03-2023,08/15/2023,Sathe Inc,M.tech,4,Male,psachdev@example.net,28725552,94033228,61,45,54,55,8,APAPAAPP
+Hunar Choudhury,1906,Mobile app development with Flutter and Cloud with AWS,Offline,03-01-2023,06-12-2023,Ghosh Group,BBA,3,Male,ritvik85@example.com,348881,7419292988,65,23,20,30,14,AAAPPPAP
+Yuvraj  Korpal,1907,Salesforces admin,Online,09-02-2023,01-08-2024,"Gaba, Bhalla and Goel",M.tech,4,Male,batrabadal@example.net,4952465,67729921,6,31,76,40,46,APAAPAPA
+Armaan Ramakrishnan,1908,Salesforces admin,Offline,06/19/2023,12-02-2023,Chandran-Koshy,B.tech,1,Male,nayantara90@example.com,3427119,8618975113,36,47,71,72,98,APPPPAPA
+Kimaya Chakraborty,1909,AI/ML,Online,12/22/2023,02/24/2024,"Kari, Yadav and Dixit",MCA,2,Female,bhaminijain@example.org,44327378,49076046,76,6,51,28,58,AAAPPAPA
+Emir Ganguly,1910,Backend-end development,Offline,08-07-2023,12-01-2023,"Saraf, Balasubramanian and Trivedi",M.tech,1,Female,advikadesai@example.org,3178337,66264860,54,86,9,2,20,APAPPAPA
+Suhana Saini,1911,IOT with AI,Offline,08/31/2023,01/20/2024,Sem-Bhalla,BCA,3,Male,arnav50@example.org,9029608030,7261826157,74,71,20,81,88,PPAAPAAA
+Aniruddh Chaudhuri,1912,AI/ML,Online,10-09-2023,02-04-2024,Tata-Arya,BCA,4,Female,aradhya32@example.com,88016086,7716219298,20,80,65,0,35,APAAPPAP
+Shalv Sathe,1913,Data Science,Online,03/28/2023,09-08-2023,Sangha Group,M.tech,1,Female,ehsaan36@example.net,345237,71652349,17,64,3,78,41,PPAPPAAP
+Raunak Bhalla,1914,Salesforces admin,Online,03-10-2023,08/29/2023,"Shetty, Lad and Dixit",M.tech,4,Female,hariaayush@example.net,50459381,6074610,62,15,91,51,51,AAAPPPPA
+Reyansh Gola,1915,Salesforce development,Online,03-01-2023,07-05-2023,Mann and Sons,IT,3,Female,gkrishna@example.com,1818695,3405571060,77,29,99,33,47,AAPPAAAP
+Raunak Kaur,1916,Data Science,Online,09-02-2023,12/29/2023,"Brahmbhatt, Dutta and Kaur",BBA,1,Female,eshanikata@example.net,6299557,434402129,12,1,92,50,0,AAAAAAPA
+Tarini Konda,1917,Salesforce development,Online,05-05-2023,07-10-2023,Garg PLC,IT,3,Male,lakshaymangal@example.com,3581356106,1527548,17,31,83,86,11,APPPAPPA
+Oorja Raval,1918,AI/ML,Online,08/21/2023,11/25/2023,Kar Inc,M.tech,2,Female,wbava@example.net,852065065,2137358061,29,95,75,68,92,PPAPPPPA
+Lagan Ravel,1919,Salesforces admin,Offline,10/15/2023,01/29/2024,"Kurian, Tripathi and Krishnamurthy",BBA,3,Male,zeeshan77@example.org,5274589497,2486698588,58,81,35,93,52,APAPPPAA
+Riaan Dutt,1920,Front-end web development,Online,07/25/2023,11/27/2023,"Das, Tiwari and Krishnan",B.tech,3,Female,charvilal@example.com,6394760,4529364,28,28,10,91,64,PPAAPPAP
+Neysa Dayal,1921,Mobile app development with Flutter and Cloud with AWS,Offline,12/18/2023,05/16/2024,"Toor, Vyas and Shukla",IT,4,Male,divijdara@example.org,475097296,85363564,34,93,50,5,42,PPPPPAAP
+Siya Devan,1922,Mobile app development with Flutter and Cloud with AWS,Online,10/14/2023,03-02-2024,Sankaran LLC,BBA,3,Male,hiran77@example.com,21614160,5517779444,94,68,44,80,25,PAAPPPPA
+Tanya Borah,1923,Salesforce development,Offline,02/25/2023,07/18/2023,"Chaudhary, Sandal and Kade",MCA,1,Female,aarushsarkar@example.net,531670,5541361697,93,9,15,67,21,APAPPAPP
+Pari Sarna,1924,AI/ML,Offline,09-02-2023,12/30/2023,Salvi-Brar,BCA,2,Female,saranromil@example.net,6417453,4106264142,20,65,78,81,87,APPPAAAP
+Jivika Sampath,1925,IOT with AI,Offline,05/14/2023,10/30/2023,Dalal-Handa,BCA,3,Male,stuvan76@example.com,1484807774,5333717539,32,73,28,77,25,PPPPPPPA
+Jivin Apte,1926,Front-end web development,Offline,08-08-2023,12-02-2023,"Gandhi, Seshadri and Contractor",B.tech,4,Female,ghosehrishita@example.com,5454983,3813729,71,98,72,9,46,AAPAAAPP
+Amani Balakrishnan,1927,Backend-end development,Online,06/21/2023,11/21/2023,Chandra-Sarma,B.tech,1,Male,kimayabora@example.org,1640254918,1623049,93,32,14,54,29,PPPAPPPA
+Biju Dube,1928,Salesforces admin,Offline,04/15/2023,08/14/2023,Dugar-Chakraborty,BCA,3,Female,keyasem@example.org,37141270,3679536,42,95,27,19,43,APAPPAPP
+Mannat Kata,1929,Salesforce development,Online,10-08-2023,01/21/2024,Bakshi Inc,BCA,1,Female,eshani25@example.net,8130594,4118389,72,18,4,8,33,APPPAPPA
+Anahita Biswas,1930,Front-end web development,Offline,02-04-2024,04/20/2024,Suresh-Sachdeva,B.tech,3,Female,swamyemir@example.org,3287440885,5203817004,47,82,25,29,96,PAPAAAPP
+Eva Dara,1931,Salesforce development,Offline,01-07-2024,06/17/2024,Bahri LLC,MCA,1,Male,daminichander@example.com,7189040,11424202,20,21,24,74,13,APAAAAAP
+Onkar Date,1932,Mobile app development with Flutter and Cloud with AWS,Online,10-08-2023,01/30/2024,Khalsa-Kumar,BCA,4,Male,uvarghese@example.com,969653,1258717,20,21,22,19,30,PAPAAPPP
+Aradhya Raju,1933,AI/ML,Offline,07-07-2023,11/15/2023,Chowdhury-Grewal,BCA,1,Male,nehmatmall@example.net,3636247,6358524157,76,100,69,91,78,PPPPAAPA
+Piya Gala,1934,Salesforce development,Offline,12/16/2023,05-12-2024,Rege PLC,B.tech,3,Male,adah11@example.org,2663951119,6098681,10,20,39,7,41,PAAAPAAA
+Yakshit Sastry,1935,Data Science,Offline,06-10-2023,11-08-2023,Kumar-Mandal,M.tech,3,Female,srastogi@example.net,8775534956,5973511,91,44,9,81,25,PPPPAAPP
+Diya Soman,1936,Front-end web development,Online,09-03-2023,11-12-2023,Goda-Rama,MCA,4,Female,abasak@example.org,2384375,85551715,18,9,95,35,83,PAPAPAAP
+Riya Wali,1937,Salesforces admin,Online,02-11-2024,07-05-2024,"Chowdhury, Batta and Jain",BBA,4,Male,kothariojas@example.com,6211337,8370833444,56,58,89,68,54,PPAPAAPP
+Shray Sinha,1938,Data Science,Online,11/26/2023,03/31/2024,Ramaswamy LLC,BCA,1,Male,hansh66@example.org,68260795,8580177,57,63,31,55,6,APPAAPPA
+Armaan Sanghvi,1939,Mobile app development with Flutter and Cloud with AWS,Offline,03/21/2023,09-08-2023,Saha-Bhandari,IT,1,Female,gollasaksham@example.com,15362316,71199089,40,22,47,62,81,APAAAPPP
+Tejas Ahuja,1940,Front-end web development,Online,10/25/2023,04/16/2024,Ghosh-Gade,IT,1,Female,divitchowdhury@example.com,28707760,5301203,46,27,65,74,34,APAPPAPP
+Mishti Bahl,1941,Backend-end development,Online,05/31/2023,11/18/2023,Mahajan Ltd,BBA,2,Female,parinaazthaman@example.org,1601366,10650405,16,14,30,4,69,AAPPPPAP
+Lakshit Rajagopalan,1942,Mobile app development with Flutter and Cloud with AWS,Online,05-08-2023,10-03-2023,Sahni and Sons,B.tech,3,Male,darshitbadal@example.org,576696505,517800270,22,55,61,99,81,PPAPPPPP
+Anya Dhawan,1943,Data Science,Online,12/20/2023,03/25/2024,Varghese-Batra,BCA,3,Male,buchjivika@example.com,6908807696,8386878787,50,24,57,58,42,PAPAAPPA
+Ryan Sidhu,1944,IOT with AI,Online,11/30/2023,05/16/2024,"Reddy, Garg and Divan",MCA,4,Female,shamik30@example.org,99592904,4265208,56,71,81,59,70,AAAAAAPP
+Hunar Kuruvilla,1945,Salesforce development,Online,07/13/2023,09/17/2023,Atwal-Bir,M.tech,2,Female,owali@example.com,9343036,57264057,62,74,98,86,93,AAAAPAPP
+Dhruv Bajwa,1946,IOT with AI,Online,12-08-2023,05-08-2024,Golla LLC,MCA,3,Male,biswasgokul@example.com,2812902975,4365690,56,86,39,57,33,APAPPAPA
+Kiaan Kala,1947,Front-end web development,Offline,05/31/2023,09-10-2023,Roy-Sem,BCA,1,Female,mamooty24@example.com,4215654,7034473,89,42,57,98,76,AAPAPAPP
+Anahi Jaggi,1948,AI/ML,Online,07/24/2023,12/26/2023,"Brahmbhatt, Ben and Chowdhury",BBA,4,Male,riaanraman@example.net,7964443690,6408447,40,21,49,27,100,PPPPPAPP
+Siya Upadhyay,1949,Mobile app development with Flutter and Cloud with AWS,Online,04-06-2023,07/25/2023,"Kant, Dhar and Badal",B.tech,2,Male,eva63@example.net,90822061,21226611,91,79,67,18,26,PPAPAAAP
+Anay Kar,1950,Front-end web development,Offline,04/15/2023,07-07-2023,"Sanghvi, Saran and Kalita",IT,1,Female,masterkiara@example.com,9884646,2147947985,12,76,48,35,20,PPPAAAPA
+Samar Badami,1951,Data Science,Offline,01/28/2024,04/15/2024,"Ramesh, Hans and Lala",M.tech,3,Female,nshanker@example.net,365986414,93682823,48,96,67,75,52,PAAPPAAP
+Alia Jain,1952,Salesforce development,Offline,01/19/2024,07-10-2024,"Saha, Yadav and Tiwari",IT,4,Female,atwalmisha@example.org,8789078941,85598281,15,35,56,30,56,PPAAAPAP
+Ivan Mahal,1953,Front-end web development,Offline,05-04-2023,10/23/2023,"Krishnamurthy, Ramesh and Raju",IT,3,Female,bansaltara@example.net,5023181180,43667936,31,17,5,73,44,PAAAAAAP
+Aarav Gade,1954,Salesforces admin,Online,10/22/2023,01-02-2024,Chaudhari-Dass,B.tech,4,Male,zainbumb@example.com,6630940,7937584981,47,46,10,4,23,AAAPPPPP
+Jiya Savant,1955,Mobile app development with Flutter and Cloud with AWS,Online,06/14/2023,08/18/2023,Deep Group,BCA,4,Male,shaansom@example.net,6885206912,2882275736,93,19,21,62,94,APPPPPAA
+Tanya Srivastava,1956,Backend-end development,Online,06/29/2023,09/26/2023,Kohli and Sons,BBA,4,Female,sekhonraunak@example.net,71022816,7633246,37,26,76,100,4,PPAPAPPA
+Kabir Savant,1957,Mobile app development with Flutter and Cloud with AWS,Online,07-08-2023,12-05-2023,Bhattacharyya Group,MCA,4,Male,kabir75@example.net,28788434,6856336,42,70,9,65,36,APPPAAAA
+Pranay Rajagopalan,1958,Salesforce development,Offline,10-08-2023,02-06-2024,Uppal Inc,BBA,2,Male,ravelrohan@example.net,25552309,19893179,24,84,25,16,30,APPAAAPP
+Pihu Dass,1959,Data Science,Offline,12-03-2023,03/19/2024,Sarkar PLC,B.tech,3,Female,jayeshsarin@example.org,3972400,45779094,35,100,90,36,71,APPAAAPP
+Tushar Hayer,1960,AI/ML,Online,01-10-2024,06-02-2024,"Bhakta, Iyer and Mandal",BCA,2,Male,ehsaanbhatt@example.org,6663204,22757324,25,3,1,10,6,PAPPAAPA
+Yasmin Chahal,1961,Front-end web development,Online,09-01-2023,11/25/2023,Kashyap-Shere,BCA,1,Female,chanashray@example.org,8787723566,83690247,17,26,55,83,36,PAAAPPPA
+Yashvi Upadhyay,1962,Backend-end development,Online,09/14/2023,11/18/2023,"Jayaraman, Agrawal and Bajaj",B.tech,4,Female,saanvishroff@example.org,6101808241,9504821204,66,54,57,19,89,PPPAPAAA
+Diya Lata,1963,Backend-end development,Online,10/31/2023,01-05-2024,Kakar LLC,IT,2,Female,malljhanvi@example.com,9341298336,1833089,63,6,27,80,43,PPAAPPAP
+Nishith Chana,1964,IOT with AI,Online,03/26/2023,08/13/2023,Vasa Group,IT,2,Female,gulatijayant@example.com,7744562,13234885,92,9,6,79,31,AAAPAAAP
+Amira Buch,1965,Salesforce development,Online,07-09-2023,09-10-2023,"Shankar, Sheth and Balay",M.tech,2,Male,sairasagar@example.org,99627953,12061183,99,97,93,85,54,APAPAPAP
+Akarsh Bedi,1966,Salesforce development,Online,08-03-2023,11/28/2023,Kothari Ltd,BCA,4,Female,ssuri@example.net,4613289,6579167378,87,45,9,21,15,PAAAAAPA
+Romil Kamdar,1967,IOT with AI,Online,07-10-2023,12-08-2023,"Batta, Golla and Dhaliwal",MCA,2,Female,zara72@example.org,3484058,81946546,35,40,60,6,52,APAPPAPP
+Nitara Garde,1968,Salesforces admin,Online,10-02-2023,03-10-2024,Korpal-Ghose,B.tech,4,Male,nayantara78@example.com,7504754,68779120,41,14,21,9,87,APPAAPPA
+Oorja Ramesh,1969,Front-end web development,Online,03-06-2023,08/28/2023,Suri Group,IT,2,Male,fborde@example.com,7852342256,4922589143,34,71,91,45,30,AAAAPPAA
+Nishith Dass,1970,Salesforce development,Offline,12-09-2023,04/19/2024,Lanka-Subramaniam,M.tech,3,Female,djayaraman@example.net,6745908,3371467,92,49,34,20,31,AAAPPPAP
+Nishith Magar,1971,IOT with AI,Offline,02-02-2024,04/22/2024,Bhatti PLC,BCA,3,Male,jhaindrajit@example.org,42615478,58446852,15,8,97,69,71,PPPAPPAP
+Taran Kata,1972,Mobile app development with Flutter and Cloud with AWS,Offline,07-09-2023,09/19/2023,"Deep, Sarna and Vala",IT,3,Female,kanav67@example.net,7176767697,7666018523,90,34,91,91,84,PPAAPAPP
+Neelofar Chahal,1973,Backend-end development,Online,06-05-2023,08-12-2023,Sridhar-Kala,MCA,2,Female,shamiksetty@example.net,8320361,7353458,88,91,79,89,41,PPAPPAAA
+Hrishita Bandi,1974,IOT with AI,Online,11-05-2023,01/17/2024,"Kashyap, Doshi and Gill",BCA,4,Female,gatik41@example.org,981047,6695946838,82,72,66,68,58,PAPAPPPA
+Aarna Ganesan,1975,Data Science,Online,06-01-2023,11-09-2023,Balay Group,MCA,4,Female,pbedi@example.net,45487924,8385412349,20,18,58,91,59,APPPPAPP
+Aradhya Ratta,1976,Salesforce development,Online,11/17/2023,04-07-2024,Bhasin LLC,B.tech,3,Female,abhandari@example.com,49181168,40257699,33,8,79,9,97,PPPPPAPA
+Piya Bakshi,1977,IOT with AI,Offline,04/15/2023,07/27/2023,Bhat Ltd,B.tech,4,Male,taraonkar@example.com,57021304,3706883,36,87,38,13,70,PAAAAPPA
+Nishith Ganguly,1978,Front-end web development,Offline,01-06-2024,03/16/2024,"Babu, Chada and Shan",MCA,1,Female,abramlalla@example.org,8562889,34568692,86,100,77,35,11,PAAPAAPP
+Chirag Vala,1979,Salesforce development,Offline,08/18/2023,01/29/2024,Char PLC,B.tech,3,Male,sarrafvanya@example.net,6093563,670920,61,77,19,90,11,PPAPPPPA
+Vritika Srinivasan,1980,Backend-end development,Offline,09-01-2023,11/27/2023,Sampath-Contractor,IT,4,Female,seher77@example.org,4202309,7283626,82,59,94,33,21,APAPAPAA
+Manikya Bhavsar,1981,AI/ML,Online,12/14/2023,02/18/2024,"Walla, Loke and D’Alia",MCA,4,Female,ksachdeva@example.com,8915472807,72464662,9,90,2,81,25,PAAAAPAP
+Prerak Sagar,1982,Front-end web development,Online,07/19/2023,10/17/2023,"Hegde, Sagar and Issac",B.tech,2,Male,deolsamiha@example.com,2010878,8423606,13,93,72,85,72,APPPAAPP
+Jayesh Balan,1983,Backend-end development,Offline,06-04-2023,10-11-2023,"Bose, Bath and Gupta",IT,3,Male,yasmin98@example.com,8802892,76114510,85,49,1,33,60,PPPAAPAP
+Kaira Dhaliwal,1984,Front-end web development,Offline,09/13/2023,12-07-2023,"Dey, Saraf and Reddy",BBA,4,Female,navya95@example.com,517790953,5395309740,61,68,52,65,28,PAAAPPAA
+Hansh Sarkar,1985,Salesforce development,Offline,03-05-2023,06/15/2023,Shah-Subramanian,BCA,1,Female,krama@example.com,423278,6314568974,53,70,71,38,14,PAPAPAPP
+Charvi Dugar,1986,AI/ML,Offline,03-04-2023,05/29/2023,Iyengar Group,M.tech,1,Male,ndugar@example.org,14065803,3683471,41,1,57,52,51,AAAPPAPP
+Ritvik Raval,1987,Salesforce development,Offline,10/29/2023,02/15/2024,"Rajagopalan, Din and Zachariah",BCA,1,Female,rbora@example.net,972923509,36512556,2,91,79,98,78,PAPAAAAA
+Zain Kannan,1988,Mobile app development with Flutter and Cloud with AWS,Offline,06/23/2023,08/22/2023,"Kannan, Kari and Jayaraman",BCA,3,Female,ebhandari@example.com,8680158050,5016011,75,16,25,65,14,AAAAAPPA
+Nayantara Lad,1989,Salesforces admin,Online,12/14/2023,06-01-2024,"Doctor, Khanna and Tailor",M.tech,1,Male,dmand@example.com,2775722029,5368734,17,77,32,61,16,AAAAAAAP
+Dhruv Rajagopal,1990,Data Science,Online,10/21/2023,12/28/2023,"Bora, Barad and Bava",BBA,4,Female,jhanvi64@example.org,7782257719,88262164,91,89,49,45,73,APPAPAPA
+Lavanya Buch,1991,Salesforces admin,Online,02-10-2024,07/25/2024,Apte-Gara,BCA,1,Female,raunakkorpal@example.com,5798807,1470521,53,86,79,39,49,PPAAAPPP
+Ela Banerjee,1992,Salesforces admin,Online,03-08-2023,06-10-2023,Kaur-Edwin,BCA,3,Female,warriorsana@example.net,7149111,83600807,19,69,15,14,24,PPPAPAAP
+Fateh Soman,1993,Data Science,Online,09-03-2023,12/17/2023,"Dara, Kapoor and Chander",IT,2,Female,kashvi08@example.net,1677936484,80026111,7,12,51,53,20,AAPPPAAP
+Rasha Doctor,1994,Data Science,Online,01/19/2024,05/20/2024,Shah and Sons,BBA,3,Female,deeprohan@example.org,7020246337,1886108394,47,6,39,45,74,PPPPPAAP
+Tiya Gill,1995,Front-end web development,Offline,09/14/2023,01/22/2024,Samra-Maharaj,B.tech,3,Female,hridaan26@example.com,8153033548,6020120,10,11,2,87,82,PPPPPPPP
+Samarth Bhatnagar,1996,IOT with AI,Online,07-03-2023,12-05-2023,Wable Inc,B.tech,3,Female,kiara11@example.net,4056199,14319062,35,1,23,21,88,PAAAPPAA
+Riya Rau,1997,Front-end web development,Offline,07-01-2023,11-07-2023,"Mall, Sur and Jain",B.tech,1,Male,suradira@example.net,2890990503,6366651816,11,25,94,18,79,AAAAPAPA
+Alisha Dixit,1998,Salesforce development,Offline,08/13/2023,10/27/2023,"Sankar, Dhar and Kumer",M.tech,3,Female,emirshankar@example.org,16155103,28015751,99,50,71,66,66,PAAAAPAP
+Suhana Atwal,1999,AI/ML,Offline,10/17/2023,01/15/2024,Chowdhury-Char,BCA,4,Female,miraya20@example.com,2042038,3631517870,72,35,58,92,82,PPAPPAAP
